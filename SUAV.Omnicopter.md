@@ -64,4 +64,4 @@ Videos:
 
 
 
-# [MOD](../MOD/readme.md)
+# [MOD](https://github.com/bpodchezertsev/MOD/readme.md)

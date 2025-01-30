@@ -26,7 +26,7 @@ Enjoy!
 
 Manned aircrafts.
 
-### [Airplane](Airplane.md#)
+### [Airplane](Airplane.md)
 
 ### [VTOL](VTOL.md)
 
