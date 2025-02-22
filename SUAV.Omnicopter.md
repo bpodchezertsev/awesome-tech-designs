@@ -9,18 +9,36 @@ only 1 additional rotation axis in addition to a normal copter; or limited degre
 A special case of a partial omnicopter is a stable horizontal copter with no tilt during acceleration/deceleration or in windy conditions.
 Of course, full omnicopters can do this too.
 
-Some actual variations of omnicopters (full and partial) you can see in this video:
+Some actual variations of omnicopters (full and partial) you can see in that videos:
 https://www.youtube.com/watch?v=QzHtWbtQiyg
+https://www.youtube.com/watch?v=HV8byYHDS8k
 
 
-# ETH Zurich omnicopter
+# ETH Zurich Omnicopters
 
-Top: First ever flying omnicopter.
-Top: First ever omnicopter in open-source.
+Top: The most prolific and active group of omnicopter developers.
+
+## ETH Avero Omnicopter
+
+Status: Prototyping
+
+Project highlights use of fixed impellers with thrust-vector control by moving the exhaust pipes.
+
+Site: https://avero.ethz.ch/
+
+Video: https://www.youtube.com/watch?v=9URnHWqpSHI
+
+
+## ETH Omnicopter-1
+
+Status: Open-source
 
 Author: Dario Brescianini
 
-Status: Open-source
+Project highlights use of 8 fixed pitch propellers mounted on a cubic frame.
+
+Top: First ever flying omnicopter.
+Top: First ever omnicopter in open-source.
 
 Specs: https://docs.px4.io/main/en/frames_multicopter/omnicopter.html
 
@@ -29,8 +47,11 @@ Videos:
 - https://www.youtube.com/watch?v=sIi80LMLJSY
 
 
+## ETH Omnicopter-2
 
-# ETH Zurich Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection
+Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection
+
+Project highlights use of thrust-vectored ducted funs.
 
 Status: Prototyping
 
@@ -48,7 +69,7 @@ Video: https://www.youtube.com/watch?v=UR1KxYMujtQ
 
 
 
-# Lynchpin omnicopter
+# Lynchpin Omnicopter
 
 Project highlights the possibility of a modular omnicopter.
 
@@ -64,4 +85,10 @@ Videos:
 
 
 
-# [MOD](https://github.com/bpodchezertsev/MOD/readme.md)
+# MOD Omnicopter
+
+My omnicopters family project.
+
+Project highlights the wide applicability and multiple configurations of omnicopter systems.
+
+Site: https://github.com/bpodchezertsev/MOD

@@ -38,3 +38,36 @@ Videos: https://www.youtube.com/watch?v=8fS9PFQEPbo&list=PLiuUQ9asub3SMyogFLHvHR
 
 Latest video: https://www.youtube.com/watch?v=8fS9PFQEPbo 2025.01.14
 
+
+
+# Hermeus
+
+Project goal: Accelerate air travel by delivering hypersonic aircraft.
+
+Site: https://www.hermeus.com
+
+Wikipedia: https://en.wikipedia.org/wiki/Hermeus
+
+News: https://www.hermeus.com/news
+
+Videos: https://www.youtube.com/@Hermeus
+
+
+## Chimera Engine
+
+Project highlights modifying the existing Pratt & Whitney F100 engine to support the transition to a ramjet.
+
+Status: Testing the precooling system.
+
+Last news: https://www.hermeus.com/press-release-heat-online last updated 2025-01-08
+
+Last video: https://www.youtube.com/watch?v=BfelfgLTSZk last updated 2025-01-08
+
+
+## Quarterhorse MK 1
+
+Status: Quarterhorse MK 1 aircraft: Ground tests completed.
+
+Last news: https://www.hermeus.com/press-release-mk-1-ground-testing-complete last updated 2024-12-17
+
+Last video: https://www.youtube.com/watch?v=09ts_LL9Gwk last updated 2024-12-17

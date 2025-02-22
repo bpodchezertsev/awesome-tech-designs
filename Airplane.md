@@ -7,6 +7,7 @@ Change my mind.
 
 ps. Ok, ok, I'll put the references to the Icon A5 here https://www.iconaircraft.com/a5/ https://en.wikipedia.org/wiki/ICON_A5
 
+
 # Valkyrie
 
 Canard pusher airplane.
@@ -87,7 +88,6 @@ Prototyping of a blended wing body airliner.
 
 Status: Cancelled
 
-Further development is possible within the Airbus ZEROe project
 Further development is possible within the Airbus ZEROe project: https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe
 
 Wikipedia: https://en.wikipedia.org/wiki/Airbus_MAVERIC

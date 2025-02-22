@@ -75,15 +75,16 @@ SUAV = Small Unmanned Aerial Vehicle.
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500L](Airplane#otto-celera-500l)
 - Last built prototype of lift-fan aircraft. [Project Zero](VTOL.md#project-zero)
 
-### Top:SUAV
+## SUAV:Top
+- The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](SUAV.Omnicopter.md#eth-zurich-omnicopters)
 - Best ever VTOL transforming wing design. [Pterodynamics](SUAV.VTOL.md#pterodynamics)
 - Best ever stunt quadcopter [Stingray 500](SUAV.VariablePitchCopter.md#stingray-500)
 - The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.VariablePitchCopter.md#wolfgang-sieberts-variable-pitch-copters)
-- First ever flying omnicopter. [ETH Zurich omnicopter](SUAV.Omnicopter.md#eth-zurich-omnicopter)
-- First ever horizontal omnicopter. [EAMS Lab Omnicopter](SUAV.Omnicopter.md#eth-zurich-omnicopter)
+- First ever flying omnicopter. [ETH Zurich omnicopter](SUAV.Omnicopter.md#eth-omnicopter-1)
+- First ever horizontal omnicopter. [EAMS Lab Omnicopter](SUAV.Omnicopter.md#eth-omnicopter-1)
 - First ever omnicopter in open-source. [ETH Zurich omnicopter](SUAV.Omnicopter.md#eams-lab-omnicopter)
 
-## Top loss:SUAV
+## SUAV:Top loss
 - Last stunt quadcopter that has ever been on the market. [Stingray 500](SUAV.VariablePitchCopter.md#stingray-500)
 
 ---

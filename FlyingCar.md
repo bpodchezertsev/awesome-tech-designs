@@ -5,19 +5,21 @@ A flying car is an aircraft that, when folded, can move independently on regular
 
 # Samson Sky Switchblade
 
-Airlane
+Airplane
 
 Site: https://www.samsonsky.com/
 
-Status: Pre-order is open.
+Prototypes built: 1
 
-News: https://www.samsonsky.com/latest-updates/ last updated 2024.11.30
+Status: Pre-order is open.
 
 Certification: Sold as a kit without certification.
 
+News: https://www.samsonsky.com/latest-updates/ last updated 2024.11.30
+
 Videos: https://www.youtube.com/@SamsonSkySwitchblade/videos
 
-Latest flight video: https://www.youtube.com/watch?v=R3SpMa6k8Kk
+Video of the only flight: https://www.youtube.com/watch?v=R3SpMa6k8Kk
 
 
 

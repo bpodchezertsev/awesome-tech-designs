@@ -63,7 +63,7 @@ Videos: https://www.youtube.com/@verticalaerospace2239/videos last updated 2025.
 
 # Joby
 
-Quad tilt-rotor.
+6 engine tilt-rotor.
 
 Hydrogen-fuelled eVTOL with long range abilities.
 
