@@ -89,8 +89,6 @@ SUAV = Small Unmanned Aerial Vehicle.
 
 ---
 
-Any questions?
-
-My contacts: https://www.linkedin.com/in/boris-podchezertsev-0144a66/
+My LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 
