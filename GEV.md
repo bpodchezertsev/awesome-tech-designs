@@ -9,6 +9,9 @@ Wikipedia: https://en.wikipedia.org/wiki/Ground-effect_vehicle
 Classic GEV designs are plagued with problems. Something new in design is needed to avoid these problems.
 Will anyone win this design challenge?
 
+Note: This list does not include small GEVs.
+
+
 
 # Airfish-8
 
