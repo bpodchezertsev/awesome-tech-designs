@@ -60,17 +60,17 @@ SUAV = Small Unmanned Aerial Vehicle.
 # Tops list
 
 ## Top
-- The largest WIG in trial operation. [Airfish-8](WIG#airfish-8)
-- The largest WIG undergoing sea trials. [Viceroy](WIG#viceroy)
-- The largest eWIG undergoing sea trials. [Viceroy](WIG#viceroy)
+- The largest WIG in trial operation. [Airfish-8](WIG.md#airfish-8)
+- The largest WIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
+- The largest eWIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
 
 ## Top claim
-- First ever WIG in development, allows to long flights as a plane. [Liberty Lifter](WIG#liberty-lifter)
-- Largest ever WIG in development by wingspan. [Liberty Lifter](WIG#liberty-lifter)
-- Largest modern WIG in development. [Liberty Lifter](WIG#liberty-lifter)
+- First ever WIG in development, allows to long flights as a plane. [Liberty Lifter](WIG.md#liberty-lifter)
+- Largest ever WIG in development by wingspan. [Liberty Lifter](WIG.md#liberty-lifter)
+- Largest modern WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
 
 ## Top loss
-- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500L](Airplane#otto-celera-500l)
+- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500L](Airplane.md#otto-celera-500l)
 - Last built prototype of lift-fan aircraft. [Project Zero](VTOL.md#project-zero)
 
 ## SUAV:Top
