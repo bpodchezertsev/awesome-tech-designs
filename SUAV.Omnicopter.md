@@ -13,6 +13,12 @@ Some actual variations of omnicopters (full and partial) you can see in that vid
 https://www.youtube.com/watch?v=QzHtWbtQiyg
 https://www.youtube.com/watch?v=HV8byYHDS8k
 
+Video of a game, where you control full-symmetric 6 degrees of freedom vehicle with first person view:
+https://www.youtube.com/watch?v=f81U-EXSS3g
+Free version of this game is available: https://store.steampowered.com/app/450220/Overload_Playable_Teaser_30/
+
+List of games with 6 degrees of freedom: https://en.wikipedia.org/wiki/Category:Video_games_with_6_degrees_of_freedom
+
 
 # ETH Zurich Omnicopters
 

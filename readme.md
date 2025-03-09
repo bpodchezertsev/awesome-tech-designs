@@ -39,7 +39,7 @@ Manned aircrafts.
 I don't see there safe and well-designed manned copter. Mainly all of these stuff are manned versions of SUAV copters.
 Change my mind.
 
-## [Ground-effect vehicle](GEV.md)
+## [Ground-effect vehicle](WIG)
 
 ## [SSTO](SSTO.md)
 
@@ -60,16 +60,14 @@ SUAV = Small Unmanned Aerial Vehicle.
 # Tops list
 
 ## Top
-- Largest GEV in trial operation. [Airfish-8](GEV.md#airfish-8)
-
-## Top building full scale prototype
-- The largest full-scale GEV prototype to be built. [Viceroy](GEV.md#viceroy)
-- The largest full-scale eGEV prototype to be built. [Viceroy](GEV.md#viceroy)
+- The largest WIG in trial operation. [Airfish-8](WIG#airfish-8)
+- The largest WIG undergoing sea trials. [Viceroy](WIG#viceroy)
+- The largest eWIG undergoing sea trials. [Viceroy](WIG#viceroy)
 
 ## Top claim
-- First ever GEV in development, allows to long flights as a plane. [Liberty Lifter](GEV.md#liberty-lifter)
-- Largest ever GEV in development by wingspan. [Liberty Lifter](GEV.md#liberty-lifter)
-- Largest modern GEV in development. [Liberty Lifter](GEV.md#liberty-lifter)
+- First ever WIG in development, allows to long flights as a plane. [Liberty Lifter](WIG#liberty-lifter)
+- Largest ever WIG in development by wingspan. [Liberty Lifter](WIG#liberty-lifter)
+- Largest modern WIG in development. [Liberty Lifter](WIG#liberty-lifter)
 
 ## Top loss
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500L](Airplane#otto-celera-500l)
