@@ -11,7 +11,7 @@ According to Wikipedia, The International Maritime Organization recognizes three
 - B-Type WIG: A craft which is certified to temporarily increase its altitude to a limited height outside the influence of ground effect but not exceeding 150 m (490 ft) above the surface; and
 - C-Type WIG: A craft which is certified for operation outside ground effect and exceeding 150 m (490 ft) above the surface.
 
-- *Source: https://www.imo.org/en/OurWork/Safety/Pages/WIG.aspx*
+*Source: https://www.imo.org/en/OurWork/Safety/Pages/WIG.aspx*
 
 Classic WIG designs are plagued with problems. Something new in design is needed to avoid these problems.
 Will anyone win this design challenge?
