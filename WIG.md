@@ -46,7 +46,7 @@ eWIG with hydrofoil.
 
 Project highlights usage of a hydrofoil, a high aspect ratio wing, and multiple engines.
 
-Possible WIG type is unknown, but I predict at least B-Type WIG and possible C-Type WIG.
+Possible WIG type is unknown, but I think it could be a B-type WIG.
 
 Numbers built: 1
 
