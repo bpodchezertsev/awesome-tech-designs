@@ -64,6 +64,16 @@ Status: Prototyping
 Video: https://www.youtube.com/watch?v=-RCQmaKvsL0
 
 
+# HAGAMOSphere
+
+Project highlights a coaxial omnicopter with six variable-pitch rotors.
+
+Site: https://hagamosphere.com/
+
+Status: Prototyping
+
+Video: no real flight videos.
+
 
 # EAMS Lab Omnicopter
 
