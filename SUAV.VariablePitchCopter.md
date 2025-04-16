@@ -21,12 +21,11 @@ Status: Production cancelled.
 Top: Best ever stunt quadcopter.
 Top loss: Last stunt quadcopter that has ever been on the market.
 
-Note: I know there were clones of this project on the market, but they had problems.
-
-
 Video: https://www.youtube.com/watch?v=TnGhEInTXYc&t=240
 
+Note: I know there were clones of this project on the market.
 
+For example: https://www.wl-toys.com/Wltoys-V383-500-Electric-3d-Inverted-Flight-6-Axis-Gyro-2-4ghz-6ch-Rc-Quadcopter-Wltoys-V383-RC-Quadcopter-Drone-Spare-Parts-Replacement-Accessories-18565.html
 
 ## MantaRay
 
@@ -48,8 +47,3 @@ RCGroups: https://www.rcgroups.com/forums/member.php?u=725256
 
 Videos: https://www.youtube.com/@helidrones/videos
 
-
-
-# Unknown Ukrainian Swashplates Bicopter
-
-TODO
