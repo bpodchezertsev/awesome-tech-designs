@@ -20,6 +20,19 @@ Free version of this game is available: https://store.steampowered.com/app/45022
 List of games with 6 degrees of freedom: https://en.wikipedia.org/wiki/Category:Video_games_with_6_degrees_of_freedom
 
 
+# OmniQuad
+
+Also: Haptic-OmniQuad
+
+Status: Tethered flight tests.
+
+Project highlights partial omnicopter with relative to standard quadcopter design.
+
+Site: https://tilties2.github.io/omniquad-website/ https://github.com/tilties2/PX4-OmniQuad
+
+Video: https://www.youtube.com/watch?v=nwnB2agqT-0
+
+
 # ETH Zurich Omnicopters
 
 Top: The most prolific and active group of omnicopter developers.
