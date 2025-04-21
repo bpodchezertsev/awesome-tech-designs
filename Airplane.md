@@ -88,7 +88,12 @@ Prototyping of a blended wing body airliner.
 
 Status: Cancelled
 
-Further development is possible within the Airbus ZEROe project: https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe
+Further development continued within the Airbus ZEROe project
+https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe
+https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe-our-hydrogen-powered-aircraft
+
+But later the entire Airbus ZEROe project was cancelled
+https://www.wsj.com/business/airlines/airbus-promised-a-green-aircraft-that-bet-is-now-unraveling-bc1907bb
 
 Wikipedia: https://en.wikipedia.org/wiki/Airbus_MAVERIC
 
