@@ -1,7 +1,7 @@
 Engine
 ======
 
-# Detonation engine
+## Detonation engine
 
 Theoretically more efficient engine than conventional.
 
@@ -11,7 +11,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Rotating_detonation_engine>
 
 
 
-# Aerospike engine
+## Aerospike engine
 
 Aerodynamically effective engine across a wide range of altitudes.
 
@@ -21,10 +21,11 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aerospike_engine>
 
 
 
-# SABRE
+## SABRE
 
 Hybrid air-breathing rocket engine.
 
 Status: Cancelled
 
 Wikipedia: <https://en.wikipedia.org/wiki/SABRE_(rocket_engine)>
+
