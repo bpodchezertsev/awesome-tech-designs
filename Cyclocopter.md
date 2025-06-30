@@ -46,7 +46,7 @@ Redundancy: allow 1 rotor failure
 
 ### Cyclotech BlackBird Demonstrator
 
-Full-electric horizontal omnicopter.
+Full-electric cyclocopter. Also horizontal omnicopter.
 
 Scaled prototype of [Cyclotech CruiseUp](#cyclotech-cruiseup)
 
@@ -73,7 +73,7 @@ Video of first flight: <https://www.youtube.com/watch?v=8OUyR9pCiVs> (2025-03-27
 
 ### Cyclotech Technology Demonstrator
 
-eCopter
+Full-electric cyclocopter.
 
 Project highlights thrust-vectoring design similar to [JetQuad](Jetcopter.md#jetquad) or <https://en.wikipedia.org/wiki/Bell_X-22>.
 
