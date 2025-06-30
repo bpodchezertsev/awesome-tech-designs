@@ -60,6 +60,8 @@ SUAV
   - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 - [Cyclocopter](Cyclocopter.md)
   - [Astria](Cyclocopter.md#astria)
+- [Other](SUAV.Copter.md#other)
+  - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
 
 Space
   - [Reusable second stage](Space.md#reusable-second-stage)
