@@ -23,6 +23,7 @@ Status: Flight tests.
 Site: <https://fusionflight.com/jetquad/>
 
 First flight video <https://www.youtube.com/watch?v=2yTcCUOQPzE> (2019-08-19)
+
 Last flight video <https://www.youtube.com/watch?v=HAPsVligQsk> (2024-10-10)
 
 See also: [Cyclotech Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator), [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)

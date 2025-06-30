@@ -4,6 +4,7 @@
 ## [Omnicopter](Omnicopter.md#suav)
 - [Astria](Omnicopter.md#astria)
 - [Voliro T](Omnicopter.md#voliro-t)
+- [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 - [OmniQuad](Omnicopter.md#omniquad)
 - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
 - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
