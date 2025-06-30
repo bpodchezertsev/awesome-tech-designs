@@ -33,10 +33,11 @@ See unmanned scaled prototype: [Cyclotech BlackBird Demonstrator](#cyclotech-bla
 
 Status: Designing
 
-Range: 100km
-Payload: 200kg
-Max speed: 150km/h
-Redundancy: allow 1 rotor failure
+Specifications:
+- Range: 100km
+- Payload: 200kg
+- Max speed: 150km/h
+- Redundancy: allow 1 rotor failure
 
 
 
