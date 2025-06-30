@@ -1,6 +1,8 @@
 VTOL
 ====
 
+_Manned VTOL list. Alphabetically ordered_
+
 VTOL = Vertical Take Off and Landing.
 
 <https://en.wikipedia.org/wiki/VTOL>
@@ -14,106 +16,139 @@ so their construction becomes much more difficult.
 
 
 
-## Manned
+### Comparison
+| Reference                         | Crew | Passengers | Weight | Length | Wingspan | Energy source    | Range       | Cruise speed |
+|-----------------------------------|------|------------|--------|--------|----------|------------------|-------------|--------------|
+| [Alia A250 VTOL](#alia-a250-vtol) | 1    | 5          |        |        | 15.2m    | battery          |             | 283km/h      |
+| [Joby S4](#joby-s4)               | 1    | 4          |        |        |          | battery/hydrogen | 161km/800km | 322km/h      |
+| [Midnight](#midnight)             | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
+| [VX4](#vx4)                       | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
+| [Voloregion](#voloregion)         | 1    | 4          |        |        |          | battery          | 100km       | 180km/h      |
 
 
-### Alia
+
+### Alia A250 VTOL
 
 Fixed engine 4/1 eVTOL.
 
-In lieu of other VTOLs, Beta comes with two different configurations in a similar frame: eVTOL and ePlane.
+For CTOL in almost the same frame see [Alia CX300 CTOL](Airplane.Other.md#alia-cx300-ctol) 
 
-Status: Operated in ePlane configuration.
+Status: Undergoing certification.
 
-Certification: Currently FAA certification approved for ePlane configuration.
+Conventional takeoff & landing all-electric aircraft.
 
 Site: <https://www.beta.team/aircraft/>
 
-Wikipedia: <https://en.wikipedia.org/wiki/Beta_Technologies>
+Wikipedia: <https://en.wikipedia.org/wiki/Beta_Technologies#Products>
 
-News: <https://www.beta.team/stories/> last updated 2025-04-29
+Company: [Beta Technologies](Company.md#beta-technologies)
 
-Videos: <https://www.youtube.com/@beta.technologies/videos> last updated 2025-04-27
+- Wingspan: 15.2m
+- Cargo capacity without passengers: 5.7m³
+- Passenger capacity without cargo: 5
+- Charge time (from reserves to 98%): <1 hr
+- Landing Locations: Vertiports, Airports
+- Crew: 1 (training: 2)
+- Max Speed: 283km/h
+- Max demonstrated range: unknown
+- Propulsion: Four V600A Electric Lift Motors One H500A Electric Motor
+- Propeller: Four 2-Blade Lift Propellers One 5-Blade Fixed Pitch Propeller
 
-Linkedin: <https://www.linkedin.com/company/beta-air-llc/>
-
-Facebook: <https://www.facebook.com/BetaElectricAviation/>
-
-Instagram: <https://www.instagram.com/beta.aircraft/>
 
 
+### Joby S4
 
-### Joby
-
-6 engine tiltrotor.
+eVTOL full tiltrotor 6/6
 
 Hydrogen-fuelled eVTOL with long range abilities.
 
-Project highlights the modern vision of VTOL quadcopter-like projects of 60s. (For example: <https://en.wikipedia.org/wiki/Bell_X-22>).
+Projects with comparable design (multi tiltrotor): <https://en.wikipedia.org/wiki/Bell_X-22>.
 
-Prototypes built: 2
+Built: 2
 
-Status: Plans to carry first passengers in late 2025 or early 2026
+Status: Trial operation
 
-Certification: FAA certification in progress.
+Plans: to carry first passengers in late 2025 or early 2026
+
+Certification: expects full certification in 2025
+
+Company: [Joby Aviation](Company.md#joby-aviation)
 
 Site: <https://www.jobyaviation.com/>
 
-Wikipedia: <https://en.wikipedia.org/wiki/Joby_Aviation>
+Specifications:
+- Crew: 1
+- Passenger capacity: 4
+- Cruise speed: 322km/h
+- Range: 800km hydrogen, 161km battery
+- Empty weight: 1950kg
+- Maximum payload: 453kg
+- Maximum takeoff weight: 2404kg
+- Propellers: 6 tilt-prop, 4 propellers tilt vertically including the entire electric motor nacelle, 2 propellers tilt vertically with a linkage mechanism
+- Electric motors: 6 high performance dual wound electric motors
+- Noise Footprint: 45dBA in cruise
+- Peak Power: 236kW per electric motor
+- Weight of Dual-Wound Motor Plus Inverter: 28kg
+- Peak Torque: 1800 N*m (newton-meters)
+- Continuous Torque: 1380 N*m
+- Cell-Level Specific Energy: 288 W*h/kg (watt-hour per kilogram)
+- Flight Cycles: 10000+
+- Pack-Level Specific Energy: 235 W*h/kg
+- Fuselage: Carbon fiber composite
 
-News: <https://www.jobyaviation.com/news/> last updated 2025-04-29
-
-Videos: <https://www.youtube.com/@JobyAviation/videos> last updated 2024-12-31
-
-Linkedin: <https://www.linkedin.com/company/jobyaviation/>
-
-Facebook: <https://www.facebook.com/JobyAviation>
-
-Twitter: <https://twitter.com/jobyaviation>
-
-Instagram: <https://www.instagram.com/jobyaviation/>
 
 
+### Lilium
 
-### Archer
+Tilt-wing
 
-eVTOL
+Project highlights a tilted ducted fun array in a pusher configuration.
+Since the engines are integrated into the wing, it looks like a partially tilted wing.
 
-Design with frontal tilting rotors only.
+Status: Cancelled
+
+Company: [Lilium](Company.md#lilium)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Lilium_Jet>
+
+Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
+
+
+
+
+### Midnight
+
+eVTOL partial tilt-rotor 3/6
+
+Project highlights design with frontal tilting rotors only.
 
 Status: Piloted test flights
 
-Certification: FAA certifies battery safety.
+Certification: FAA certified
 
-Site: <https://archer.com/>
+Site: <https://archer.com/aircraft>
 
-News: <https://news.archer.com/> last updated 2025-04-28
+Company: [Archer](Company.md#archer)
 
-Videos: <https://www.youtube.com/@ArcherAviation/videos> last updated  2025-04-25
-
-
-
-### VX4
-
-eVTOL
-
-Design with frontal tilting rotors only.
-
-Status: Piloted test flights
-
-Site: <https://vertical-aerospace.com/>
-
-News: <https://vertical-aerospace.com/news/> last updated 2025-03-31
-
-Videos: <https://www.youtube.com/@verticalaerospace/videos> last updated 2025-04-29
+Specifications:
+- Crew: 1
+- Passenger capacity: 4
+- Cruise speed: 241km/h
+- Range: 161km
+- Cruise altitude 610m
+- Maximum payload: 456kg+
+- Maximum Takeoff Weight: 3175kg
+- Noise level (cruise): 45dB
+- Noise level (vertical takeoff and landing): 65dB
+- Charging time: ~12minutes for 32km flight 
 
 
 
 ### Valor
 
-Tilt-rotor.
+Tilt-rotor
 
-Project highlights engines fixed in place. (Instead of regular tiltrotor aircraft).
+Project highlights engines fixed in place. (Instead of regular tilt-rotor aircraft).
 
 Site: <https://www.bellflight.com/products/bell-v-280>
 
@@ -121,122 +156,79 @@ News: <https://news.bellflight.com/en-US/tags/bell-v-280/> last updated 2024-12-
 
 Wikipedia: <https://en.wikipedia.org/wiki/Bell_V-280_Valor>
 
+Specifications:
+- Crew: 4
+- Capacity: 14 troops
+- Length: 15.4m
+- Width: 24.93m
+- Height: 7m
+- Empty weight: 8200kg
+- Max takeoff weight: 14000kg
+- Powerplant: 2 × General Electric T64 turboshaft
+- Main rotor diameter: 2 × 35 ft 0 in (10.7 m)
+- Cruise speed: 520 km/h
+- Combat range: 930–1480km
+- Ferry range: 3900km
+- Service ceiling: 1800m
+- Disk loading: 78kg/m2
 
 
-### Volocopter
 
-Site: <https://www.volocopter.com>
+### Voloregion
 
-Videos: <https://www.youtube.com/@Volocopter/videos>
+Tandem-wing eVTOL.
 
-Linkedin: <https://www.linkedin.com/company/volocopter/>
-
-Facebook: <https://www.facebook.com/volocopter.official>
-
-Instagram: <https://www.instagram.com/volocopter_official>
-
-Twitter: <https://twitter.com/volocopter>
-
-
-#### Voloregion
+Project highlights using of tandem wing and propulsion fans.
 
 Site: https://www.volocopter.com/en/solutions/voloregion
+
+Company: [Volocopter](Company.md#volocopter)
+
+Specifications:
+- Crew: 1
+- Passenger capacity: 4
+- Operational range: 100km
+- Cruise speed: 180km/h
+- Number of hover rotors: 6
+- Number of propulsion fans: 2
 
 First flight video: <https://www.youtube.com/watch?v=9OZhV8WRgPc>
 
 
 
-### Lilium
+### VX4
 
-Tiltwing
+eVTOL partial tilt-rotor 3/6
 
-Project highlights a tilted ducted fun array in a pusher configuration.
-Since the engines are integrated into the wing, it looks like a partially tilted wing.
+Design with frontal tilting rotors only.
 
-Status: Inactive
+Status: Piloted test flights
 
-Site: <https://lilium.com/>
+Site: <https://vertical-aerospace.com/meet-the-vx4/>
 
-News: <https://lilium.com/news> last updated 2024-12-24.
+Company: [Vertical Aerospace](Company.md#vertical-aerospace)
 
-Videos: <https://www.youtube.com/@LiliumAviation/videos> last updated 2024-20-07
-
-Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
-
-
-
-## UAV
-
-
-### Pterodynamics
-
-[SUAV:Top](readme.md#suavtop): Best VTOL transforming wing design.
-
-Site: <https://pterodynamics.com/>
-
-Author: Val Petrov <https://www.linkedin.com/in/val-petrov-654360/>
-
-Patent: <https://patents.google.com/patent/US10252798B2/en>
-
-Videos: <https://www.youtube.com/@PteroDynamics/videos>
+Specifications:
+- Crew: 1
+- Passenger capacity: 4
+- Cruise speed: 241km/h
+- Range: 161km
+- Noise level (cruise): <50dB
 
 
 
-### ARES
-
-ARES = Aerial Reconfigurable Embedded System
-
-Tiltrotor
-
-Project highlights modern vision of a modular system based on tiltrotor design.
-
-Site: <https://piasecki.com/projects/ares-aerial-reconfigurable-embedded-system/2717/>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Aerial_Reconfigurable_Embedded_System>
-
-Single one flight video: <https://www.youtube.com/watch?v=C4d49DxgQoM> (2024-09-10)
-
-Last news: <https://piasecki.com/news/ares-tilt-duct-vtol-hovers/3442/> (2024-09-12)
-
-
-
-### Aurora SPRINT X-plane
-
-Lift-fan.
-
-Status: Prototyping.
-
-Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
-
-News: <https://www.aurora.aero/news/>
-
-Latest news:
-- <https://www.aurora.aero/2025/04/29/high-speed-vertical-lift-concept-completes-wind-tunnel-testing/> (2025-04-29)
-- <https://www.aurora.aero/2024/10/08/a-revolutionary-solution-for-contested-air-transport/> (2024-10-08)
-
-
-DARPA: <https://www.darpa.mil/research/programs/speed-runway-independent-technologies>
-
-Note: Possible cancellation reason is unstability of large scale models.
-If instability of large scale models is a possible reason for cancellation, we will never see lift-fan aircraft again.
-
-
-### Project Zero
-
-Lift-fan.
-
-Status: Cancelled.
-
-[Top loss](readme.md#top-loss): Last built scaled prototype of lift-fan aircraft.
-
-Wikipedia: <https://en.wikipedia.org/wiki/AgustaWestland_Project_Zero>
-
-Note: Possible cancellation reason is unstability of large scale models.
-If instability of large scale models is a possible reason for cancellation, we will never see lift-fan aircraft again.
-
-
-
+---
 ## Lists
 
 - eVTOL(&SUAV): <https://evtol.news/aircraft>
+
+
+
+---
+- [UAV](UAV.VTOL.md)
+
+
+
+---
+[Back to aircraft](Aircraft.md)
 

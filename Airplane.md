@@ -1,94 +1,35 @@
 Airplane
 ========
 
-I don't see any airplanes actively being developed today (or in the recent past) with an interesting design.
-For example, many cool canards/tandems designed by Burt Rutan (or clones) are still available on the market, but there are no other cool designs in development today.
-Change my mind.
+## [Blended Wing Body](Airplane.BlendedWingBody.md)
+- In development:
+  - [JetZero Demonstrator](Airplane.BlendedWingBody.md#jetzero-demonstrator)
+  - [Natilus Kona](Airplane.BlendedWingBody.md#natilus-kona)
+- In future development:
+  - [JetZero Commercial](Airplane.BlendedWingBody.md#jetzero-commercial)
+  - [Natilus Horizon](Airplane.BlendedWingBody.md#natilus-horizon)
+- Cancelled:
+  - [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
+  - [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
 
-ps. Ok, ok, I'll put the references to the Icon A5 here <https://www.iconaircraft.com/a5/> <https://en.wikipedia.org/wiki/ICON_A5>
+## [Amphibious airplane](Airplane.Amphibious.md)
+- In service:
+  - [Icon A5](Airplane.Amphibious.md#icon-a5)
+- Inactive:
+  - [Equator P2 XCURSION](Airplane.Amphibious.md#equator-p2-xcursion)
 
+## [Other](Airplane.Other.md)
+- In service:
+  - [Alia CX300 CTOL](Airplane.Other.md#alia-cx300-ctol)
+- Unknown: 
+  - [Valkyrie](Airplane.Other.md#valkyrie)
+- In development:
+  - [Boeing X-66](Airplane.Other.md#boeing-x-66)
+  - [Phantom 3500](Airplane.Other.md#phantom-3500)
+- Dismissed:
+  - [Celera 500](Airplane.Other.md#celera-500)
+- Concept study:
+  - [Flying V](Airplane.Other.md#flying-v)
 
-
-# [Blended Wing Body](Airplane.BlendedWingBody.md)
-- [JetZero](Airplane.BlendedWingBody.md#jetzero)
-- [Natilus](Airplane.BlendedWingBody.md#natilus)
-- [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
-- [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
-
-
-
-## Valkyrie
-
-Canard pusher airplane.
-
-Status: Pre-production
-
-Certification: Certified
-
-Numbers built: 2+
-
-Site: <https://www.centauri-aircraft.com/the-valkyrie-aircraft/>
-
-News: <https://www.centauri-aircraft.com/the-story/>
-
-Linkedin: <https://www.linkedin.com/company/centauri-aircraft/>
-
-Facebook: <https://www.facebook.com/centauriaircraft>
-
-Instagram: <https://www.instagram.com/centauri_aircraft/>
-
-
-
-## Boeing X-66
-
-Prototyping of the truss-braced wing <https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing>
-
-Project highlights an extra-long and thin wing design stabilized by diagonal bracing struts.
-
-Status: Full-scale prototype in development.
-
-The demonstrator is scheduled to fly in 2028.
-
-Also news: <https://theaircurrent.com/aircraft-development/boeing-is-shifting-engineers-away-from-x-66a-development/>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
-
-
-
-## Otto Celera 500L
-
-Project highlights vision of an optimized airplane.
-
-[Top claim](readme.md#top-claim): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
-
-Prototypes built: 1
-
-Status: Unknown
-
-Site: <https://www.ottoaviation.com/>
-
-News: <https://www.ottoaviation.com/news> last update 2024-03-25
-
-Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
-
-Linkedin: <https://www.linkedin.com/company/otto-aviation/>
-
-Instagram: <https://www.instagram.com/otto.aviation>
-
-
-
-## Flying V
-
-Project highlights designing an airliner of an unconventional schema.
-
-Status: Concept study.
-
-Site: <https://www.tudelft.nl/en/ae/flying-v>
-
-News: <https://www.tudelft.nl/en/ae/flying-v/publications> last update 2024
-
-Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
-
-Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
-
-
+---
+[Back to aircraft](Aircraft.md)

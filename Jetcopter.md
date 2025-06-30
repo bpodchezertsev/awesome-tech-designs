@@ -1,5 +1,5 @@
-SUAV:Jetcopter
-==============
+Jetcopter
+=========
 
 Jetcopter is a copter propelled by jet of air ejected from the nozzles outside the craft.
 Unlike a regular copters that uses an external propellers (or other propulsion system) in the air around copter,
@@ -14,26 +14,44 @@ before expelling it through a nozzles outside the craft.
 
 ### JetQuad
 
+Company: [Fusion Flight](Company.md#fusion-flight)
+
 Projects highlights non-central symmetric quadcopter-like frame design with thrust-vectoring nodes.
 
 Status: Flight tests.
 
-Site: <https://fusionflight.com/>
-
-Videos: <https://www.youtube.com/@Fusionflight/videos> last updated 2025-01-05 
+Site: <https://fusionflight.com/jetquad/>
 
 First flight video <https://www.youtube.com/watch?v=2yTcCUOQPzE> (2019-08-19)
 Last flight video <https://www.youtube.com/watch?v=HAPsVligQsk> (2024-10-10)
 
-See also: [Cyclotech Demonstrator](Cyclocopter.md#cyclotech-demonstrator), [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+See also: [Cyclotech Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator), [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
 
-Linkedin: <https://www.linkedin.com/company/fusionflight/>
-
-Facebook: <https://www.facebook.com/fusionflight>
-
-Twitter: <https://x.com/fusionflightinc>
-
-Instagram: <https://www.instagram.com/fusionflight>
+Specifications:
+- Maximum Take-off: 60kg
+- Mass (Dry): 24kg
+- Mass (Payload): 16kg
+- Mass (Fuel): 20kg
+- Dimensions (L x W x H): 1.2m x 1m x 0.4m
+- Total Thrust Output (max): 188lbf (840N)
+- Cruise Velocity (max): 396km/h (110m/s)
+- Ascent Velocity (max): 30m/s
+- Range (one-way with SATCOM) 100km
+- Endurance (hover/ full-power cruise): 20min / 15min
+- Startup Altitude (Max): 1.2mi (2km)
+- Operating Altitude (Max): 6mi (10km)
+- Operating Temperature: -5C to 40C
+- Propulsion: 4x Microturbine Jet-Engine
+- Control: 4x Thrust Vectoring Nozzles
+- Start-up time: 30sec
+- Fuel Type: Heavy (Kerosene/Diesel/Jet-A)
+- Lubrication (mixed in fuel): 3% Turbo Oil
+- Turbine Rotational Rate (max): 130,000RPM
+- Fuel Flowrate (max power): 0.33Gal/min (1.3L/min)
+- Air Flowrate (max power): 140CFM (4125L/min)
+- Exhaust Temperature: 1022F (550C)
+- Maintenance Interval: 50Hrs
+- Noise Level (max): 100dB
 
 
 
@@ -59,3 +77,7 @@ Instagram: <https://www.instagram.com/stefanorivellini/>
 
 Single one video: <https://www.youtube.com/watch?v=5L6FSdUmEpg> (2018-10-15)
 
+
+
+---
+[Back to readme](readme.md)

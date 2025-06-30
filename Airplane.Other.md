@@ -1,0 +1,186 @@
+[Airplane](Airplane.md):Other
+=============================
+
+_Non grouped airplanes, ordered by status._
+
+
+
+### Alia CX300 CTOL
+
+Conventional takeoff & landing all-electric aircraft.
+
+Project highlights conventional takeoff & landing aircraft with 90% common frame with their eVTOL version [ALIA A250 VTOL](VTOL.md#alia-a250-vtol).
+
+Status: In service
+
+Site: <https://www.beta.team/aircraft/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Beta_Technologies#Products>
+
+Company: [Beta Technologies](Company.md#beta-technologies)
+
+Specifications:
+- Wingspan: 15.2m
+- Seats: 2
+- Passenger capacity without cargo: 5
+- Cargo capacity without passengers: 5.7m³
+- Charge time (from reserves to 98%): <1 hr
+- Landing Locations: Airports, Vertiports Airports
+- Max Speed: 283km/h
+- Max demonstrated range: 336km
+- Propulsion: One H500A Electric Motor
+- Propeller: One 5-Blade Fixed Pitch Propeller
+
+
+
+### Valkyrie
+
+Canard pusher gas/hybrid airplane.
+
+Status: Unknown
+
+Certification: Certified
+
+Numbers built: 2+
+
+Site: <https://www.centauri-aircraft.com/the-valkyrie-aircraft/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Cobalt_Co50_Valkyrie>
+
+Company: [Centauri Aircraft](Company.md#centauri-aircraft)
+
+Specifications:
+- Wingspan: 9.1m
+- Height: 2.74m
+- Length: 7.32m
+- Crew: 1
+- Passenger capacity: 4
+- Empty Weight: 1070kg
+- Typical Takeoff Distance: 457m
+- Typical Rotation Speed: 139km/h
+- Typical Landing Distance: 610m
+- Engine: Continental IO 550 / Continental TSIO 550 (IO-550, PT6, hybrid)
+- Weight: 272kg / 295kg
+- Takeoff: 310hp @ 2700rpm / 350hp @ 2700rpm
+- Cruise: 230hp @ 2500rpm / 265hp @ 2500rpm
+- Ceiling: 14000ft / 25000ft
+- MAP (in. Hg): Atmos / (Takeoff: 38.5 Cruise: 30.5)
+- Fuel type: AVGAS
+- Intermediate fuel burn: 68l/h
+- Tank capacity: 265-416l
+- Autonomy: 3.5h - 5h
+- Range: up to 2130km
+- Fuel burn: 15-25usg/h
+
+News: <https://www.centauri-aircraft.com/the-story/>
+
+Linkedin: <https://www.linkedin.com/company/centauri-aircraft/>
+
+Facebook: <https://www.facebook.com/centauriaircraft>
+
+Instagram: <https://www.instagram.com/centauri_aircraft/>
+
+
+
+### Phantom 3500
+
+Project highlights vision of an optimized airplane.
+
+Successor of [Celera 500](#celera-500)
+
+Status: Funding
+
+Estimated completion of funding: end of 2025.
+
+Company: [Otto Aviation](Company.md#otto-aviation)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Otto_Phantom_3500>
+
+Proposed to go in service: 2030
+
+Specifications:
+- Cabin Volume: 22.7m^2
+- Cabin Height: 2m
+- Max Range: 6500km
+- NBAA 4pax Range: 6000km
+- Cruise Altitude: 15.5km
+- Balanced Field: <1km
+
+
+
+### Celera 500
+
+Technology demonstrator.
+
+Project highlights vision of an optimized airplane.
+
+[Top claim](readme.md#top-claim): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
+[Top loss](readme.md#top-loss): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
+
+Number built: 1
+
+Predecessor of [Phantom 3500](#phantom-3500)
+
+Status: Retired
+
+Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
+
+Company: [Otto Aviation](Company.md#otto-aviation)
+
+Specifications:
+- Crew: 1
+- Passengers capacity: 6
+- Cabin height: 1.88m
+- Cabin volume: 12.7m3
+- Powerplant: 1 × RED A03 diesel piston engine, 550 hp (410 kW) approximate at takeoff
+- Cruise speed: 740km/h estimated minimum
+- Range: 8300km
+- Service ceiling: 9100m
+- Maximum glide ratio: 22:1
+
+Related program: [Albatross glider](Program.md#albatross-glider)
+
+
+
+### Boeing X-66
+
+Prototyping of the truss-braced wing <https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing>
+
+Project highlights an extra-long and thin wing design stabilized by diagonal bracing struts.
+
+Status: Full-scale prototype in development.
+
+The demonstrator is scheduled to fly in 2028.
+
+Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
+
+Company: [Aurora Flight Sciences](Company.md#aurora-flight-sciences)
+
+Program: [NASA’s Sustainable Flight Demonstrator (SFD)](Program.md#nasas-sustainable-flight-demonstrator-sfd)
+
+Also news: <https://theaircurrent.com/aircraft-development/boeing-is-shifting-engineers-away-from-x-66a-development/>
+
+
+
+### Flying V
+
+Project highlights designing an airliner of an unconventional schema,
+but based on existing technologies for the construction of tubular fuselages.
+
+Status: Concept study.
+
+Site: <https://www.tudelft.nl/en/ae/flying-v>
+
+Research centre: [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
+
+News: <https://www.tudelft.nl/en/ae/flying-v/publications>
+
+Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
+
+
+
+
+---
+[Back to Airplane](Airplane.md)

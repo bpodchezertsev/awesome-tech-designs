@@ -10,176 +10,155 @@ In this list you can also see many inactive or cancelled projects.
 You may see some projects that have already tried to be revived after being cancelled, are trying to be revived today, or may try to do so in the future.
 
 How is this list filtered:
-- There only actual existing and near future projects (or near past cancelled projects).
+- There only actual existing or near future projects or near past cancelled projects.
 - This list does not include awesome historical projects, but maybe has some historical references.
-- This list does not include scam, or a possible scam was marked.
-- This list does not include non-interesting or non-valuable experimental projects, to not be overloaded,
-but maybe some projects will be referenced.
 
 Enjoy!
 
+
+
 ---
-
-
-
 ## Contents
 
+- [Index](#index)
 - [Categories](#categories)
-- [Categorized list](#categorized-list)
+- [Comparisons](#comparisons)
+- [Papers](#papers)
 - [Top lists](#top-lists)
 - [Other lists](#other-lists)
 - [Last updates](#last-updates)
 - [Contacts](#contacts)
 
+
+
 ---
+## Index
+
+- [Company](Company.md)
+- [Comparisons](#comparisons)
+- [Papers](#papers)
+- [Program](Program.md)
+- [Project by country](ProjectByCountry.md)
+- [Research centre](ResearchCentre.md)
 
 
 
+---
 ## Categories
 
-- [Airplane](Airplane.md)
-  - [Blended Wing Body](Airplane.BlendedWingBody.md)
-- [VTOL](VTOL.md)
-- [Copter](Copter.md)
-  - [Cyclocopter](Cyclocopter.md)
-  - [Omnicopter](Omnicopter.md)
-  - [Jetcopter](Jetcopter.md)
-  - [Variable pitch copter](SUAV.VariablePitchCopter.md)
-- [Flying car](FlyingCar.md)
-- [Supersonic](Supersonic.md)
-- [WIG](WIG.md)
-
----
-
-
-
-## Categorized list
-
-- [Manned aircraft](Aircraft.md) 
-  - [Airplane](Airplane.md)
-    - [Blended Wing Body](Airplane.BlendedWingBody.md)
-      - [JetZero](Airplane.BlendedWingBody.md#jetzero)
-      - [Natilus](Airplane.BlendedWingBody.md#natilus)
-      - [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
-      - [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
-    - [Valkyrie](Airplane.md#valkyrie)
-    - [Boeing X-66](Airplane.md#boeing-x-66)
-    - [Otto Celera 500L](Airplane.md#otto-celera-500l)
-    - [Flying V](Airplane.md#flying-v)
-  - [VTOL](VTOL.md)
-    - [Alia](VTOL.md#alia)
-    - [Joby](VTOL.md#joby)
-    - [Archer](VTOL.md#archer)
-    - [VX4](VTOL.md#vx4)
-    - [Valor](VTOL.md#valor)
-    - [Lilium](VTOL.md#lilium)
-  - [Flying car](FlyingCar.md)
-    - [Samson Sky Switchblade](FlyingCar.md#samson-sky-switchblade)
-    - [Klein Vision AirCar](FlyingCar.md#klein-vision-aircar)
-    - [Pal-V](FlyingCar.md#pal-v)
-      - [Pal-V Liberty](FlyingCar.md#pal-v-liberty)
-      - [Pal-V One](FlyingCar.md#pal-v-one)
-    - [AeroMobile](FlyingCar.md#aeromobil)
-  - [Supersonic](Supersonic.md)
-    - [Boom Supersonic](Supersonic.md#boom-supersonic)
-    - [Nasa X-59 Quesst](Supersonic.md#nasa-x-59-quesst) 
-    - [Hermeus](Supersonic.md#hermeus)
-- [UAV](UAV.md)
-  - [VTOL](UAV.md#vtol)
-    - [Pterodynamics](VTOL.md#pterodynamics)
-    - [ARES](VTOL.md#ares)
-    - [Project Zero](VTOL.md#project-zero)
-  - [Copter](Copter.md#uav)
-    - [Cyclocopter](Cyclocopter.md)
-      - [Cyclotech](Cyclocopter.md#cyclotech)
-        - [BlackBird](Cyclocopter.md#cyclotech-blackbird)
-      - [Seoul National University cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters)
-    - [Omnicopter](Omnicopter.md)
-      - [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird)
-    - [Jetcopter](Jetcopter.md#uav)
-      - [JetQuad](Jetcopter.md#jetquad)
-- [SUAV](SUAV.md)  
-  - [Plane](SUAV.md#plane)
-    - [The mach initiative](SUAV.md#the-mach-initiative)
-  - [Copter](Copter.md)
-    - [Variable pitch copter](SUAV.VariablePitchCopter.md)
-      - [Curtis Youngblood's variable pitch copters](SUAV.VariablePitchCopter.md#curtis-youngbloods-variable-pitch-copters)
-        - [Stingray 500](SUAV.VariablePitchCopter.md#stingray-500)
-      - [Wolfgang Siebert's variable pitch copters](SUAV.VariablePitchCopter.md#wolfgang-sieberts-variable-pitch-copters)
-    - [Omnicopter](Omnicopter.md)
-      - [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird)
-      - [OmniQuad](Omnicopter.md#omniquad)
-      - [ETH Zurich Omnicopters](Omnicopter.md#eth-zurich-omnicopters)
-        - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
-        - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
-        - [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
-      - [HAGAMOSphere](Omnicopter.md#hagamosphere)
-      - [Lynchpin Omnicopter](Omnicopter.md#lynchpin-omnicopter)
-      - [MOD Omnicopter](Omnicopter.md#mod-omnicopter)
-    - [Jetcopter](Jetcopter.md#suav)
-      - [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
-      - [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
-- [WIG](WIG.md)
-  - [Viceroy](WIG.md#viceroy)
-  - [Airfish-8](WIG.md#airfish-8)
-  - [Liberty Lifter](WIG.md#liberty-lifter)
-- [SSTO](SSTO.md)
-  - [Radian One](SSTO.md#radian-one)
-  - [Skylon](SSTO.md#skylon)
+- Aircraft
+  - [Manned Aircraft](Aircraft.md)
+    - [Airplane](Airplane.md)
+      - [Amphibious](Airplane.Amphibious.md)
+      - [Blended Wing Body](Airplane.BlendedWingBody.md)
+      - [Other](Airplane.Other.md)
+    - [Compound helicopter](CompoundHelicopter.md)
+    - [Glider](Glider.md#manned)
+    - [VTOL](VTOL.md) ([Comparison](VTOL.md#comparison))
+    - [Copter](Copter.md)
+    - [Flying car](FlyingCar.md) ([Comparison](FlyingCar.md#comparison))
+    - [Supersonic](Supersonic.md#manned)
+    - [WIG](WIG.md)
+  - [UAV](UAV.md)
+    - [Glider](Glider.md#uav)
+    - [VTOL](UAV.VTOL.md)
+    - [Copter](Copter.md)
+      - [Omnicopter](Omnicopter.md#uav) ([Comparison](Omnicopter.md#comparison))
+      - [Cyclocopter](Cyclocopter.md#uav)
+      - [Jetcopter](Jetcopter.md#uav)
+      - [Other](UAV.Copter.md#other)
+    - [Supersonic](Supersonic.md#uav)
+  - [SUAV](UAV.md)
+    - [Copter](SUAV.Copter.md)
+      - [Omnicopter](Omnicopter.md#suav) ([Comparison](Omnicopter.md#comparison))
+      - [Cyclocopter](Cyclocopter.md#suav)
+      - [Jetcopter](Jetcopter.md#suav)
+    - [Supersonic](Supersonic.md#suav)
+- [Space](Space.md)
+  - [Reusable second stage](Space.md#reusable-second-stage)
+  - [Reusable first stage](Space.md#reusable-first-stage)
+  - [Reusable spacecraft](Space.md#reusable-spacecraft)
+    - [Manned](Space.md#crewed)
+    - [Unmanned](Space.md#uncrewed)
+  - [Launch Vehicles](Space.md#launch-vehicles)
+  - [SSTO](Space.md#ssto)
 - [Propulsion](Propulsion.md)
-  - [Cyclorotor](Propulsion.md#cyclorotor)
-- [Engine](Engine.md)
-  - [Detonation engine](Engine.md#detonation-engine)
-  - [Aerospike engine](Engine.md#aerospike-engine)
-  - [SABRE](Engine.md#sabre)
+
+
 
 ---
-
-
-
 ## Top lists
 
+
 ### Top
+- [Glider altitude record](Glider.md#altitude-record). [Perlan](Glider.md#perlan)
 - The largest WIG in trial operation. [Airfish-8](WIG.md#airfish-8)
 - The largest WIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
 - The largest eWIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
 
+
 ### Top claim
-- The first ever heavy C-Type WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
+- The first ever heavy [C-Type](WIG.md#c-type) WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
 - Largest ever WIG in development by wingspan. [Liberty Lifter](WIG.md#liberty-lifter)
 - Largest modern WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
-- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500L](Airplane.md#otto-celera-500l)
+- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)
+
 
 ### Top loss
-- Last built scaled prototype of lift-fan aircraft. [Project Zero](VTOL.md#project-zero)
+- Last built scaled prototype of lift-fan aircraft. [Project Zero](UAV.VTOL.md#project-zero)
 - Cancelled BWB program [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
 - Cancelled BWB program [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
+- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)
 
+
+### UAV:Top
+- Largest flying cyclocopter. [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+- Largest flying partial omnicopter. [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+- Best VTOL transforming wing design. [Pterodynamics Transwing](UAV.VTOL.md#transwing)
+
+ 
 ### SUAV:Top
-- Largest ever flying cyclocopter. [Cyclotech BlackBird](Cyclocopter.md#cyclotech-blackbird)
-- Largest ever flying partial omnicopter. [Cyclotech BlackBird](Cyclocopter.md#cyclotech-blackbird)
-- The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](Omnicopter.md#eth-zurich-omnicopters)
-- Best ever VTOL transforming wing design. [Pterodynamics](VTOL.md#pterodynamics)
-- Best ever stunt quadcopter [Stingray 500](SUAV.VariablePitchCopter.md#stingray-500)
-- The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.VariablePitchCopter.md#wolfgang-sieberts-variable-pitch-copters)
+- [Glider speed record](Glider.md#suav-speed-record)
+- Largest partial omnicopter in service. [Astria](Omnicopter.md#astria)
+- Partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](ResearchCentre.md#eth-zurich)
+- Best today's stunt quadcopter (clones) [Stingray 500](SUAV.Copter.md#stingray-500)
+- The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
+- Best stunt quadcopter [Stingray 500](SUAV.Copter.md#stingray-500)
+
 
 ### SUAV:Top ever
-- First ever commercially available partial omnicopter [Voliro](Omnicopter.md#voliro)
+- First partial omnicopter in service [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
 - First ever flying omnicopter. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
-- First ever horizontal omnicopter. [EAMS Lab Omnicopter](Omnicopter.md#eams-lab-omnicopter)
 - First ever omnicopter in open-source. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
+- First ever horizontal omnicopter. [EAMS Lab Omnicopter](Omnicopter.md#eams-lab-omnicopter)
+
+
 
 ---
+### Comparisons
+- [Amphibious aircraft](Airplane.Amphibious.md#comparison)
+- [VTOL](VTOL.md#comparison)
+- [Flying car](FlyingCar.md#comparison)
+- [Omnicopter](Omnicopter.md#comparison)
+
+
+---
+### Papers
+- [Cyclocopter](Cyclocopter.md#papers)
+- [Omnicopter](Omnicopter.md#papers)
+- [SUAV.Copter](SUAV.Copter.md#papers)
 
 
 
+---
 ## Other lists
 
 - eVTOL / UAV / SUAV: <https://evtol.news/aircraft>
 
+
+
 ---
-
-
 ## Last updates
 
   [Last updates](updates.md)

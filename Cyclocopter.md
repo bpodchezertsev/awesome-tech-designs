@@ -1,7 +1,11 @@
-SUAV:Cyclocopter
-================
+Cyclocopter
+===========
+
+Also cyclogyro.
 
 Cyclocopter is a copter based on [Cyclorotor](Propulsion.md#cyclorotor) as a main propulsion system.
+
+Wikipedia: <https://en.wikipedia.org/wiki/Cyclogyro>
 
 Video explaining cyclocopters with demonstration of an actual flying model: <https://www.youtube.com/watch?v=JoVmejDsMrM>
 
@@ -13,28 +17,65 @@ Videos of the first flying cyclocopters:
 
 
 
+## Manned
+
+
+
+### Cyclotech CruiseUp
+
+Full-electric horizontal omnicopter.
+
+Company: [Cyclotech](Company.md#cyclotech)
+
+Future crewed prototype developed by Cyclotech.
+
+See unmanned scaled prototype: [Cyclotech BlackBird Demonstrator](#cyclotech-blackbird-demonstrator)
+
+Status: Designing
+
+Range: 100km
+Payload: 200kg
+Max speed: 150km/h
+Redundancy: allow 1 rotor failure
+
+
+
 ## UAV
 
 
 
-### Cyclotech
+### Cyclotech BlackBird Demonstrator
 
-Project goal: build the first ever manned cyclocopter.
+Full-electric horizontal omnicopter.
 
-Site: <https://www.cyclotech.at/>
+Scaled prototype of [Cyclotech CruiseUp](#cyclotech-cruiseup)
 
-News: <https://www.cyclotech.at/newsroom/> last update 2025-04-03.
+Instead of [Cyclotech Technology Demonstrator](#cyclotech-technology-demonstrator) with 4 cyclorotor,
+the BlackBird uses 6 in configuration, which allows to move any direction in horizontal plane without yaw.
 
-Videos: <https://www.youtube.com/@cyclotechgmbh/videos>
+Status: Testing
 
-Linkedin: <https://www.linkedin.com/company/cyclotech-gmbh/>
+- [SUAV:Top](readme.md#suavtop): Largest flying cyclocopter.
+- [SUAV:Top](readme.md#suavtop): Largest flying partial omnicopter.
 
-Twitter: <https://twitter.com/cyclotech_at>
+Company: [Cyclotech](Company.md#cyclotech)
+
+Move: 3 axis
+Rotation: 2 axis
+
+The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
+
+The BlackBird can also be a partial omnicopter, as it can maintain static stability at any pitch angle.
+
+Video of first flight: <https://www.youtube.com/watch?v=8OUyR9pCiVs> (2025-03-27)
 
 
-##### Cyclotech Demonstrator
 
-Project highlights design similar to.
+### Cyclotech Technology Demonstrator
+
+eCopter
+
+Project highlights thrust-vectoring design similar to [JetQuad](Jetcopter.md#jetquad) or <https://en.wikipedia.org/wiki/Bell_X-22>.
 
 First scaled prototype developed by Cyclotech.
 
@@ -42,44 +83,53 @@ Demonstrator uses 4 cyclorotors.
 
 Status: Dismissed
 
+Company: [Cyclotech](Company.md#cyclotech)
+
+Move: 2 axis
+Rotation: 2 axis
+
 Video of first flight: <https://www.youtube.com/watch?v=I2qkhmz4z1E> (2021-10-05)
 Video of last flight: <https://www.youtube.com/watch?v=oYOZYsHs7_Q> (2024-12-19)
 
-Demonstrator has gyrodyne-like capabilities, as it does not tilt during acceleration/braking.
+Demonstrator has compound helicopter like capabilities, as it does not tilt during acceleration/braking.
 
 Demonstrator can also be a partial single-axis omnicopter (if it has enough thrust),
 as it can maintain static stability while rotating 360 degrees on the pitch axis,
 but that properties does not tested.
 
 
-##### Cyclotech BlackBird
 
-Second scaled prototype developed by Cyclotech.
+### Cyclotech CCY-01
 
-Status: Testing scaled prototype
+Feasibility study of full-electric cargo horizontal omnicopter.
 
-- [SUAV:Top](readme.md#suavtop): Largest ever flying cyclocopter.
-- [SUAV:Top](readme.md#suavtop): Largest ever flying partial omnicopter.
+Status: Cancelled 
 
-The BlackBird uses 6 cyclorotors.
+Company: [Cyclotech](Company.md#cyclotech)
 
-The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding or in windy conditions.
+Move: 2 axis
+Rotation: 2 axis
 
-The BlackBird can also be a partial single-axis omnicopter (if it has enough thrust), as it can maintain static stability while rotating 360 degrees on the pitch axis.
+Specifications:
+Payload: 45kg
+Range: 40km
+Wind Resistance: 36.5knots
+Dimensions: 2.7x2.5m
 
-Video of first flight: <https://www.youtube.com/watch?v=8OUyR9pCiVs> (2025-03-27)
 
 
-
-#### Seoul National University cyclocopters
+### Seoul National University cyclocopters
 
 A series of experimental cyclocopters.
 
 Status: Unknown
 
-Note: The helicopter-like version can be possible largest ever flying cyclocopter, but I can't find info on it.
-
 Videos: <https://www.youtube.com/@cyclocopter>
+
+Research center: [Seoul National University](ResearchCentre.md#seoul-national-university)
+
+Note: The helicopter-like version from papers can be possible largest ever flying cyclocopter, but I can't find info on it.
+
 
 ##### Papers:
 
@@ -120,3 +170,11 @@ Videos: <https://www.youtube.com/@cyclocopter>
 13. PAUL E. HEMKE, “Drag of Wings With End Plates” Langley Memorial Aeronautical Laboratory, National Advisory Committee for Aeronautics, Langley Field, VA, January 20, 1927.
 14. D. E. Newland. 1971. “Whirling of a Cantilever Elastic Shaft Subjected to External Pressure”. In:Journal Mechanical Engineering Science, Vol. 14 No.1,pp. 11-1
 
+
+
+## SUAV
+
+### [Astria](Omnicopter.md#astria)
+
+---
+[Back to readme](readme.md)
