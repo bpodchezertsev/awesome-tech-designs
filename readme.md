@@ -73,6 +73,7 @@ Enjoy!
       - [Omnicopter](Omnicopter.md#suav) ([Comparison](Omnicopter.md#comparison))
       - [Cyclocopter](Cyclocopter.md#suav)
       - [Jetcopter](Jetcopter.md#suav)
+      - [Other](SUAV.Copter.md#other)
     - [Supersonic](Supersonic.md#suav)
 - [Space](Space.md)
   - [Reusable second stage](Space.md#reusable-second-stage)
