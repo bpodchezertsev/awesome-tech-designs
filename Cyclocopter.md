@@ -61,8 +61,8 @@ Status: Testing
 
 Company: [Cyclotech](Company.md#cyclotech)
 
-Move: 3 axis
-Rotation: 2 axis
+- Move: 3 axis
+- Rotation: 2 axis
 
 The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
 
@@ -86,8 +86,8 @@ Status: Dismissed
 
 Company: [Cyclotech](Company.md#cyclotech)
 
-Move: 2 axis
-Rotation: 2 axis
+- Move: 2 axis
+- Rotation: 2 axis
 
 Video of first flight: <https://www.youtube.com/watch?v=I2qkhmz4z1E> (2021-10-05)
 Video of last flight: <https://www.youtube.com/watch?v=oYOZYsHs7_Q> (2024-12-19)
@@ -108,14 +108,14 @@ Status: Cancelled
 
 Company: [Cyclotech](Company.md#cyclotech)
 
-Move: 2 axis
-Rotation: 2 axis
+- Move: 2 axis
+- Rotation: 2 axis
 
 Specifications:
-Payload: 45kg
-Range: 40km
-Wind Resistance: 36.5knots
-Dimensions: 2.7x2.5m
+- Payload: 45kg
+- Range: 40km
+- Wind Resistance: 36.5knots
+- Dimensions: 2.7x2.5m
 
 
 

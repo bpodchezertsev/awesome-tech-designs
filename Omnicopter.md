@@ -68,8 +68,10 @@ Values in parentheses a theoretically accessible values, but not practically tes
 
 Partial omnicopter.
 
-Move: 3 axis
-Rotation: 1(2) axis
+Status: Designing
+
+- Move: 3 axis
+- Rotation: 1(2) axis
 
 Main article: [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-cruiseup)
 
@@ -83,8 +85,10 @@ Main article: [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-cruise
 
 Partial omnicopter.
 
-Move: 3 axis
-Rotation: 1(2) axis
+Status: Testing
+
+- Move: 3 axis
+- Rotation: 1(2) axis
 
 Main article: [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
 
@@ -100,10 +104,10 @@ Horizontal omnicopter.
 
 Project highlights using of cyclorotor as auxiliary positioning device for precise maneuverability.
 
-Move: 3 axis
-Rotation: 1 axis
-
 Status: In service
+
+- Move: 3 axis
+- Rotation: 1 axis
 
 [SUAV:Top](readme.md#suavtop): Largest partial omnicopter in service.
 [SUAV:Top](readme.md#suavtop): Partial omnicopter in service.
@@ -127,14 +131,14 @@ Partial omnicopter.
 
 Project highlights tiltrotor bicopter with additional orientation thruster.
 
-Move: 2 axis
-Rotation: 2- axis
+Status: In service
+
+- Move: 2 axis
+- Rotation: 2- axis
 
 Note: Possibility to rotate around pitch axis at almost 360 degrees, but continuous rotation is not allowed.
 
 Site: <https://voliro.com/voliro-solution/>
-
-Status: In service
 
 [SUAV:Top](readme.md#suavtop): Partial omnicopter in service.
 [SUAV:Top ever](readme.md#suavtop-ever): First partial omnicopter in service
@@ -182,8 +186,8 @@ Project highlights horizontal omnicopter with main thrust rotors and small orien
 Note: At the first view, design of orientation rotors related to [EAMS Lab Omnicopter](#eams-lab-omnicopter),
 but more basically it related to doubled design of [Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration).
 
-Move: 3 axis
-Rotation: 1 axis
+- Move: 3 axis
+- Rotation: 1 axis
 
 Site: <https://ucvision.org.nz/drones/>
 
@@ -201,8 +205,8 @@ Status: Tethered flight tests.
 
 Project highlights partial omnicopter with relative to standard quadcopter design.
 
-Move: 3 axis
-Rotation: 1+ axis
+- Move: 3 axis
+- Rotation: 1+ axis
 
 Site: <https://tilties2.github.io/omniquad-website/>, <https://github.com/tilties2/PX4-OmniQuad>
 
@@ -260,6 +264,9 @@ Author: Dario Brescianini
 
 Project highlights use of 8 fixed pitch propellers mounted on a cubic frame.
 
+- Move: 3 axis
+- Rotation: 3 axis
+
 Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
 
 [SUAV:Top ever](readme.md#suavtop-ever): First ever flying omnicopter.
@@ -281,6 +288,9 @@ Project highlights use of 6 thrust-vectored ducted funs.
 
 Predecessor of [Voliro-T](#voliro-t)
 
+- Move: 3- axis
+- Rotation: 3- axis
+
 Video: <https://www.youtube.com/watch?v=-RCQmaKvsL0>
 
 Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
@@ -292,6 +302,9 @@ Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
 Status: Prototyping
 
 Project highlights use of fixed impellers with thrust-vector control by moving the exhaust pipes.
+
+- Move: 3 axis
+- Rotation: 3 axis
 
 Site: <https://avero.ethz.ch/>
 
@@ -313,6 +326,9 @@ Project highlights a coaxial omnicopter with 8 fixed-pitch rotors.
 
 Status: Prototyping
 
+- Move: 3 axis
+- Rotation: 3 axis
+
 Site: <https://hagamosphere.com/>
 
 Video: <https://www.youtube.com/watch?v=gqsHMn_8EQM> (2024-12-19)
@@ -325,8 +341,8 @@ Partial omnicopter - always remains horizontal.
 
 Status: Cancelled
 
-Move: 3 axis
-Rotation: 1 axis
+- Move: 3 axis
+- Rotation: 1 axis
 
 [SUAV:Top ever](readme.md#suavtop-ever): The first ever horizontal omnicopter.
 
@@ -339,6 +355,9 @@ Video: <https://www.youtube.com/watch?v=UR1KxYMujtQ> (2018-07-25)
 Project highlights the possibility of a modular omnicopter.
 
 Status: Inactive.
+
+- Move: 3 axis
+- Rotation: 3 axis
 
 Site: <https://www.terryslynchpins.com/>
 
@@ -382,6 +401,9 @@ Videos:
 My omnicopters family project.
 
 Project highlights the wide applicability and multiple configurations of omnicopter systems.
+
+- Move: 1-3 axis
+- Rotation: 1-3 axis
 
 Site: <https://github.com/bpodchezertsev/MOD>
 
