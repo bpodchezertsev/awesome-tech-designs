@@ -32,6 +32,9 @@ SUAV = Small Unmanned Aerial Vehicle.
     - [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
     - [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
 
+  - [Other](SUAV.Copter.md#other)
+    - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
+
 - [Supersonic](Supersonic.md#suav)
   - [The mach initiative](Supersonic.md#the-mach-initiative)
 
