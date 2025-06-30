@@ -23,7 +23,7 @@ Videos of the first flying cyclocopters:
 
 ### Cyclotech CruiseUp
 
-Full-electric horizontal omnicopter.
+Full-electric cyclocopter. Also horizontal omnicopter.
 
 Company: [Cyclotech](Company.md#cyclotech)
 
