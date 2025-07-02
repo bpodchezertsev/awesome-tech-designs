@@ -78,7 +78,8 @@ Numbers built: 1
 
 Status: Undergoing sea trials.
 
-First foiled test: https://www.youtube.com/watch?v=HFXqVPeyxik (2025-06-25)
+First foil test: https://www.youtube.com/watch?v=HFXqVPeyxik (2025-06-25).
+More details: <https://www.youtube.com/watch?v=1VyP36gW_-o>
 
 - [Top](readme.md#top): The largest WIG undergoing sea trials.
 - [Top](readme.md#top): The largest eWIG undergoing sea trials.
