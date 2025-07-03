@@ -25,13 +25,15 @@ Videos of the first flying cyclocopters:
 
 Full-electric cyclocopter. Also horizontal omnicopter.
 
+Status: Designing
+
+Site: <https://www.cyclotech.at/future-applications?
+
 Company: [Cyclotech](Company.md#cyclotech)
 
 Future crewed prototype developed by Cyclotech.
 
 See unmanned scaled prototype: [Cyclotech BlackBird Demonstrator](#cyclotech-blackbird-demonstrator)
-
-Status: Designing
 
 Specifications:
 - Range: 100km
@@ -53,6 +55,8 @@ Scaled prototype of [Cyclotech CruiseUp](#cyclotech-cruiseup)
 
 Instead of [Cyclotech Technology Demonstrator](#cyclotech-technology-demonstrator) with 4 cyclorotor,
 the BlackBird uses 6 in configuration, which allows to move any direction in horizontal plane without yaw.
+
+Site: <https://www.cyclotech.at/rotor-solutions>
 
 Status: Testing
 
@@ -84,6 +88,8 @@ Demonstrator uses 4 cyclorotors.
 
 Status: Dismissed
 
+Site: <https://www.cyclotech.at/rotor-solutions>
+
 Company: [Cyclotech](Company.md#cyclotech)
 
 - Move: 2 axis
@@ -104,7 +110,9 @@ but that properties does not tested.
 
 Feasibility study of full-electric cargo horizontal omnicopter.
 
-Status: Cancelled 
+Status: Cancelled
+
+Site: <https://www.cyclotech.at/future-applications>
 
 Company: [Cyclotech](Company.md#cyclotech)
 
