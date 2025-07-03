@@ -17,6 +17,8 @@ Site: <https://www.beta.team/aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Beta_Technologies#Products>
 
+![](https://beta.team/hubfs/BETA%20NYC%20Flyover.jpg)
+
 Company: [Beta Technologies](Company.md#beta-technologies)
 
 Specifications:
@@ -46,6 +48,8 @@ Numbers built: 2+
 Site: <https://www.centauri-aircraft.com/the-valkyrie-aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Cobalt_Co50_Valkyrie>
+
+![](https://www.centauri-aircraft.com/wp-content/uploads/2023/12/149_7445s-1.png)
 
 Company: [Centauri Aircraft](Company.md#centauri-aircraft)
 
@@ -92,9 +96,13 @@ Status: Funding
 
 Estimated completion of funding: end of 2025.
 
-Company: [Otto Aviation](Company.md#otto-aviation)
+Site: <https://ottoaviation.com/aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Otto_Phantom_3500>
+
+![](https://ottoaviation.com/wp-content/uploads/2025/04/p3500-away.webp)
+
+Company: [Otto Aviation](Company.md#otto-aviation)
 
 Proposed to go in service: 2030
 
@@ -123,7 +131,11 @@ Predecessor of [Phantom 3500](#phantom-3500)
 
 Status: Retired
 
+Site: <https://ottoaviation.com/technology/technology-demonstrator/>
+
 Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
+
+![](https://ottoaviation.com/wp-content/uploads/2025/04/celera-3.jpg)
 
 Company: [Otto Aviation](Company.md#otto-aviation)
 
@@ -154,6 +166,8 @@ The demonstrator is scheduled to fly in 2028.
 
 Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
 
+![](https://theaircurrent.com/wp-content/uploads/2024/06/boeing-nasa-x-66-render-cruise-close-2024.jpg)
+
 Company: [Aurora Flight Sciences](Company.md#aurora-flight-sciences)
 
 Program: [NASA’s Sustainable Flight Demonstrator (SFD)](Program.md#nasas-sustainable-flight-demonstrator-sfd)
@@ -171,13 +185,16 @@ Status: Concept study.
 
 Site: <https://www.tudelft.nl/en/ae/flying-v>
 
+Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
+
+![](https://filelist.tudelft.nl/_processed_/8/1/csm_FlyingV_Isometric_0e518ffdff.png)
+
 Research centre: [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
 
 News: <https://www.tudelft.nl/en/ae/flying-v/publications>
 
 Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
 
-Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
 
 
 

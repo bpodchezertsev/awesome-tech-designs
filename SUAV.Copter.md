@@ -51,6 +51,8 @@ Status: Production cancelled.
 
 [SUAV:Top](readme.md#suavtop): Best stunt quadcopter.
 
+![](https://img.youtube.com/vi/crJMB7iUUPA/0.jpg)
+
 Video: <https://www.youtube.com/watch?v=TnGhEInTXYc&t=240>
 
 Note: I know there were clones of this project on the market.
@@ -63,6 +65,8 @@ For example: <https://www.wl-toys.com/Wltoys-V383-500-Electric-3d-Inverted-Fligh
 
 Experimental large stunt quadcopter.
 
+![](https://img.youtube.com/vi/uuExXFCCDgA/0.jpg)
+
 Video: <https://www.youtube.com/watch?v=uuExXFCCDgA>
 
 
@@ -72,6 +76,8 @@ Video: <https://www.youtube.com/watch?v=uuExXFCCDgA>
 Wolfgang Siebert experiments a lot with variable pitch copters.
 
 [SUAV:Top](readme.md#suavtop): The most prolific author of variable pitch copters.
+
+![](https://img.youtube.com/vi/bAKTCyGwgBI/0.jpg)
 
 Facebook: <https://www.facebook.com/TanzschulWolfgang/>
 
@@ -87,6 +93,8 @@ Videos: <https://www.youtube.com/@helidrones/videos>
 
 
 ### Triangular Quadrotor: A More Efficient Quadrotor Configuration
+
+![](https://www.researchgate.net/publication/261352989/figure/fig1/AS:296854957903872@1447787145023/Y4-Triangular-Quadrotor-Configuration.png)
 
 See: [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 

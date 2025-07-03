@@ -16,6 +16,8 @@ Site: <https://www.airbus.com/en/innovation/innovation-ecosystem/airbus-flightla
 
 Wikipedia: <https://en.wikipedia.org/wiki/Airbus_RACER>
 
+![](https://mediarenditions.airbus.com/CehemnmvFFMkcbrztagIDs-jh2YF01RCbvaa7Nglt-g/resize?src=kpkp://airbus/38/657/657887-u5756tse4d.jpg&w=2700&h=1800&t=fit&f=webp)
+
 Company: [Airbus](Company.md#airbus)
 
 Specifications:
@@ -37,6 +39,8 @@ Site: <https://www.lockheedmartin.com/en-us/products/sb1-defiant-technology-demo
 
 Wikipedia: <https://en.wikipedia.org/wiki/Sikorsky%E2%80%93Boeing_SB-1_Defiant>
 
+![](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/defiant/defiant_oct-12-2020.jpg)
+
 Company: [Sikorsky](Company.md#sikorsky), [Boeing](Company.md#boeing)
 
 
@@ -48,6 +52,8 @@ Status: Prototyping
 Site: <https://www.lockheedmartin.com/en-us/products/fara-raider-x.html>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Sikorsky_Raider_X>
+
+![](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/fara/FVL_RaiderX_Weapons_INDOPACOM.jpg.pc-adaptive.1280.medium.jpg)
 
 Company: [Sikorsky](Company.md#sikorsky)
 

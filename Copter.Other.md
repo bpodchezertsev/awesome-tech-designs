@@ -7,11 +7,13 @@ _Other manned copter list._
 
 ## Volocity
 
-Company: [Volocopter](Company.md#volocopter)
-
 Site: https://www.volocopter.com/en/solutions/volocity
 
 Wikipedia: <https://en.wikipedia.org/wiki/Volocopter_Volocity>
+
+![](https://cdn.volocopter.com/images/vnrac6vfvrab/2Mh1BWUA1QrbtkrXVH5REZ/6df5671a3265fec27cd433b5602315d9/DSCF103104_S-Screen--scaled-e1628843140647.jpg)
+
+Company: [Volocopter](Company.md#volocopter)
 
 Flight video: <https://www.youtube.com/watch?v=j3vzjLC18lQ>
 
@@ -32,11 +34,13 @@ Specifications:
 
 ## Volocopter 2X
 
-Company: [Volocopter](Company.md#volocopter)
+Status: Retired
 
 Wikipedia: <https://en.wikipedia.org/wiki/Volocopter_2X>
 
-Status: Retired
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Volocopter%2CIAA_2017%2C_Frankfurt_%281Y7A1911%29.jpg/2880px-Volocopter%2CIAA_2017%2C_Frankfurt_%281Y7A1911%29.jpg)
+
+Company: [Volocopter](Company.md#volocopter)
 
 Specifications:
 - Seats: 1

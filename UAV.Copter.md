@@ -25,6 +25,8 @@ Status: In operation
 
 Site: <https://www.flowcopter.com/products>
 
+![](https://images.squarespace-cdn.com/content/v1/651f196bd17ad87302f35d8f/a38eb5ca-0cc0-43c2-aa65-ab316789fc2f/FC_STILL06.jpg?format=1500w)
+
 Company: [Flowcopter](Company.md#flowcopter)
 
 Specifications:

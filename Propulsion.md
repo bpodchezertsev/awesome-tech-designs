@@ -16,6 +16,7 @@ Disadvantages: Mechanical complexity. High load on the structure.
 
 See: [Cyclocopter](Cyclocopter.md)
 
+![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Cyclogyro-Mechanics.gif)
 
 
 #### In market
@@ -46,11 +47,15 @@ See: [Jetcopter](Jetcopter.md)
 
 #### Chimera Engine
 
-Company: [Hermeus](Company.md#hermeus)
-
 Project highlights modifying the existing Pratt & Whitney F100 engine to support the transition to a ramjet.
 
 Status: Testing the precooling system.
+
+Site: <https://www.hermeus.com/chimera>
+
+![](https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/1734735510408-ANR5IFOMRXY1C35SBFO9/HEAT+F100+Max+AB.JPEG?format=2500w)
+
+Company: [Hermeus](Company.md#hermeus)
 
 Last news: <https://www.hermeus.com/press-release-heat-online> (2025-01-08)
 
@@ -66,6 +71,8 @@ Hybrid air-breathing rocket engine.
 
 Status: Cancelled
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/eb/SABRE_engine_designed_for_Skylon_spaceplane%2C_1990s._%289660572897%29.jpg)
+
 Wikipedia: <https://en.wikipedia.org/wiki/SABRE_(rocket_engine)>
 
 
@@ -78,9 +85,13 @@ Status: In development
 
 Wikipedia: <https://en.wikipedia.org/wiki/Rotating_detonation_engine>
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NASA_RDE.jpg/1200px-NASA_RDE.jpg)
+
 
 
 #### Venus Aerospace
+
+![](https://www.venusaero.com/wp-content/uploads/2024/07/20221216-Liquid-Liquid-Det.png)
 
 Company: [Venus Aerospace](Company.md#venus-aerospace)
 
@@ -95,6 +106,8 @@ Aerodynamically effective engine across a wide range of altitudes.
 Status: In development
 
 Wikipedia: <https://en.wikipedia.org/wiki/Aerospike_engine>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Twin_Linear_Aerospike_XRS-2200_Engine_PLW_edit.jpg/2560px-Twin_Linear_Aerospike_XRS-2200_Engine_PLW_edit.jpg)
 
 See:
 - [Nova's reusable second stage](Space.md#novas-second-stage)
@@ -111,10 +124,14 @@ Supersonic jet engine for [Overture](Supersonic.md#overture),
 
 Status: Preparations on test site.
 
+Site: <https://boomsupersonic.com/symphony>
+
+![](https://boomsupersonic.com/wp-content/uploads/2025/06/symphony-specifications.jpg)
+
 Company: [Boom Supersonic](Company.md#boom-supersonic)
 
 
 
 
 ---
-[Back to readme](readme.md)
+[Back to readme](readme.md)!

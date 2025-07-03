@@ -31,6 +31,8 @@ Site: <https://perlanproject.org/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Perlan_Project>, <https://en.wikipedia.org/wiki/Windward_Performance_Perlan_II>
 
+![](https://perlanproject.org/wp-content/uploads/2022/07/Perlan-Glider-and-Perlan-Cloud-2-scaled.jpg)
+
 Specifications:
 - Crew: 2
 - Length: 10.16m
@@ -62,6 +64,8 @@ Status: under development
 
 Claimed: prototype flight at 2025 Q4
 
+![](https://ottoaviation.com/wp-content/uploads/2025/04/otto-blog-post-awarded-joint-developmental-collaboration-1024x576.jpg)
+
 Company: [Otto Aviation](Company.md#otto-aviation)
 
 DARPA: [Albatross glider](Program.md#albatross-glider)
@@ -84,6 +88,8 @@ Speed: 882km/h
 Video: <https://www.youtube.com/watch?v=4eFD_Wj6dhk>
 
 News: <https://www.aerosociety.com/news/a-need-for-speed/>
+
+![](https://www.aerosociety.com/media/15500/blog-hero-image-transonic130.jpg?anchor=center&mode=crop&width=2448&height=990&rnd=132567473220000000)
 
 ---
 [Back to readme](readme.md)

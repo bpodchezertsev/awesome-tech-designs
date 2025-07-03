@@ -15,7 +15,7 @@ Videos of the first flying cyclocopters:
 - <https://www.youtube.com/watch?v=9ZYRii4MjLY>
 - <https://www.youtube.com/watch?v=mwgzCg9suTI>
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Cyclogyro-Mechanics.gif)
 
 ## Manned
 
@@ -28,6 +28,8 @@ Full-electric cyclocopter. Also horizontal omnicopter.
 Status: Designing
 
 Site: <https://www.cyclotech.at/future-applications>
+
+![](https://www.cyclotech.at/fileadmin/_processed_/7/2/csm_231002_cruiseup_cyclotech_s_afe69705bc.webp)
 
 Company: [Cyclotech](Company.md#cyclotech)
 
@@ -68,6 +70,7 @@ Status: Testing
 - [SUAV:Top](readme.md#suavtop): Largest flying partial omnicopter.
 
 ![](https://www.cyclotech.at/fileadmin/_processed_/7/7/csm_blackbird_free_flight_screenshot_8_151c284bd0.webp)
+
 Company: [Cyclotech](Company.md#cyclotech)
 
 - Move: 3 axis
@@ -97,9 +100,9 @@ but that properties does not tested.
 
 Status: Dismissed
 
-![](https://www.cyclotech.at/fileadmin/_processed_/2/a/csm_230928_free_flight_demonstrator-9_7786384705.webp)
-
 Site: <https://www.cyclotech.at/rotor-solutions>
+
+![](https://www.cyclotech.at/fileadmin/_processed_/2/a/csm_230928_free_flight_demonstrator-9_7786384705.webp)
 
 Company: [Cyclotech](Company.md#cyclotech)
 
@@ -122,6 +125,8 @@ Status: Cancelled
 
 Site: <https://www.cyclotech.at/future-applications>
 
+![](https://www.cyclotech.at/fileadmin/_processed_/e/3/csm_220401_ccy-01_-logistic-centre_x-2048x1152_db40295eff.webp)
+
 Company: [Cyclotech](Company.md#cyclotech)
 
 - Move: 2 axis
@@ -142,6 +147,8 @@ A series of experimental cyclocopters.
 Status: Unknown
 
 Videos: <https://www.youtube.com/@cyclocopter>
+
+![](https://img.youtube.com/vi/VEP4KYqkF4k/0.jpg)
 
 Research center: [Seoul National University](ResearchCentre.md#seoul-national-university)
 

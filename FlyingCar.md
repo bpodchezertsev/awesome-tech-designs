@@ -18,8 +18,6 @@ Wikipedia: <https://en.wikipedia.org/wiki/Flying_car>
 
 ## Samson Sky Switchblade
 
-Company: [Samson Sky](Company.md#samson-sky)
-
 Type: Airplane
 
 Prototypes built: 1
@@ -31,6 +29,10 @@ Certification: Sold as a kit without certification.
 Site: <https://www.samsonsky.com/models/#switchblade-regular>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Samson_Switchblade>
+
+![](https://cdn.samsonsky.com/wp-content/uploads/2024/07/08173910/samson-blog-latest_updates-dec_12_2023-01.jpg)
+
+Company: [Samson Sky](Company.md#samson-sky)
 
 Videos: <https://www.youtube.com/@SamsonSkySwitchblade/videos>
 
@@ -69,8 +71,6 @@ Specifications:
 
 ## Klein Vision AirCar
 
-Company: [Klein Vision](Company.md#klein-vision)
-
 Type: Airplane
 
 Status: Unknown
@@ -79,6 +79,12 @@ Project predecessor: [AeroMobil](#aeromobil)
 
 Site: <https://www.klein-vision.com/>
 
+Wikipedia: <https://en.wikipedia.org/wiki/Klein_Vision_AirCar>
+
+![](https://www.klein-vision.com/wp-content/uploads/2024/03/DSC_7362_2.jpg)
+
+Company: [Klein Vision](Company.md#klein-vision)
+
 News: <https://www.klein-vision.com/newsroom>
 
 Latest news: <https://www.klein-vision.com/press-2024> (2024-04-23) 
@@ -86,8 +92,6 @@ Latest news: <https://www.klein-vision.com/press-2024> (2024-04-23)
 Videos: <https://www.youtube.com/@kleinvision4411/videos> last updated 2024-04-24
 
 Latest flight video of the latest prototype: <https://www.youtube.com/watch?v=ZEHbYGqtJp4> (2024-04-24) 
-
-Wikipedia: <https://en.wikipedia.org/wiki/Klein_Vision_AirCar>
 
 Linkedin: <https://www.linkedin.com/company/kleinvision/>
 
@@ -119,6 +123,8 @@ Status: Inactive
 Site: <https://www.pal-v.com/en/professional-applications>
 
 Wikipedia: <https://en.wikipedia.org/wiki/PAL-V_Liberty>
+
+![](https://pal-v.imgix.net/files/Headers/Full-Hight-Headers/img-banner02@2x.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1279&q=60&w=3838&s=ebde89645fc43c78b7918b1f1d05ee27)
 
 Company: [Pal-V](Company.md#pal-v)
 
@@ -160,6 +166,8 @@ Type: Autogyro
 
 Status: Cancelled
 
+![](https://pal-v.imgix.net/files/Timeline/PAL-V-Liberty-flying-car-Timeline-008.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=767&q=60&w=1150&s=6277644059f79a706cca169532f2a1a2)
+
 Company: [Pal-V](Company.md#pal-v)
 
 Last flight video: <https://www.youtube.com/watch?v=oWLhgSJaOnk>
@@ -170,13 +178,15 @@ Last drive video: <https://www.youtube.com/watch?v=F86USjkajco>
 
 ## AeroMobil
 
-Company: [AeroMobil](Company.md#aeromobil)
-
 Type: Airplane
 
 Status: Cancelled
 
 Project successor: [Klein Vision AirCar](#klein-vision-aircar)
+
+![](https://www.aeromobil.com/images/tf_7.png)
+
+Company: [AeroMobil](Company.md#aeromobil)
 
 Latest flight video of the latest prototype: <https://www.youtube.com/watch?v=zhAdHUgoc2c> (2021-03-04)
 

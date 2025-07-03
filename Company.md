@@ -212,7 +212,7 @@ Site: <https://boomsupersonic.com/>
 
 Location: [USA](ProjectByCountry.md#usa)
 
-Wikipedia: <https://ru.wikipedia.org/wiki/Boom_Technology>
+Wikipedia: <https://en.wikipedia.org/wiki/Boom_Technology>
 
 News: <https://boomsupersonic.com/newsroom>
 
@@ -619,6 +619,7 @@ Child company:
 Projects:
 - [Orion](Space.md#orion)
 - Cancelled but continued by other company: [ARES](UAV.VTOL.md#ares)
+- [NASA X-59 Quesst](Supersonic.md#nasa-x-59-quesst)
 
 
 

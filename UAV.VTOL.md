@@ -17,6 +17,8 @@ Project highlights modern vision of a modular system based on tiltrotor design.
 
 Site: <https://piasecki.com/projects/ares-aerial-reconfigurable-embedded-system/2717/>
 
+![](https://piasecki.com/wp-content/uploads/2019/06/P18-198-05-1536x810.jpg)
+
 Company: [Piasecki](Company.md#piasecki)
 
 Previous project developer: [Lockheed Martin](Company.md#lockheed-martin)
@@ -37,6 +39,8 @@ Last news: <https://piasecki.com/news/ares-tilt-duct-vtol-hovers/3442/> (2024-09
 Type: Lift-fan
 
 Status: Prototyping.
+
+![](https://www.aurora.aero/wp-content/uploads/2024/10/SPRINT_Vision_TakeOff.jpg)
 
 Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
 
@@ -62,6 +66,10 @@ Status: Cancelled.
 [Top loss](readme.md#top-loss): Last built scaled prototype of lift-fan aircraft.
 
 Wikipedia: <https://en.wikipedia.org/wiki/AgustaWestland_Project_Zero>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AgustaWestland_Project_Zero_at_Paris_Air_Show_2013_2.jpg/2560px-AgustaWestland_Project_Zero_at_Paris_Air_Show_2013_2.jpg)
+
+Company: [AgustaWestland](Company.md#agustawestland)
 
 Note: Possible cancellation reason is unstability of large scale models.
 If instability of large scale models is a possible reason for cancellation, we will never see lift-fan aircraft again.

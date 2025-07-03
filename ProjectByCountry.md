@@ -53,6 +53,7 @@ Companies with a single project presented as project._
   - [Joby S4](VTOL.md#joby-s4)
 - [Lockheed Martin](Company.md#lockheed-martin)
   - [Orion](Space.md#orion)
+  - [NASA X-59 Quesst](Supersonic.md#nasa-x-59-quesst)
   - [Sikorsky](Company.md#sikorsky)
     - [Sikorsky–Boeing SB-1 Defiant](CompoundHelicopter.md#sikorskyboeing-sb-1-defiant)
     - [Sikorsky RAIDER X](CompoundHelicopter.md#sikorsky-raider-x)

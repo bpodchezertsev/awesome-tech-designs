@@ -26,6 +26,8 @@ Certification: Experimental
 
 Site: <https://equatoraircraft.com/Prototype.html>
 
+![](https://impro.usercontent.one/appid/oneComWsb/domain/equatoraircraft.com/media/equatoraircraft.com/onewebmedia/Fly%20past%20flight%202.jpg?etag=%2217da6-5e0e0e3c%22&sourceContentType=image%2Fjpeg&quality=85&progressive)
+
 Company: [Equator Aircraft](Company.md#equator-aircraft)
 
 Specifications:
@@ -67,6 +69,8 @@ Status: In service
 Site: <https://www.iconaircraft.com/a5/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/ICON_A5>
+
+![](https://www.iconaircraft.com/wp-content/uploads/2023/07/Velocity_ICONA5_Web.jpg)
 
 Company: [Icon Aircraft](Company.md#icon-aircraft)
 

@@ -20,6 +20,8 @@ Status: Designing
 
 Site: <https://www.hermeus.com/halcyon>
 
+![](https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/69eacfd8-98e7-4df9-b008-9bb905b27c3f/Halycon_Side+1080.jpg?format=2500w)
+
 Company: [Hermeus](Company.md#hermeus)
 
 
@@ -37,9 +39,11 @@ Status: Flight tests.
 
 Site: https://www.stratolaunch.com/vehicles/talon-a/
 
-Company: [Stratolaunch](Company.md#stratolaunch)
-
 Wikipedia: https://en.wikipedia.org/wiki/Stratolaunch_Systems#Talon-A
+
+![](https://assets.stratolaunch.com/default/Stratolaunchs-Talon-A2-release-and-engine-ignition-for-its-first-hypersonic-flight_Zoom.jpg?auto=compress&crop=focalpoint&domain=assets.stratolaunch.com&fit=crop&fm=pjpg&fp-x=0.5&fp-y=0.5&h=2560&ixlib=php-3.3.1&usm=20&w=3840)
+
+Company: [Stratolaunch](Company.md#stratolaunch)
 
 [UAV.Top](readme.md#uavtop): First ever fully reusable hypersonic test vehicle.
 
@@ -55,8 +59,6 @@ Specifications:
 
 #### Quarterhorse MK 1
 
-Company: [Hermeus](Company.md#hermeus)
-
 Technology demonstrator.
 
 Primary mission is to demonstrate high-speed takeoff and landing – a key enabling capability unique to future hypersonic aircraft on the company’s roadmap.
@@ -64,6 +66,12 @@ Primary mission is to demonstrate high-speed takeoff and landing – a key enabl
 Flight tests took place at Edwards Air Force Base in May 2025.
 
 Status: Flight tests.
+
+Site: <https://www.hermeus.com/quarterhorse>
+
+![](https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/d4630460-2b1f-4255-ba8f-adb14baef6b1/Quarterhorse-Mk-1-Lakebed.jpg?format=2500w)
+
+Company: [Hermeus](Company.md#hermeus)
 
 First flight video: <https://www.youtube.com/watch?v=B0wxWGTSKd0> (2025-05-30)
 
@@ -84,6 +92,10 @@ Status: Manufacturing
 Project predecessor: [Quarterhorse MK 1](#quarterhorse-mk-1)
 Project successor: [Darkhorse](#darkhorse)
 
+Site: <https://www.hermeus.com/quarterhorse>
+
+![](https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/82b1fc9c-40ae-486d-a27d-f9153e100e9f/Quarterhorse_MK2_In_Flight_2.png?format=2500w)
+
 Company: [Hermeus](Company.md#hermeus)
 
 Quarterhorse Mk 2 is about the size of an F-16, features a variable inlet, a delta wing design, and is powered by a Pratt & Whitney F100 engine.
@@ -97,6 +109,8 @@ Multi-mission hypersonic UAV designed for defense and national security missions
 Status: Designing
 
 Site: <https://www.hermeus.com/darkhorse>
+
+![](https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/d4f0f6a4-9c85-41f9-b39b-ea0a29e9bd08/Darkhorse_Angle2+copy.jpg?format=2500w)
 
 Company: [Hermeus](Company.md#hermeus)
 
@@ -118,9 +132,13 @@ Status: Prototype ground tests. First flights planned to be in 2025.
 
 Site: <https://www.nasa.gov/mission/quesst/>
 
-News: <https://www.nasa.gov/more-quesst-news/>
-
 Wikipedia: <https://en.wikipedia.org/wiki/Lockheed_Martin_X-59_Quesst>
+
+![](https://www.nasa.gov/wp-content/uploads/2024/01/afrc2024-0004-001orig.jpg)
+
+Company: [Lockheed Martin](Company.md#lockheed-martin)
+
+News: <https://www.nasa.gov/more-quesst-news/>
 
 Videos: <https://www.youtube.com/watch?v=8fS9PFQEPbo&list=PLiuUQ9asub3SMyogFLHvHRdYJXEe8E4TP>
 
@@ -136,9 +154,13 @@ XB-1 "Baby Boom" completes final flight on 2025-02-10.
 
 Status: Dismissed
 
-Company: [Boom Supersonic](Company.md#boom-supersonic)
+Site: <https://boomsupersonic.com/xb-1>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Boom_XB-1>
+
+![](https://boomsupersonic.com/wp-content/uploads/2025/02/xb-1-milestone-2025-02-flight-13-1.jpg)
+
+Company: [Boom Supersonic](Company.md#boom-supersonic)
 
 First supersonic flight video: <https://www.youtube.com/watch?v=-qisIViAHwI> 2025-01-28
 
@@ -149,6 +171,12 @@ Mission highlights video: <https://www.youtube.com/watch?v=iv83KwO1qCs> 2025-04-
 #### Overture
 
 Status: Preparations on [Symphony engine](Propulsion.md#symphony-engine) test site.
+
+Site: <https://boomsupersonic.com/overture>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Boom_Overture>
+
+![](https://boomsupersonic.com/wp-content/uploads/2025/05/250606-FlyBy_breaking-the-sound-barrier-again-1.jpg)
 
 Company: [Boom Supersonic](Company.md#boom-supersonic)
 
@@ -164,6 +192,10 @@ Suborbital spaceplane.
 
 Site: <https://www.dawnaerospace.com/spaceplane>
 
+Wikipedia: <https://en.wikipedia.org/wiki/Dawn_Aerospace#Dawn_Mk-II_Aurora_spaceplane>
+
+![](https://images.squarespace-cdn.com/content/v1/5e82736a5e6bb91e8af13ea7/7cd0e114-4410-4d12-ba75-e81efc2e48a4/Dawn%2BMk-II%2BAurora%2BGlentanner+Runway%2BRockets+-+white+fade+v2.png?format=2500w)
+
 Company: [Dawn Aerospace](Company.md#dawn-aerospace)
 
 
@@ -178,9 +210,11 @@ Company: [Dawn Aerospace](Company.md#dawn-aerospace)
 
 #### The mach initiative
 
-Site: <https://www.themachinitiative.com/>
-
 Goal: The Mach Initiative aims to break this record, by designing an aircraft that will reach speeds exceeding 570 MPH (Mach 0.75) at sea level.
+
+Videos: <https://www.youtube.com/@TheMachInitiative/videos>
+
+Linkedin: <https://www.linkedin.com/company/the-mach-initiative/>
 
 ---
 [Back to readme](readme.md)

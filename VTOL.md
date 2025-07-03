@@ -41,6 +41,8 @@ Site: <https://www.beta.team/aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Beta_Technologies#Products>
 
+![](https://beta.team/hubfs/Photos/alia-charging-new-cube.jpg)
+
 Company: [Beta Technologies](Company.md#beta-technologies)
 
 - Wingspan: 15.2m

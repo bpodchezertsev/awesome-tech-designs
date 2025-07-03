@@ -115,6 +115,8 @@ Status: In service
 
 Site: <https://www.pitchaero.com/astria-drone>
 
+![](https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/274614094_372447074881875_4520485533615979532_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=G8IdrpgyidkQ7kNvwEGHyd_&_nc_oc=AdlDx-2zE7W38vgCX9ajJJmPQ8fQOEY9aRdqCxe11Voyp-6X4EOnCtk8f-qqTGyGnI0&_nc_zt=23&_nc_ht=scontent.fevn7-1.fna&_nc_gid=rKdsKWPcI1-E2-vppMeiOA&oh=00_AfPuhgd3p11V2qN-LS9kvbFiZ4SAUlIRhuBJFFLnaXrmng&oe=686CD126)
+
 Company: [Pitch Aeronautics](Company.md#pitch-aeronautics)
 
 Operation types:
@@ -124,8 +126,6 @@ Operation types:
 
 
 ### Voliro T
-
-Company: [Voliro](Company.md#voliro)
 
 Partial omnicopter.
 
@@ -142,6 +142,10 @@ Site: <https://voliro.com/voliro-solution/>
 
 [SUAV:Top](readme.md#suavtop): Partial omnicopter in service.
 [SUAV:Top ever](readme.md#suavtop-ever): First partial omnicopter in service
+
+![](https://cdn.voliro.com/wp-content/uploads/2024/10/Voliro-T-v5-top-view-without-payload-scaled.jpeg)
+
+Company: [Voliro](Company.md#voliro)
 
 Main operation type: <https://voliro.com/blog/dry-film-thickness-measurement/>
 
@@ -191,6 +195,8 @@ but more basically it related to doubled design of [Triangular Quadrotor: A More
 
 Site: <https://ucvision.org.nz/drones/>
 
+![](https://ucvision.org.nz/wp-content/uploads/sites/2/2024/06/DSC_1734web.jpg)
+
 Research centre: [University of Canterbury](ResearchCentre.md#university-of-canterbury)
 
 
@@ -209,6 +215,8 @@ Project highlights partial omnicopter with relative to standard quadcopter desig
 - Rotation: 1+ axis
 
 Site: <https://tilties2.github.io/omniquad-website/>, <https://github.com/tilties2/PX4-OmniQuad>
+
+![](https://tilties2.github.io/omniquad-website/static/images/omniquad_real.png)
 
 Video: <https://www.youtube.com/watch?v=nwnB2agqT-0>
 
@@ -267,12 +275,14 @@ Project highlights use of 8 fixed pitch propellers mounted on a cubic frame.
 - Move: 3 axis
 - Rotation: 3 axis
 
+Site: <https://docs.px4.io/main/en/frames_multicopter/omnicopter.html>
+
+![](https://docs.px4.io/main/assets/frame.B4dqpIE-.jpg)
+
 Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
 
 [SUAV:Top ever](readme.md#suavtop-ever): First ever flying omnicopter.
 [SUAV:Top ever](readme.md#suavtop-ever): First ever omnicopter in open-source.
-
-Specs: <https://docs.px4.io/main/en/frames_multicopter/omnicopter.html>
 
 Videos:
 - <https://www.youtube.com/@dariobrescianini4526/videos>
@@ -308,19 +318,20 @@ Project highlights use of fixed impellers with thrust-vector control by moving t
 
 Site: <https://avero.ethz.ch/>
 
+![](https://avero.ethz.ch/wp-content/uploads/2024/07/Avero_Rendering_10_Technical_Topshot-min-600x338.png)
+
+Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
+
 Video: <https://www.youtube.com/watch?v=9URnHWqpSHI>
 
 Linkedin: <https://www.linkedin.com/company/averodrone/>
 
 Instagram: <https://www.instagram.com/avero_drone/>
 
-Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
 
 
 
 ### HAGAMOSphere
-
-Company: [DIC](Company.md#dic)
 
 Project highlights a coaxial omnicopter with 8 fixed-pitch rotors.
 
@@ -330,6 +341,10 @@ Status: Prototyping
 - Rotation: 3 axis
 
 Site: <https://hagamosphere.com/>
+
+![](https://hagamosphere.com/assets/images/scenes_body.png)
+
+Company: [DIC](Company.md#dic)
 
 Video: <https://www.youtube.com/watch?v=gqsHMn_8EQM> (2024-12-19)
 
@@ -346,6 +361,8 @@ Status: Cancelled
 
 [SUAV:Top ever](readme.md#suavtop-ever): The first ever horizontal omnicopter.
 
+![](https://img.youtube.com/vi/UR1KxYMujtQ/0.jpg)
+
 Video: <https://www.youtube.com/watch?v=UR1KxYMujtQ> (2018-07-25)
 
 
@@ -360,6 +377,8 @@ Status: Inactive.
 - Rotation: 3 axis
 
 Site: <https://www.terryslynchpins.com/>
+
+![](https://images.squarespace-cdn.com/content/v1/5f3c292b69b32e2a8fc88ce7/272b2cca-d827-41ce-abdc-6f97f5e81193/Lynchpin+Yellow.png)
 
 Videos:
 - <https://www.youtube.com/@thelynchpinproject7779/videos>

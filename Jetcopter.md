@@ -14,13 +14,15 @@ before expelling it through a nozzles outside the craft.
 
 ### JetQuad
 
-Company: [Fusion Flight](Company.md#fusion-flight)
-
 Projects highlights non-central symmetric quadcopter-like frame design with thrust-vectoring nodes.
 
 Status: Flight tests.
 
 Site: <https://fusionflight.com/jetquad/>
+
+![](https://i0.wp.com/fusionflight.com/wp-content/uploads/2025/05/jetquad-takeoff.jpg?w=1280&ssl=1)
+
+Company: [Fusion Flight](Company.md#fusion-flight)
 
 First flight video <https://www.youtube.com/watch?v=2yTcCUOQPzE> (2019-08-19)
 
@@ -71,6 +73,8 @@ Main article: [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
 Projects highlights central symmetric quadcopter-like frame design with central ducted fans and bent tubes outside.
 
 Status: Unknown
+
+![](https://img.youtube.com/vi/5L6FSdUmEpg/0.jpg)
 
 Linkedin: <https://www.linkedin.com/in/stefano-rivellini-8a3136172/>
 

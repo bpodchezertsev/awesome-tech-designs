@@ -23,6 +23,8 @@ Status: Cancelled
 
 [Top loss](readme.md#top-loss): Cancelled BWB program
 
+![](https://www.airbus.com/sites/g/files/jlcbta136/files/styles/w1440h1080/public/2021-09/MAVERIC-3D-01.webp?itok=S7mh6vXH)
+
 Company: [Airbus](Company.md#airbus)
 
 Further development continued within the Airbus ZEROe project
@@ -45,6 +47,8 @@ Status: Cancelled
 
 [Top loss](readme.md#top-loss): Cancelled BWB program
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/X-48B_from_above.jpg/2880px-X-48B_from_above.jpg)
+
 Company: [Aurora Flight Sciences](Company.md#aurora-flight-sciences)
 
 Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-48>
@@ -57,6 +61,9 @@ Blended wing body commercial/freight/military airliner.
 
 Status: Designing
 
+Site: <https://www.jetzero.aero/aircraft>
+
+![](https://www.jetzero.aero/hubfs/JetZero_ComStill_Sunset_720crop-1.png)
 
 Company: [JetZero](Company.md#jetzero)
 
@@ -69,6 +76,10 @@ Blended wing body freight/military airliner.
 Status: Building.
 
 Claim: first flight in 2027
+
+Site: <https://www.jetzero.aero/progress>
+
+![](https://www.jetzero.aero/hs-fs/hubfs/Video-still-FQL.png?width=3000&height=1688&name=Video-still-FQL.png)
 
 Company: [JetZero](Company.md#jetzero)
 
@@ -89,6 +100,10 @@ Specifications:
 - Payload capacity: 25000kg
 - Max range: 6482km
 
+Site: <https://natilus.co/horizon/>
+
+![](https://natilus.co/wp-content/uploads/2024/10/Low_horizon_Extended.jpeg)
+
 Company: [Natilus](Company.md#natilus)
 
 Site: <https://natilus.co/horizon/>
@@ -105,6 +120,10 @@ Specifications:
 - Crew: 0+
 - Cargo capacity: 3800kg
 - Max range: 1667km
+
+Site: <https://natilus.co/kona/>
+
+![](https://natilus.co/wp-content/uploads/2024/10/Kona_product_hero-2.jpg)
 
 Company: [Natilus](Company.md#natilus)
 
@@ -124,6 +143,8 @@ Status: Testing
 
 Latest news about undergoing tests (2024-03-26) <https://aviationweek.com/aerospace/emerging-technologies/faa-clears-jetzero-bwb-subscale-demo-flight-tests>
 
+![](https://www.jetzero.aero/hubfs/s2-assets/compressed-images/AV-2-hangar-DSC_2178-1.png)
+
 Company: [JetZero](Company.md#jetzero)
 
 Program: [NASA](Program.md#nasa)
@@ -137,6 +158,8 @@ Prototyping of a blended wing body airliner.
 Status: Testing
 
 Last scaled prototype flight video (2023-04-19): <https://www.youtube.com/watch?v=FpIEG1G71p8>
+
+![](https://natilus.co/wp-content/uploads/elementor/thumbs/Kona-Subcale-Prototype-In-Flight-April-2023-2-qvy11eyez49ajiycxw6ecblmcfdhmjvteklwe86o74.png)
 
 Company: [Natilus](Company.md#natilus)
 
