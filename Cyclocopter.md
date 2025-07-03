@@ -99,7 +99,6 @@ Status: Dismissed
 
 ![](https://www.cyclotech.at/fileadmin/_processed_/2/a/csm_230928_free_flight_demonstrator-9_7786384705.webp)
 
-
 Site: <https://www.cyclotech.at/rotor-solutions>
 
 Company: [Cyclotech](Company.md#cyclotech)
