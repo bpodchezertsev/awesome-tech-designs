@@ -27,7 +27,7 @@ Full-electric cyclocopter. Also horizontal omnicopter.
 
 Status: Designing
 
-Site: <https://www.cyclotech.at/future-applications?
+Site: <https://www.cyclotech.at/future-applications>
 
 Company: [Cyclotech](Company.md#cyclotech)
 
