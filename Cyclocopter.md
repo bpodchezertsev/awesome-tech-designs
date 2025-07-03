@@ -56,6 +56,10 @@ Scaled prototype of [Cyclotech CruiseUp](#cyclotech-cruiseup)
 Instead of [Cyclotech Technology Demonstrator](#cyclotech-technology-demonstrator) with 4 cyclorotor,
 the BlackBird uses 6 in configuration, which allows to move any direction in horizontal plane without yaw.
 
+The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
+
+The BlackBird can also be a partial omnicopter, as it can maintain static stability at any pitch angle.
+
 Site: <https://www.cyclotech.at/rotor-solutions>
 
 Status: Testing
@@ -63,14 +67,13 @@ Status: Testing
 - [SUAV:Top](readme.md#suavtop): Largest flying cyclocopter.
 - [SUAV:Top](readme.md#suavtop): Largest flying partial omnicopter.
 
+![](https://www.cyclotech.at/fileadmin/_processed_/7/7/csm_blackbird_free_flight_screenshot_8_151c284bd0.webp)
 Company: [Cyclotech](Company.md#cyclotech)
 
 - Move: 3 axis
 - Rotation: 2 axis
 
-The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
-
-The BlackBird can also be a partial omnicopter, as it can maintain static stability at any pitch angle.
+News: <https://www.cyclotech.at/news/newsroom/blackbird-demonstrator-maiden-flight>
 
 Video of first flight: <https://www.youtube.com/watch?v=8OUyR9pCiVs> (2025-03-27)
 
@@ -86,7 +89,15 @@ First scaled prototype developed by Cyclotech.
 
 Demonstrator uses 4 cyclorotors.
 
+Demonstrator has compound helicopter like capabilities, as it does not tilt during acceleration/braking.
+
+Demonstrator can also be a partial single-axis omnicopter (if it has enough thrust),
+as it can maintain static stability while rotating 360 degrees on the pitch axis,
+but that properties does not tested.
+
 Status: Dismissed
+
+![](https://www.cyclotech.at/fileadmin/_processed_/2/a/csm_230928_free_flight_demonstrator-9_7786384705.webp)
 
 Site: <https://www.cyclotech.at/rotor-solutions>
 
@@ -98,11 +109,8 @@ Company: [Cyclotech](Company.md#cyclotech)
 Video of first flight: <https://www.youtube.com/watch?v=I2qkhmz4z1E> (2021-10-05)
 Video of last flight: <https://www.youtube.com/watch?v=oYOZYsHs7_Q> (2024-12-19)
 
-Demonstrator has compound helicopter like capabilities, as it does not tilt during acceleration/braking.
+News: https://www.cyclotech.at/news/newsroom/cyclotech-starts-outdoor-flying>
 
-Demonstrator can also be a partial single-axis omnicopter (if it has enough thrust),
-as it can maintain static stability while rotating 360 degrees on the pitch axis,
-but that properties does not tested.
 
 
 
