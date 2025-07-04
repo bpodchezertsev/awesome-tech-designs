@@ -74,9 +74,11 @@ Plans: to carry first passengers in late 2025 or early 2026
 
 Certification: expects full certification in 2025
 
-Company: [Joby Aviation](Company.md#joby-aviation)
-
 Site: <https://www.jobyaviation.com/>
+
+![](https://images.prismic.io/joby-site/bacef4a2-73cc-407b-ba1a-3ce4e9bc3503_Joby-Edwards-3.jpg?auto=compress,format&fit=crop&crop=faces&rect=null&q=10&blend-color=null&blend-mode=null&w=1800&h=807&dpr=1.5)
+
+Company: [Joby Aviation](Company.md#joby-aviation)
 
 Specifications:
 - Crew: 1
@@ -109,9 +111,9 @@ Since the engines are integrated into the wing, it looks like a partially tilted
 
 Status: Cancelled
 
-Company: [Lilium](Company.md#lilium)
+![](https://assets.newatlas.com/dims4/default/892024a/2147483647/strip/true/crop/1916x1080+0+0/resize/2880x1623!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Flilium-jet-maiden-flight-1.png)
 
-Wikipedia: <https://en.wikipedia.org/wiki/Lilium_Jet>
+Company: [Lilium](Company.md#lilium)
 
 Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
 
@@ -129,6 +131,8 @@ Status: Piloted test flights
 Certification: FAA certified
 
 Site: <https://archer.com/aircraft>
+
+![](https://images.prismic.io/archerv2/aEugBLNJEFaPX7qP_2025-0612_T01-Salinas_landscape_-1-.jpg?auto=format,compress)
 
 Company: [Archer](Company.md#archer)
 
@@ -154,7 +158,11 @@ Project highlights engines fixed in place. (Instead of regular tilt-rotor aircra
 
 Site: <https://www.bellflight.com/products/bell-v-280>
 
-News: <https://news.bellflight.com/en-US/tags/bell-v-280/> last updated 2024-12-17
+![](https://d21buns5ku92am.cloudfront.net/67992/images/561043-VTOL%20gear%20up%5B68%5D-4cfacb-large-1730844164.jpg)
+
+[Bell Textron](Company.md#bell-textron)
+
+News: <https://news.bellflight.com/en-US/tags/bell-v-280/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Bell_V-280_Valor>
 
@@ -182,7 +190,11 @@ Tandem-wing eVTOL.
 
 Project highlights using of tandem wing and propulsion fans.
 
+Status: Prototyping
+
 Site: https://www.volocopter.com/en/solutions/voloregion
+
+![](https://img.youtube.com/vi/9OZhV8WRgPc/maxresdefault.jpg)
 
 Company: [Volocopter](Company.md#volocopter)
 
@@ -207,6 +219,8 @@ Design with frontal tilting rotors only.
 Status: Piloted test flights
 
 Site: <https://vertical-aerospace.com/meet-the-vx4/>
+
+![](https://vertical-aerospace.com/wp-content/uploads/2025/01/AG-VerticalAerospace-FlightExtras-Jan25-14-768x512.jpg)
 
 Company: [Vertical Aerospace](Company.md#vertical-aerospace)
 

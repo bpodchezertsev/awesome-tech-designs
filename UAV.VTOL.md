@@ -57,7 +57,7 @@ If instability of large scale models is a possible reason for cancellation, we w
 
 
 
-### Project Zero
+### AgustaWestland Project Zero
 
 Type: Lift-fan.
 
@@ -69,7 +69,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/AgustaWestland_Project_Zero>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AgustaWestland_Project_Zero_at_Paris_Air_Show_2013_2.jpg/2560px-AgustaWestland_Project_Zero_at_Paris_Air_Show_2013_2.jpg)
 
-Company: [AgustaWestland](Company.md#agustawestland)
+Company: [Leonardo](Company.md#leonardo)
 
 Note: Possible cancellation reason is unstability of large scale models.
 If instability of large scale models is a possible reason for cancellation, we will never see lift-fan aircraft again.
@@ -82,6 +82,9 @@ Transwing is a dihedrally-folding wing transformation system for VTOL aircraft.
 
 [SUAV:Top](readme.md#suavtop): Best VTOL transforming wing design.
 
+Site: <https://pterodynamics.com/#section-991-9>
+
+![](https://i0.wp.com/pterodynamics.com/wp-content/uploads/2023/10/pd_transwingstages2ss.png?w=1200&ssl=1)
 Company: [Pterodynamics](Company.md#pterodynamics)
 
 Wikipedia: <https://en.wikipedia.org/wiki/PteroDynamics#Transwing>
@@ -99,6 +102,8 @@ Type: [Transwing](UAV.VTOL.md#transwing)
 First commercial transwing UAV.
 
 Status: In operation
+
+![](https://i0.wp.com/pterodynamics.com/wp-content/uploads/2024/12/BOG_1098_web_byBOGNER.jpg?w=1600&ssl=1)
 
 Company: [Pterodynamics](Company.md#pterodynamics)
 

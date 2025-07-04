@@ -40,9 +40,11 @@ Status: Certification in progress
 
 Certification: In progress
 
-Company: [Wigetworks](Company.md#wigetworks)
-
 Site: <https://wigetworks.com/>
+
+![](https://wigetworks.com/wp-content/uploads/2024/08/banner-background.png)
+
+Company: [Wigetworks](Company.md#wigetworks)
 
 News: <https://wigetworks.com/news/>
 
@@ -86,6 +88,8 @@ More details: <https://www.youtube.com/watch?v=1VyP36gW_-o>
 
 Site: <https://www.regentcraft.com/seagliders/viceroy>
 
+![](https://img.youtube.com/vi/HFXqVPeyxik/maxresdefault.jpg)
+
 Company: [Regent Craft](Company.md#regent-craft)
 
 Wikipedia: <https://en.wikipedia.org/wiki/REGENT_Viceroy>
@@ -128,11 +132,13 @@ Status: Research
 - [Top claim](readme.md#top-claim): The largest ever WIG in development by wingspan.
 - [Top claim](readme.md#top-claim): Largest modern WIG in development.
 
-Company: [Aurora](Company.md#aurora-flight-sciences)
-
 Site: <https://www.aurora.aero/experimental-aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Liberty_Lifter>
+
+![](https://www.aurora.aero/wp-content/uploads/2024/09/foxtrot-supply-edit-05-frame-at-0m2s-marked.jpg)
+
+Company: [Aurora](Company.md#aurora-flight-sciences)
 
 Last news: <https://www.aurora.aero/2024/09/24/liberty-lifter-transforming-fast-logistics-at-sea/> 2024-09-24
 

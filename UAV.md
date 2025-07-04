@@ -16,7 +16,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
 ## [VTOL](UAV.VTOL.md)
 - [Pterodynamics](UAV.VTOL.md#pterodynamics-transwing-p4)
 - [ARES](UAV.VTOL.md#ares)
-- [Project Zero](UAV.VTOL.md#project-zero)
+- [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
 
 ## [Copter](UAV.Copter.md)
 - [Omnicopter](Omnicopter.md#uav) ([Comparison](Omnicopter.md#comparison))

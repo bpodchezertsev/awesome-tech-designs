@@ -56,6 +56,20 @@ Instagram: <https://www.instagram.com/airbus>
 
 
 
+## Leonardo
+
+Aerospace, defence and security company.
+
+Site: <https://www.leonardo.com/en/>
+
+Location: [Italy](ProjectByCountry.md#italy)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Leonardo_(company)>
+
+- [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
+
+
+
 ## Archer
 
 eVTOL manufacturer.
@@ -117,6 +131,20 @@ Other projects:
 - [X-65 (CRANE)](https://www.aurora.aero/2024/01/03/aurora-begins-building-full-scale-active-flow-control-x-plane/)
 - [SPRINT](https://www.aurora.aero/2024/10/08/a-revolutionary-solution-for-contested-air-transport/)
 - [EPFD](https://spectrum.ieee.org/fly-the-hybrid-skies)
+
+
+
+# Bell Textron
+
+Aerospace manufacturer.
+
+Site: <https://www.bellflight.com/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Bell_Textron>
+
+Location: [USA](ProjectByCountry.md#usa)
+
+- [Valor](VTOL.md#valor)
 
 
 

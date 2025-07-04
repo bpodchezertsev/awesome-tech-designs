@@ -107,7 +107,7 @@ Enjoy!
 
 
 ### Top loss
-- Last built scaled prototype of lift-fan aircraft. [Project Zero](UAV.VTOL.md#project-zero)
+- Last built scaled prototype of lift-fan aircraft. [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
 - Cancelled BWB program [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
 - Cancelled BWB program [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)

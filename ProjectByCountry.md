@@ -1,10 +1,107 @@
 Project By Country
 ==================
 
-_Counties ordered by projects count + country name.
-Projects ordered by last update time.
-Projects grouped by company with most projects count.
-Companies with a single project presented as project._
+
+## EU
+
+- [Airbus](Company.md#airbus)
+  - [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
+  - [Airbus RACER](CompoundHelicopter.md#airbus-racer)
+- [The Exploration Company](Company.md#the-exploration-company)
+  - [Nyx](Space.md#nyx)
+
+
+## Germany
+
+- [Cyclotech](Company.md#cyclotech)
+  - [Cyclotech's cyclorotor](Propulsion.md#cyclotech)
+  - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
+  - [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+  - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
+  - [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator)
+- [Lilium](Company.md#lilium)
+  - [Lilium](VTOL.md#lilium)
+- [Volocopter](Company.md#volocopter)
+  - [Voloregion](VTOL.md#voloregion)
+  - [Volocopter 2X](Copter.Other.md#volocopter-2x)
+  - [Volocity](Copter.Other.md#volocity)
+
+
+## Italy
+
+- [Leonardo](Company.md#leonardo)
+  - [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
+
+
+## Japan
+- [DIC](Company.md#dic)
+  - [HAGAMOSphere](Omnicopter.md#hagamosphere)
+
+
+## Netherlands
+
+- [Dawn Aerospace](Company.md#dawn-aerospace)
+  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
+- [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
+  - [Flying V](Airplane.Other.md#flying-v)
+- [Pal-V](Company.md#pal-v)
+  - [Pal-V One](FlyingCar.md#pal-v-one)
+  - [Pal-V Liberty](FlyingCar.md#pal-v-liberty)
+
+
+## New Zealand
+
+- [Dawn Aerospace](Company.md#dawn-aerospace)
+  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
+- [Rocket Lab](Company.md#rocket-lab)
+  - [Electron](Space.md#electron)
+  - [Neutron](Space.md#neutron)
+- [University of Canterbury](ResearchCentre.md#university-of-canterbury)
+  - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
+
+
+## Singapore
+
+- [ST Engineering](Company.md#st-engineering)
+  - [Wigetworks](Company.md#wigetworks)
+    - [Airfish-8](WIG.md#airfish-8)
+
+
+## Slovakia
+
+- [AeroMobil](Company.md#aeromobil)
+  - [AeroMobil](FlyingCar.md#aeromobil)
+- [Klein Vision](Company.md#klein-vision)
+  - [Klein Vision AirCar](FlyingCar.md#klein-vision-aircar)
+
+
+## South Korea
+
+- [Seoul National University](ResearchCentre.md#seoul-national-university)
+  - [Seoul National University Cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters)
+
+
+## Swithzerland
+
+- [ETH Zurich](ResearchCentre.md#eth-zurich)
+  - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
+  - [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
+  - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+- [Voliro](Company.md#voliro)
+  - [Voliro T](Omnicopter.md#voliro-t)
+
+
+## UK
+
+- [Flowcopter](Company.md#flowcopter)
+  - [Flowcopter FC100](UAV.Copter.md#flowcopter-fc100)
+- [General Electric](Company.md#general-electric)
+  - [GE Aerospace](Company.md#ge-aerospace)
+    - [NASA’s EPFD](Program.md#nasas-electrified-powertrain-flight-demonstration-epfd)
+- [Reaction Engines](Company.md#reaction-engines)
+  - [SABRE](Propulsion.md#sabre)
+  - [Skylon](Space.md#skylon)
+
 
 ## USA
 
@@ -104,89 +201,6 @@ Companies with a single project presented as project._
 - [Vertical Aerospace](Company.md#vertical-aerospace)
   - [VX4](VTOL.md#vx4)
 
-## EU
-
-- [Airbus](Company.md#airbus)
-  - [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
-  - [Airbus RACER](CompoundHelicopter.md#airbus-racer)
-- [The Exploration Company](Company.md#the-exploration-company)
-  - [Nyx](Space.md#nyx)
-
-## Germany
-
-- [Cyclotech](Company.md#cyclotech)
-  - [Cyclotech's cyclorotor](Propulsion.md#cyclotech)
-  - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
-  - [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
-  - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
-  - [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator)
-- [Lilium](Company.md#lilium)
-  - [Lilium](VTOL.md#lilium)
-- [Volocopter](Company.md#volocopter)
-  - [Voloregion](VTOL.md#voloregion)
-  - [Volocopter 2X](Copter.Other.md#volocopter-2x)
-  - [Volocity](Copter.Other.md#volocity)
-
-## Swithzerland
-
-- [ETH Zurich](ResearchCentre.md#eth-zurich)
-  - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
-  - [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
-  - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
-- [Voliro](Company.md#voliro)
-  - [Voliro T](Omnicopter.md#voliro-t)
-
-## Netherlands
-- [Dawn Aerospace](Company.md#dawn-aerospace)
-  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
-- [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
-  - [Flying V](Airplane.Other.md#flying-v)
-- [Pal-V](Company.md#pal-v)
-  - [Pal-V One](FlyingCar.md#pal-v-one)
-  - [Pal-V Liberty](FlyingCar.md#pal-v-liberty)
-
-## New Zealand
-
-- [Dawn Aerospace](Company.md#dawn-aerospace)
-  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
-- [Rocket Lab](Company.md#rocket-lab)
-  - [Electron](Space.md#electron)
-  - [Neutron](Space.md#neutron)
-- [University of Canterbury](ResearchCentre.md#university-of-canterbury)
-  - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
-
-## Slovakia
-
-- [AeroMobil](Company.md#aeromobil)
-  - [AeroMobil](FlyingCar.md#aeromobil)
-- [Klein Vision](Company.md#klein-vision)
-  - [Klein Vision AirCar](FlyingCar.md#klein-vision-aircar)
-
-## South Korea
-
-- [Seoul National University](ResearchCentre.md#seoul-national-university)
-  - [Seoul National University Cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters)
-
-## UK
-
-- [Flowcopter](Company.md#flowcopter)
-  - [Flowcopter FC100](UAV.Copter.md#flowcopter-fc100)
-- [General Electric](Company.md#general-electric)
-  - [GE Aerospace](Company.md#ge-aerospace)
-    - [NASA’s EPFD](Program.md#nasas-electrified-powertrain-flight-demonstration-epfd)
-- [Reaction Engines](Company.md#reaction-engines)
-  - [SABRE](Propulsion.md#sabre)
-  - [Skylon](Space.md#skylon)
-
-## Japan
-- [DIC](Company.md#dic)
-  - [HAGAMOSphere](Omnicopter.md#hagamosphere)
-
-## Singapore
-
-- [ST Engineering](Company.md#st-engineering)
-  - [Wigetworks](Company.md#wigetworks)
-    - [Airfish-8](WIG.md#airfish-8)
 
 ---
 [Back to readme](readme.md)
