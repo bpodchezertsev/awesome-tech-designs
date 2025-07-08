@@ -95,8 +95,8 @@ Enjoy!
 ### Top
 - [Glider altitude record](Glider.md#altitude-record). [Perlan](Glider.md#perlan)
 - The largest WIG in trial operation. [Airfish-8](WIG.md#airfish-8)
-- The largest WIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
-- The largest eWIG undergoing sea trials. [Viceroy](WIG.md#viceroy)
+- The largest WIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
+- The largest eWIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
 
 
 ### Top claim

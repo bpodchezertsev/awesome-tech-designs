@@ -841,9 +841,11 @@ Wikipedia: <https://en.wikipedia.org/wiki/Reaction_Engines>
 
 
 
-## Regent Craft
+## REGENT Craft
 
 [WIG](WIG.md) manufacturer.
+
+REGENT = Regional Electric Ground Effect Naval Transport
 
 Site: <https://www.regentcraft.com/>
 
@@ -857,7 +859,7 @@ Linkedin: <https://www.linkedin.com/company/regentcraft/>
 
 Instagram: <https://www.instagram.com/regentcraft/>
 
-- [Viceroy](WIG.md#viceroy)
+- [REGENT Viceroy](WIG.md#regent-viceroy)
 
 
 

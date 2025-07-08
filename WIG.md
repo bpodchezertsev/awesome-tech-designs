@@ -26,6 +26,12 @@ Will anyone win this design challenge?
 
 Note: This list does not include small WIGs.
 
+## Comparison
+| Reference                         | Status                | Wingspan | Length  | Height | Int. length | Int. width | Int. height | Range | Cruise speed | Max speed | Max draft | Cruise height | Max height in flight | Max wind during T/O & landing | Comfortable wave at take off & landing | Max wave at take off & landing | Waves can be fly over | Crew | Cargo capacity | Passenger capacity                   |
+|-----------------------------------|-----------------------|----------|---------|--------|-------------|------------|-------------|-------|--------------|-----------|-----------|---------------|----------------------|-------------------------------|----------------------------------------|--------------------------------|-----------------------|------|----------------|--------------------------------------|
+| [Airfish-8](#airfish-8)           | Trial operation       | 15m      | 17.2m   | 3.5m   | 4.0m        | 1.4        |             |       | 185km/h      | 204km/h   | 0.55m     | 1-2m          | 7m (sea state 6)     | 15kt (27.8km/h)               |                                        | 1m (sea state 3)               |                       | 2    | 1000kg         | 8 + luggage (total 160kg/passenger)  |
+| [REGENT Viceroy](#regent-viceroy) | Undergoing sea trials | 20m      | 16.8m   |        | 8m          | 1.7m       | 1.8m        | 300km | 300km/h      |           |           |               | 10m                  |                               | 1.5m (sea state 3)                     |                                | 4m (sea state 5)      | 2    | 1600kg         | 12 + luggage (total 115kg/passenger) |
+
 
 
 ## Airfish-8
@@ -69,7 +75,7 @@ Specifications:
 
 
 
-## Viceroy
+## REGENT Viceroy
 
 Possible WIG type: [B-type WIG](#b-type).
 
@@ -90,7 +96,7 @@ Site: <https://www.regentcraft.com/seagliders/viceroy>
 
 ![](https://img.youtube.com/vi/HFXqVPeyxik/maxresdefault.jpg)
 
-Company: [Regent Craft](Company.md#regent-craft)
+Company: [REGENT Craft](Company.md#regent-craft)
 
 Wikipedia: <https://en.wikipedia.org/wiki/REGENT_Viceroy>
 
@@ -110,9 +116,10 @@ Specifications:
 - Interior cabin height: 1.8m
 - Range: 300km
 - Cruise speed: 160kt (300km/h)
+- Max height in flight: 10m
 - Comfortable waves for take off and landing: 1.5m (sea state 3)
 - Waves can be fly over: 4m (sea state 5)
-- Crew: 2 operators
+- Crew: 2
 - Cargo capacity: 1600kg
 - Passenger capacity: 1350kg (12 passengers + luggage) or total 115kg per passenger.
 
@@ -146,12 +153,12 @@ DARPA: <https://www.darpa.mil/research/programs/liberty-lifter>
 
 Last video: <https://www.youtube.com/watch?v=xzWsxEr2juQ> 2024-09-24
 
-Scaled prototype demonstrator specifications:
+### Scaled prototype demonstrator specifications:
 - Wingspan: 65m
 - Capacity: 22680kg
 - Estimated launch: 2028
 
-Specifications:
+### Specifications:
 - Cruise altitude: <30m
 - Max altitude: 3000m
 - Range at cruise speed: 12000km
