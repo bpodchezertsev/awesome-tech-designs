@@ -8,6 +8,50 @@ before expelling it through a nozzles outside the craft.
 
 
 
+## Manned
+
+
+## Axion
+
+Projects highlights non-central symmetric quadcopter-like frame design with thrust-vectoring nodes.
+
+Status: Ground tests
+
+Site: <https://fusionflight.com/axion/>
+
+![](https://i0.wp.com/fusionflight.com/wp-content/uploads/2025/06/alex-and-axion-1.jpeg?w=1280&ssl=1)
+
+Company: [Fusion Flight](Company.md#fusion-flight)
+
+See also: [Cyclotech Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator), [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+
+Specifications:
+- Maximum Take-off: 230kg
+- Mass (Dry): 70kg
+- Mass (Payload): 80kg
+- Mass (Fuel): 80kg
+- Dimensions (L x W x H): 2.2m x 1.6m x 0.8m
+- Total Thrust Output (max): 188lbf (3600N)
+- Cruise Velocity (max): 360km/h (100m/s)
+- Ascent Velocity (max): 25m/s
+- Range (one-way with SATCOM) 90km
+- Endurance (hover/ full-power cruise): 20min / 15min
+- Startup Altitude (Max): 2km
+- Operating Altitude (Max): 10km
+- Operating Temperature: -5C to 40C
+- Propulsion: 8x Microturbine Jet-Engine
+- Control: 4x Thrust Vectoring Nozzles
+- Start-up time: 30sec
+- Fuel Type: Heavy (Kerosene/Diesel/Jet-A)
+- Lubrication (mixed in fuel): 3% Turbo Oil
+- Turbine Rotational Rate (max): 60,000RPM
+- Fuel Flowrate (max power): 2Gal/min (7.6L/min)
+- Air Flowrate (max power): 560CFM (16,500L/min)
+- Exhaust Temperature: 1022F (550C)
+- Maintenance Interval: 50Hrs
+- Noise Level (max): 105dB
+
+
 ## UAV
 
 
@@ -16,7 +60,7 @@ before expelling it through a nozzles outside the craft.
 
 Projects highlights non-central symmetric quadcopter-like frame design with thrust-vectoring nodes.
 
-Status: Flight tests.
+Status: Flight tests
 
 Site: <https://fusionflight.com/jetquad/>
 
@@ -41,8 +85,8 @@ Specifications:
 - Ascent Velocity (max): 30m/s
 - Range (one-way with SATCOM) 100km
 - Endurance (hover/ full-power cruise): 20min / 15min
-- Startup Altitude (Max): 1.2mi (2km)
-- Operating Altitude (Max): 6mi (10km)
+- Startup Altitude (Max): 2km
+- Operating Altitude (Max): 10km
 - Operating Temperature: -5C to 40C
 - Propulsion: 4x Microturbine Jet-Engine
 - Control: 4x Thrust Vectoring Nozzles

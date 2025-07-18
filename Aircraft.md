@@ -48,6 +48,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aircraft>
     - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
   - [Omnicopter](Omnicopter.md#manned) ([Comparison](Omnicopter.md#comparison))
     - [Cyclotech CruiseUp](Omnicopter.md#cyclotech-cruiseup)
+  - [Jetcopter](Jetcopter.md#manned)
+    - [Axion](Jetcopter.md#axion)
   - [Other](Copter.Other.md)
     - [Volocity](Copter.Other.md#volocopter-2x)
     - [Volocopter 2X](Copter.Other.md#volocopter-2x)
@@ -55,6 +57,10 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aircraft>
   - [Hermeus Quarterhorse MK 1](Supersonic.md#quarterhorse-mk-1)
   - [NASA X-59 Quesst](Supersonic.md#nasa-x-59-quesst)
   - [XB-1 "Baby Boom"](Supersonic.md#xb-1-baby-boom)
+- [WIG](WIG.md) ([Comparison](WIG.md#comparison))
+  - [Airfish-8](WIG.md#airfish-8)
+  - [REGENT Viceroy](WIG.md#regent-viceroy)
+  - [Liberty Lifter](WIG.md#liberty-lifter)
 
 ---
 - [UAV](UAV.md)

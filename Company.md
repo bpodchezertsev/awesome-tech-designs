@@ -410,6 +410,37 @@ Linkedin: <https://www.linkedin.com/company/flowcopter/>
 
 
 
+## Frazer-Nash
+
+Multipurpose engineering company.
+
+Site: <https://www.fnc.co.uk/>
+
+Location: [UK](ProjectByCountry.md#uk)
+
+Main company: [KBR](#kbr)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Kamkorp#Frazer-Nash_Research_Limited_(FNR)>
+
+- [INVICTUS](Supersonic.md#invictus)
+
+
+
+## KBR
+
+Multipurpose engineering company.
+
+Site: <https://www.kbr.com/en>
+
+Location: [USA](ProjectByCountry.md#usa)
+
+Wikipedia: <https://en.wikipedia.org/wiki/KBR,_Inc.>
+
+Child companies:
+
+- [Frazer-Nash](#frazer-nash)
+
+
 ## Fusion Flight
 
 UAV manufacturer.
@@ -431,6 +462,7 @@ Twitter: <https://twitter.com/fusionflightinc>
 Instagram: <https://www.instagram.com/fusionflight>
 
 - [JetQuad](Jetcopter.md#jetquad)
+- [Axion](Jetcopter.md#axion)
 
 
 

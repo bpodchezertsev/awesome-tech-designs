@@ -395,6 +395,8 @@ Project highlights use of an air-breathing rocket engines.
 
 Status: Cancelled
 
+Future development continues in: [INVICTUS](Supersonic.md#invictus)
+
 Wikipedia: <https://en.wikipedia.org/wiki/Skylon_(spacecraft)>
 
 Company: [Reaction Engines](Company.md#reaction-engines)

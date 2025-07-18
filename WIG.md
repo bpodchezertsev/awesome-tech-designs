@@ -133,11 +133,11 @@ Project highlights WIG with high-wing with a high aspect ratio, capable of fligh
 
 Project predecessor: <https://en.wikipedia.org/wiki/Boeing_Pelican>
 
-Status: Research
+Status: Cancelled
 
-- [Top claim](readme.md#top-claim): The first ever heavy C-Type WIG in development.
-- [Top claim](readme.md#top-claim): The largest ever WIG in development by wingspan.
-- [Top claim](readme.md#top-claim): Largest modern WIG in development.
+News about cancellation: <https://aviationweek.com/defense/aircraft-propulsion/darpa-ends-liberty-lifter-program>
+
+- [Top loss](readme.md#top-loss): Largest cancelled modern WIG in development.
 
 Site: <https://www.aurora.aero/experimental-aircraft/>
 
@@ -147,7 +147,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Liberty_Lifter>
 
 Company: [Aurora](Company.md#aurora-flight-sciences)
 
-Last news: <https://www.aurora.aero/2024/09/24/liberty-lifter-transforming-fast-logistics-at-sea/> 2024-09-24
+Last update: <https://www.aurora.aero/2024/09/24/liberty-lifter-transforming-fast-logistics-at-sea/> 2024-09-24
 
 DARPA: <https://www.darpa.mil/research/programs/liberty-lifter>
 

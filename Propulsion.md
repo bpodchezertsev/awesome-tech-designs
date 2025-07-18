@@ -71,6 +71,8 @@ Hybrid air-breathing rocket engine.
 
 Status: Cancelled
 
+Future development continues in: [INVICTUS](Supersonic.md#invictus)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/e/eb/SABRE_engine_designed_for_Skylon_spaceplane%2C_1990s._%289660572897%29.jpg)
 
 Wikipedia: <https://en.wikipedia.org/wiki/SABRE_(rocket_engine)>

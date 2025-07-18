@@ -9,6 +9,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/Multirotor>
     - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
 - [Omnicopter](Omnicopter.md#manned) ([Comparison](Omnicopter.md#comparison))
     - [Cyclotech CruiseUp](Omnicopter.md#cyclotech-cruiseup)
+- [Jetcopter](Jetcopter.md#manned)
+  - [Axion](Jetcopter.md#axion)
 - [Other](Copter.Other.md)
   - [Volocity](Copter.Other.md#volocity)
   - [Volocopter 2X](Copter.Other.md#volocopter-2x)

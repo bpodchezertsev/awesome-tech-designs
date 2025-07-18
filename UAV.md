@@ -33,6 +33,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
 
 ## [Supersonic](Supersonic.md#uav)
 - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
+- [INVICTUS](Supersonic.md#invictus)
 - [Quarterhorse MK 1](Supersonic.md#quarterhorse-mk-1)
 - [Talon-A](Supersonic.md#talon-a)
 

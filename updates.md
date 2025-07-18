@@ -1,3 +1,29 @@
+## 2025-07-18
+
+New:
+
+Reincarnation of [Skylon](Space.md#skylon) and [SABRE](Propulsion.md#sabre)
+- [Supersonic](Supersonic.md#uav)
+  - [INVICTUS](Supersonic.md#invictus)
+
+Prototype unveiled
+- [Jetcopter](Jetcopter.md#manned)
+  - [Axion](Jetcopter.md#axion)
+
+
+Cancellation:
+- [WIG](WIG.md)
+  - [Liberty Lifter](WIG.md#liberty-lifter)
+
+
+Test progress:
+
+Foil test
+- [WIG](WIG.md)
+  - [REGENT Viceroy](WIG.md#regent-viceroy)
+
+
+
 ## 2025-07-01
 
 Huge update. New aircraft, including space vehicles. More aircraft types.

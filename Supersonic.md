@@ -29,7 +29,6 @@ Company: [Hermeus](Company.md#hermeus)
 ### UAV
 
 
-
 #### Talon-A
 
 
@@ -99,6 +98,24 @@ Site: <https://www.hermeus.com/quarterhorse>
 Company: [Hermeus](Company.md#hermeus)
 
 Quarterhorse Mk 2 is about the size of an F-16, features a variable inlet, a delta wing design, and is powered by a Pratt & Whitney F100 engine.
+
+
+
+#### INVICTUS
+
+Successor of a [SABRE](Propulsion.md#sabre) and [Skylon](Space.md#skylon)
+
+Status: technology transfer
+
+Program: [ESA](Program.md#esa)
+
+![](https://www.fnc.co.uk/media/fywpy2at/phase1b_render_8-3.png?width=1500&height=800&quality=100&v=1dbf4dbc4a82290)
+
+Company: [Frazer-Nash](Company.md#frazer-nash)
+
+Initial news:
+<https://www.fnc.co.uk/discover-frazer-nash/news/pioneering-new-programme-to-realise-lift-off-for-horizontal-space-launch/> (2025-07-15),
+<https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/INVICTUS_Europe_s_new_hypersonic_test_platform> (2025-07-16).
 
 
 
