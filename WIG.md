@@ -137,7 +137,7 @@ Status: Cancelled
 
 News about cancellation: <https://aviationweek.com/defense/aircraft-propulsion/darpa-ends-liberty-lifter-program>
 
-- [Top loss](readme.md#top-loss): Largest cancelled modern WIG in development.
+- [Top loss](readme.md#top-loss): Cancelled the largest modern WIG in development
 
 Site: <https://www.aurora.aero/experimental-aircraft/>
 

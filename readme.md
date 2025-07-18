@@ -93,24 +93,18 @@ Enjoy!
 
 
 ### Top
-- [Glider altitude record](Glider.md#altitude-record). [Perlan](Glider.md#perlan)
 - The largest WIG in trial operation. [Airfish-8](WIG.md#airfish-8)
 - The largest WIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
 - The largest eWIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
-
-
-### Top claim
-- The first ever heavy [C-Type](WIG.md#c-type) WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
-- Largest ever WIG in development by wingspan. [Liberty Lifter](WIG.md#liberty-lifter)
-- Largest modern WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
-- Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)
+- [Glider altitude record](Glider.md#altitude-record). [Perlan](Glider.md#perlan)
 
 
 ### Top loss
-- Last built scaled prototype of lift-fan aircraft. [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
+- Cancelled the largest modern WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
 - Cancelled BWB program [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
 - Cancelled BWB program [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)
+- Last built scaled prototype of lift-fan aircraft. [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
 
 
 ### UAV:Top
@@ -120,13 +114,12 @@ Enjoy!
 
  
 ### SUAV:Top
-- [Glider speed record](Glider.md#suav-speed-record)
 - Largest partial omnicopter in service. [Astria](Omnicopter.md#astria)
 - Partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
 - The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](ResearchCentre.md#eth-zurich)
-- Best today's stunt quadcopter (clones) [Stingray 500](SUAV.Copter.md#stingray-500)
 - The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
-- Best stunt quadcopter [Stingray 500](SUAV.Copter.md#stingray-500)
+- [Glider speed record](Glider.md#suav-speed-record)
+- Best today's stunt quadcopter (clones) [Stingray 500](SUAV.Copter.md#stingray-500)
 
 
 ### SUAV:Top ever

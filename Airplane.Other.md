@@ -122,7 +122,6 @@ Technology demonstrator.
 
 Project highlights vision of an optimized airplane.
 
-[Top claim](readme.md#top-claim): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
 [Top loss](readme.md#top-loss): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
 
 Number built: 1
