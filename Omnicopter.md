@@ -115,7 +115,7 @@ Status: In service
 
 Site: <https://www.pitchaero.com/astria-drone>
 
-![](https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/274614094_372447074881875_4520485533615979532_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=G8IdrpgyidkQ7kNvwEGHyd_&_nc_oc=AdlDx-2zE7W38vgCX9ajJJmPQ8fQOEY9aRdqCxe11Voyp-6X4EOnCtk8f-qqTGyGnI0&_nc_zt=23&_nc_ht=scontent.fevn7-1.fna&_nc_gid=rKdsKWPcI1-E2-vppMeiOA&oh=00_AfPuhgd3p11V2qN-LS9kvbFiZ4SAUlIRhuBJFFLnaXrmng&oe=686CD126)
+![](https://assets.newatlas.com/dims4/default/a7a6687/2147483647/strip/true/crop/3672x2451+0+0/resize/1438x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1d%2F5d%2F22402c644dd29adc7d2a3cd66159%2Fdsc-1714-edit.jpg)
 
 Company: [Pitch Aeronautics](Company.md#pitch-aeronautics)
 
