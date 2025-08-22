@@ -100,7 +100,8 @@ Enjoy!
 
 
 ### Top loss
-- Cancelled the largest modern WIG in development. [Liberty Lifter](WIG.md#liberty-lifter)
+- Cancelled the largest thin-wing airplane. [Boeing X-66](Airplane.Other.md#boeing-x-66)
+- Cancelled the largest modern WIG. [Liberty Lifter](WIG.md#liberty-lifter)
 - Cancelled BWB program [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
 - Cancelled BWB program [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)

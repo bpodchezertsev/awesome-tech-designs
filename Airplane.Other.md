@@ -159,9 +159,9 @@ Prototyping of the truss-braced wing <https://en.wikipedia.org/wiki/Boeing_Truss
 
 Project highlights an extra-long and thin wing design stabilized by diagonal bracing struts.
 
-Status: Full-scale prototype in development.
+Status: Cancelled.
 
-The demonstrator is scheduled to fly in 2028.
+Cancellation news: <https://aviationweek.com/aerospace/emerging-technologies/boeing-puts-x-66-ice-will-continue-thin-wing-studies> (2025-04-24).
 
 Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
 

@@ -24,10 +24,11 @@ Airplane
 - Unknown: 
   - [Valkyrie](Airplane.Other.md#valkyrie)
 - In development:
-  - [Boeing X-66](Airplane.Other.md#boeing-x-66)
   - [Phantom 3500](Airplane.Other.md#phantom-3500)
 - Dismissed:
   - [Celera 500](Airplane.Other.md#celera-500)
+- Cancelled:
+  - [Boeing X-66](Airplane.Other.md#boeing-x-66)
 - Concept study:
   - [Flying V](Airplane.Other.md#flying-v)
 
