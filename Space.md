@@ -21,6 +21,8 @@ Company: [SpaceX](Company.md#spacex)
 
 Launch system: [Falcon Heavy](#falcon-heavy)
 
+![](https://i.redd.it/fpgeuh21we0z.jpg)
+
 
 
 ### SpaceX Starship spacecraft
@@ -32,6 +34,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/SpaceX_Starship_(spacecraft)>
 Company: [SpaceX](Company.md#spacex)
 
 Launch system: [SpaceX Starship](#spacex-starship)
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Starship_S20.jpg)
 
 
 
@@ -47,6 +51,8 @@ Launch system: [Nova](#nova)
 
 Last hopper test video: <https://www.youtube.com/watch?v=NDbvx4zoPeo> 2023-10-04
 
+![](https://www.stokespace.com/wp-content/uploads/2024/11/Frame-10-1.png)
+
 
 
 ### New Glenn's second stage
@@ -60,6 +66,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/New_Glenn#%22Jarvis%22_reusable_upper_
 Company: [Blue Origin](Company.md#blue-origin)
 
 Launch system: [New Glenn](#new-glenn)
+
+![](https://pbs.twimg.com/media/F1RtuR7WIAIXxne?format=png&name=small)
 
 
 
@@ -75,6 +83,8 @@ Company: [SpaceX](Company.md#spacex)
 
 Launch system: [Falcon 9](#falcon-9)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/CRS-8_first_stage_landing_%2826366878046%29.jpg/1280px-CRS-8_first_stage_landing_%2826366878046%29.jpg)
+
 
 
 ### SpaceX Super Heavy
@@ -87,6 +97,8 @@ Company: [SpaceX](Company.md#spacex)
 
 Launch system: [SpaceX Starship](#spacex-starship)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Starship_Booster_Return_on_Final_Approach_%2854063904149%29.jpg/1920px-Starship_Booster_Return_on_Final_Approach_%2854063904149%29.jpg)
+
 
 
 ### Electron's first stage
@@ -96,6 +108,8 @@ Status: In service. Recoverable, but with only 1 engine reflight.
 Company: [Rocket Lab](Company.md#rocket-lab)
 
 Launch system: [Electron](#electron)
+
+![](https://img.youtube.com/vi/enndCzvZpZk/0.jpg)
 
 
 
@@ -107,6 +121,8 @@ Company: [Stoke space](Company.md#stoke-space)
 
 Launch system: [Nova](#nova)
 
+![](https://www.stokespace.com/wp-content/uploads/2024/11/Frame-28819.png)
+
 
 
 ### New Glenn's first stage
@@ -117,6 +133,8 @@ Company: [Blue Origin](Company.md#blue-origin)
 
 Launch system: [New Glenn](#new-glenn)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Glenn.svg/320px-New_Glenn.svg.png)
+
 
 
 ### Neutron's first stage
@@ -126,6 +144,8 @@ Status: Unknown
 Company: [Rocket Lab](Company.md#rocket-lab)
 
 Launch system: [Neutron](#neutron)
+
+![](https://upload.wikimedia.org/wikipedia/en/6/6b/Neutron_Rocket_27.7.2023_Redesign.png)
 
 
 
@@ -331,9 +351,11 @@ Site: <https://www.stokespace.com/nova/>
 
 Company: [Stoke space](Company.md#stoke-space)
 
-Wikipedia: <https://en.wikipedia.org/wiki/Stoke_Space_Nova?
+Wikipedia: <https://en.wikipedia.org/wiki/Stoke_Space_Nova>
 
 See: [Nova's first stage](#novas-first-stage), [Nova's second stage](#novas-second-stage)
+
+![](https://www.stokespace.com/wp-content/uploads/2024/11/Frame-28819.png)
 
 
 
@@ -348,6 +370,8 @@ Company: [Rocket Lab](Company.md#rocket-lab)
 Wikipedia: <https://en.wikipedia.org/wiki/Rocket_Lab_Neutron>
 
 See: [Neutron's first stage](#neutrons-first-stage)
+
+![](https://upload.wikimedia.org/wikipedia/en/6/6b/Neutron_Rocket_27.7.2023_Redesign.png)
 
 
 

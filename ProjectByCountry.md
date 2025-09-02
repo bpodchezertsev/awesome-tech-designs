@@ -2,6 +2,16 @@ Project By Country
 ==================
 
 
+## Austria
+
+- [Cyclotech](Company.md#cyclotech)
+  - [Cyclotech's cyclorotor](Propulsion.md#cyclotech)
+  - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
+  - [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+  - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
+  - [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator)
+
+
 ## EU
 
 - [Airbus](Company.md#airbus)
@@ -13,12 +23,6 @@ Project By Country
 
 ## Germany
 
-- [Cyclotech](Company.md#cyclotech)
-  - [Cyclotech's cyclorotor](Propulsion.md#cyclotech)
-  - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
-  - [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
-  - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
-  - [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator)
 - [Lilium](Company.md#lilium)
   - [Lilium](VTOL.md#lilium)
 - [Volocopter](Company.md#volocopter)

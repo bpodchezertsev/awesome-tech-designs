@@ -1,3 +1,10 @@
+## 2025-08-30
+
+Add images in [Space](Space.md).
+
+Fix errors. 
+
+
 ## 2025-08-23
 
 Cancellation:
@@ -18,7 +25,6 @@ Prototype unveiled
 - [Jetcopter](Jetcopter.md#manned)
   - [Axion](Jetcopter.md#axion)
 
-
 Cancellation:
 - [WIG](WIG.md)
   - [Liberty Lifter](WIG.md#liberty-lifter)
@@ -35,9 +41,13 @@ Foil test
 ## 2025-07-01
 
 Huge update. New aircraft, including space vehicles. More aircraft types.
+
 +company, +comparisons, +papers, +project by country, +research centre, +index, +project specs.
+
 Restructurization.
+
 Remove "last update" marks in active projects.
+
 Fix errors.
 
 New:
@@ -106,15 +116,13 @@ Space
   - [Launch Vehicles](Space.md#launch-vehicles)
   - [SSTO](Space.md#ssto)
 
-New indices list:
-[Index](readme.md#index):
+New indices list [Index](readme.md#index):
 - [Company](Company.md)
 - [Comparisons](readme.md#comparisons)
 - [Papers](readme.md#papers)
 - [Program](Program.md)
 - [Project by country](ProjectByCountry.md)
 - [Research centre](ResearchCentre.md)
-
 
 [Top lists](readme.md#top-lists) changes:
 
@@ -139,11 +147,13 @@ SUAV:Top ever
 #### [Omnicopter](Omnicopter.md)
 
 New: [Voliro](Omnicopter.md#voliro-t)
+
 Added from other category: [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
 
 #### [Jetcopter](Jetcopter.md)
 
 New: [JetQuad](Jetcopter.md#jetquad), [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
+
 Added from other category: [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
 
 
@@ -164,9 +174,11 @@ New subproject by [Radian One](Space.md#radian-one)
 
 #### [Flying car](FlyingCar.md)
 Updated AeroMobile as [Klein Vision AirCar](FlyingCar.md#klein-vision-aircar)
+
 Become cancelled: [AeroMobile](FlyingCar.md#aeromobil)
 
-Get certification but become inactive: - [Pal-V](FlyingCar.md#pal-v-one)
+Get certification but become inactive:
+- [Pal-V](FlyingCar.md#pal-v-liberty)
 
 #### [VTOL](VTOL.md)
 New: [Voloregion](VTOL.md#voloregion), [ARES](UAV.VTOL.md#ares), [Aurora SPRINT X-plane](UAV.VTOL.md#aurora-sprint-x-plane)
@@ -180,7 +192,9 @@ RIP and removed: <https://aqualines.com/>
 
 #### [Airplane](Airplane.md)
 RIP and removed: Vigor Aircraft.
+
 Renders: <https://duckduckgo.com/?t=ffab&q=Vigor+Aircraft&iax=images&ia=images>
+
 Archived Site: <https://web.archive.org/web/changes/vigor-aircraft.com>
 
 ---

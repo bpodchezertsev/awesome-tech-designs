@@ -286,7 +286,7 @@ Company goal: build the first ever manned [Cyclocopter](Cyclocopter.md).
 
 Site: <https://www.cyclotech.at/>
 
-Location: [Germany](ProjectByCountry.md#germany)
+Location: [Austria](ProjectByCountry.md#austria)
 
 News: <https://www.cyclotech.at/newsroom/>
 
