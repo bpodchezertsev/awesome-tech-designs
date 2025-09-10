@@ -64,13 +64,13 @@ Status: under development
 
 Claimed: prototype flight at 2025 Q4
 
-![](https://ottoaviation.com/wp-content/uploads/2025/04/otto-blog-post-awarded-joint-developmental-collaboration-1024x576.jpg)
+![](https://ottoaerospace.com/wp-content/uploads/2025/04/otto-blog-post-awarded-joint-developmental-collaboration-1024x576.jpg)
 
-Company: [Otto Aviation](Company.md#otto-aviation)
+Company: [Otto Aerospace](Company.md#otto-aerospace)
 
 DARPA: [Albatross glider](Program.md#albatross-glider)
 
-Last news: <https://ottoaviation.com/news/otto-aviation-reveals-super-laminar-uav-for-darpa/>
+Last news: <https://ottoaerospace.com/news/otto-aviation-reveals-super-laminar-uav-for-darpa/>
 
 
 

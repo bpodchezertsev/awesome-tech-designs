@@ -1,3 +1,8 @@
+## 2025-09-11
+
+Otto Aviation becomes [Otto Aerospace](Company.md#otto-aerospace).
+
+
 ## 2025-08-30
 
 Add images in [Space](Space.md).

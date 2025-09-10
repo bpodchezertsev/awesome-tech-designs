@@ -732,17 +732,17 @@ Participation in:
 
 
 
-## Otto Aviation
+## Otto Aerospace
 
-Site: <https://www.ottoaviation.com/>
+Site: <https://ottoaerospace.com/>
 
 Location: [USA](ProjectByCountry.md#usa)
 
 Wikipedia: <https://en.wikipedia.org/wiki/Otto_Aviation>
 
-News: <https://www.ottoaviation.com/news>
+News: <https://ottoaerospace.com/news-blog/>
 
-Linkedin: <https://www.linkedin.com/company/otto-aviation/>
+Linkedin: <https://www.linkedin.com/company/otto-aerospace/>
 
 Instagram: <https://www.instagram.com/otto.aviation>
 

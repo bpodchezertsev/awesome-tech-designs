@@ -96,13 +96,13 @@ Status: Funding
 
 Estimated completion of funding: end of 2025.
 
-Site: <https://ottoaviation.com/aircraft/>
+Site: <https://ottoaerospace.com/aircraft/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Otto_Phantom_3500>
 
-![](https://ottoaviation.com/wp-content/uploads/2025/04/p3500-away.webp)
+![](https://ottoaerospace.com/wp-content/uploads/2025/04/p3500-away.webp)
 
-Company: [Otto Aviation](Company.md#otto-aviation)
+Company: [Otto Aerospace](Company.md#otto-aerospace)
 
 Proposed to go in service: 2030
 
@@ -130,17 +130,17 @@ Predecessor of [Phantom 3500](#phantom-3500)
 
 Status: Retired
 
-Site: <https://ottoaviation.com/technology/technology-demonstrator/>
+Site: <https://ottoaerospace.com/technology/technology-demonstrator/>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
 
-![](https://ottoaviation.com/wp-content/uploads/2025/04/celera-3.jpg)
+![](https://ottoaerospace.com/wp-content/uploads/2025/04/celera-header-scaled-taller.png)
 
-Company: [Otto Aviation](Company.md#otto-aviation)
+Company: [Otto Aerospace](Company.md#otto-aerospace)
 
 Specifications:
 - Crew: 1
-- Passengers capacity: 6
+- Passengers capacity: 6~~~~
 - Cabin height: 1.88m
 - Cabin volume: 12.7m3
 - Powerplant: 1 × RED A03 diesel piston engine, 550 hp (410 kW) approximate at takeoff

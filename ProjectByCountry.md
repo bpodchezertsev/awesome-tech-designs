@@ -170,7 +170,7 @@ Project By Country
   - [Natilus Horizon](Airplane.BlendedWingBody.md#natilus-horizon)
 - [Northrop Grumman](Company.md#northrop-grumman)
   - [JetZero Demonstrator](Airplane.BlendedWingBody.md#jetzero-demonstrator)
-- [Otto Aviation](Company.md#otto-aviation)
+- [Otto Aerospace](Company.md#otto-aerospace)
   - [Celera 500](Airplane.Other.md#celera-500)
   - [Phantom 3500](Airplane.Other.md#phantom-3500)
 - [Piasecki](Company.md#piasecki)
