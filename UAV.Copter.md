@@ -10,9 +10,8 @@
 - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
 - [Seoul National University cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters)
 
-## [Jetcopter](Jetcopter.md#suav)
-- [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
-- [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
+## [Jetcopter](Jetcopter.md#uav)
+- [JetQuad](Jetcopter.md#jetquad)
 
 
 
