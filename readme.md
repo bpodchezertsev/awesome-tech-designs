@@ -116,13 +116,15 @@ Enjoy!
 
 ### UAV:Top
 - Largest flying cyclocopter. [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
-- Largest flying partial omnicopter. [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+- Largest flying horizontal omnicopter. [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
 - Best VTOL transforming wing design. [Pterodynamics Transwing](UAV.VTOL.md#transwing)
 
  
 ### SUAV:Top
-- Largest partial omnicopter in service. [Astria](Omnicopter.md#astria)
-- Partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- Largest partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
+- Largest horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
+- Partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
+- Horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
 - The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](ResearchCentre.md#eth-zurich)
 - The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
 - [Glider speed record.](Glider.md#suav-speed-record)
@@ -134,7 +136,8 @@ Enjoy!
 
 
 ### SUAV:Top ever
-- First partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- First partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
+- First horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
 - First ever flying omnicopter. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
 - First ever omnicopter in open-source. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
 - First ever horizontal omnicopter. [EAMS Lab Omnicopter](Omnicopter.md#eams-lab-omnicopter)

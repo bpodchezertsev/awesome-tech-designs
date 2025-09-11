@@ -6,6 +6,7 @@ This allows it to move in any direction without having to tilt, and it can hover
 
 A partial omnicopter has limited degrees of freedom. For example:
 only 1 additional rotation axis in addition to a normal copter; or limited degrees of rotation in all or some axes.
+
 A special case of a partial omnicopter is a stable horizontal copter with no tilt during acceleration/deceleration or in windy conditions.
 Of course, full omnicopters can do this too.
 
@@ -66,7 +67,7 @@ Values in parentheses a theoretically accessible values, but not practically tes
 
 ### Cyclotech CruiseUp
 
-Partial omnicopter.
+Horizontal omnicopter.
 
 Status: Designing
 
@@ -83,7 +84,7 @@ Main article: [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-cruise
 
 ### Cyclotech BlackBird Demonstrator
 
-Partial omnicopter.
+Horizontal omnicopter.
 
 Status: Testing
 
@@ -109,9 +110,9 @@ Status: In service
 - Move: 3 axis
 - Rotation: 1 axis
 
-[SUAV:Top](readme.md#suavtop): Largest partial omnicopter in service.
-[SUAV:Top](readme.md#suavtop): Partial omnicopter in service.
-[SUAV:Top ever](readme.md#suavtop-ever):First partial omnicopter in service
+[SUAV:Top](readme.md#suavtop): Largest horizontal omnicopter in service
+[SUAV:Top](readme.md#suavtop): Horizontal omnicopter in service
+[SUAV:Top ever](readme.md#suavtop-ever): First horizontal omnicopter in service
 
 Site: <https://www.pitchaero.com/astria-drone>
 
@@ -140,7 +141,8 @@ Note: Possibility to rotate around pitch axis at almost 360 degrees, but continu
 
 Site: <https://voliro.com/voliro-solution/>
 
-[SUAV:Top](readme.md#suavtop): Partial omnicopter in service.
+[SUAV:Top](readme.md#suavtop): Largest partial omnicopter in service
+[SUAV:Top](readme.md#suavtop): Partial omnicopter in service
 [SUAV:Top ever](readme.md#suavtop-ever): First partial omnicopter in service
 
 ![](https://cdn.voliro.com/wp-content/uploads/2024/10/Voliro-T-v5-top-view-without-payload-scaled.jpeg)
@@ -352,7 +354,7 @@ Video: <https://www.youtube.com/watch?v=gqsHMn_8EQM> (2024-12-19)
 
 ### EAMS Lab Omnicopter
 
-Partial omnicopter - always remains horizontal.
+Horizontal omnicopter.
 
 Status: Cancelled
 

@@ -28,7 +28,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
 - [Jetcopter](Jetcopter.md#uav)
   - [JetQuad](Jetcopter.md#jetquad)
 - [Omnicopter](Omnicopter.md#uav) ([Comparison](Omnicopter.md#comparison))
-  - [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
+  - [Cyclotech BlackBird Demonstrator](Omnicopter.md#cyclotech-blackbird-demonstrator)
 - [Other](UAV.Copter.md#other)
   - [Flowcopter FC100](UAV.Copter.md#flowcopter-fc100)
 

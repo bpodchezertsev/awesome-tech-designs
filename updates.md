@@ -114,7 +114,7 @@ SUAV
   - [MantaRay](SUAV.Copter.md#mantaray)
 - [Omnicopter](Omnicopter.md) ([Comparison](Omnicopter.md#comparison))
   - [Astria](Omnicopter.md#astria)
-  - [Voliro-T](Omnicopter.md#voliro-t)
+  - [Voliro T](Omnicopter.md#voliro-t)
   - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 - [Cyclocopter](Cyclocopter.md)
   - [Astria](Cyclocopter.md#astria)
@@ -145,11 +145,14 @@ Top:
 
 SUAV:Top
 - [Glider speed record](Glider.md#suav-speed-record)
-- Largest partial omnicopter in service. [Astria](Omnicopter.md#astria)
-- Partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- Largest partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
+- Largest horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
+- Horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
+- Partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
 
 SUAV:Top ever
-- First partial omnicopter in service [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- First partial omnicopter in service [Voliro T](Omnicopter.md#voliro-t)
+- First horizontal omnicopter in service [Astria](Omnicopter.md#astria)
 
 
 ## 2025-05-04
@@ -160,9 +163,9 @@ SUAV:Top ever
 
 #### [Omnicopter](Omnicopter.md)
 
-New: [Voliro](Omnicopter.md#voliro-t)
+New: [Voliro T](Omnicopter.md#voliro-t)
 
-Added from other category: [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
+Added from other category: [Cyclotech BlackBird Demonstrator](Omnicopter.md#cyclotech-blackbird-demonstrator)
 
 #### [Jetcopter](Jetcopter.md)
 
@@ -173,9 +176,9 @@ Added from other category: [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicop
 
 #### [Cyclocopter](Cyclocopter.md)
 
-New prototype flight: [Cyclotech BlackBird](Cyclocopter.md#cyclotech-blackbird-demonstrator)
+New prototype flight: [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
 
-Also described as partial omnicopter: [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
+Also described as horizontal omnicopter: [Cyclotech BlackBird Demonstrator](Omnicopter.md#cyclotech-blackbird-demonstrator)
 
 
 #### [Airplane.BlendedWingBody](Airplane.BlendedWingBody.md)

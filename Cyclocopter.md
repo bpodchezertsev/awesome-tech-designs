@@ -58,7 +58,7 @@ Scaled prototype of [Cyclotech CruiseUp](#cyclotech-cruiseup)
 Instead of [Cyclotech Technology Demonstrator](#cyclotech-technology-demonstrator) with 4 cyclorotor,
 the BlackBird uses 6 in configuration, which allows to move any direction in horizontal plane without yaw.
 
-The BlackBird is a partial (horizontal) omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
+The BlackBird is a horizontal omnicopter, as it does not tilt during acceleration/braking/sliding and can move sideways without yaw.
 
 The BlackBird can also be a partial omnicopter, as it can maintain static stability at any pitch angle.
 
@@ -67,7 +67,7 @@ Site: <https://www.cyclotech.at/rotor-solutions>
 Status: Testing
 
 - [SUAV:Top](readme.md#suavtop): Largest flying cyclocopter.
-- [SUAV:Top](readme.md#suavtop): Largest flying partial omnicopter.
+- [SUAV:Top](readme.md#suavtop): Largest flying horizontal omnicopter.
 
 ![](https://www.cyclotech.at/fileadmin/_processed_/7/7/csm_blackbird_free_flight_screenshot_8_151c284bd0.webp)
 
