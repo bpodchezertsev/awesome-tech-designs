@@ -157,6 +157,7 @@ Enjoy!
 ### Papers
 - [Airplane: Other: Flying V](Airplane.Other.md#flying-v-papers)
 - [Cyclocopter: Seoul National University cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters-papers)
+- [SUAV: Copter: Omnicopter: OmniQuad](Omnicopter.md#omniquad-papers)
 - [SUAV: Copter: Omnicopter: Lynchpin Omnicopter](Omnicopter.md#lynchpin-omnicopter-papers)
 - [SUAV: Copter: Other: Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration-papers)
 

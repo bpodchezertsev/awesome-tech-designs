@@ -99,9 +99,9 @@ See: [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 
 #### Triangular Quadrotor: A More Efficient Quadrotor Configuration Papers
 
-The Triangular Quadrotor: A More Efficient Quadrotor Configuration
+##### The Triangular Quadrotor: A More Efficient Quadrotor Configuration
 
-Abstract:
+##### Abstract
 
 We describe a new configuration of fixed-pitch miniature robot rotorcraft that combines the energetic efficiency of a helicopter and the mechanical simplicity of a quadrotor.
 The large power required to hover is proportional to the inverse of the rotor radius;
@@ -118,7 +118,7 @@ We present a dynamic model and demonstrate experimentally that the aircraft can 
 
 Published in: IEEE Transactions on Robotics ( Volume: 31, Issue: 6, December 2015)
 
-Authors:
+##### Authors
 - Scott Driessens School of Information Technology and Electrical Engineering, University of Queensland, Brisbane, Qld., Australia
 - Paul Pounds School of Information Technology and Electrical Engineering, University of Queensland, Brisbane, Qld., Australia
 
@@ -132,7 +132,7 @@ Aerial robotics, multirotors, rotorcraft
 <https://ieeexplore.ieee.org/document/7295615>,
 <http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_IROS_2013/media/files/1134.pdf>
 
-#### References:
+##### References
 1. P. Pounds, R. Mahony and P. Corke, “Design of a Static Thruster for Micro Air Vehicle Rotorcraft”, Journal of Aerospace Engineering, Vol. 22, No. 1, pp. 85-94, 2009.
 2. J. G. Leishman, Principles of Helicopter Aerodynamics, 2nd Ed., Cambridge University Press, New York, 2006.
 3. Aviastar, “Kellett-Hughes XH-17 ‘Flying Crane”’, http://www.aviastar.org/helicopters_eng/mcdonnel_crane.php (2013).
