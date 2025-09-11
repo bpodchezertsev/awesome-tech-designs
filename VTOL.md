@@ -1,5 +1,5 @@
-VTOL
-====
+[Aircraft](Aircraft.md): VTOL
+=============================
 
 _Manned VTOL list. Alphabetically ordered_
 
@@ -241,10 +241,10 @@ Specifications:
 
 
 ---
-- [UAV](UAV.VTOL.md)
+- [UAV VTOL](UAV.VTOL.md)
 
 
 
 ---
-[Back to aircraft](Aircraft.md)
+[Back to Aircraft](Aircraft.md)
 

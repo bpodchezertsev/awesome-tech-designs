@@ -1,5 +1,5 @@
-Supersonic
-==========
+[&#9776;](readme.md#categories): Supersonic
+===========================================
 
 Supersonic, hypersonic and transonic list.
 
@@ -9,7 +9,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Supersonic_aircraft>
 ## Hypersonic
 
 
-### Manned
+### Manned Hypersonic
 
 
 #### Halcyon
@@ -26,7 +26,7 @@ Company: [Hermeus](Company.md#hermeus)
 
 
 
-### UAV
+### UAV Hypersonic
 
 
 #### Talon-A
@@ -136,7 +136,7 @@ Company: [Hermeus](Company.md#hermeus)
 ## Supersonic
 
 
-### Manned
+### Manned Supersonic
 
 
 #### NASA X-59 Quesst
@@ -200,12 +200,14 @@ Company: [Boom Supersonic](Company.md#boom-supersonic)
 
 
 
-### UAV
+### UAV Supersonic
 
 
 #### Dawn Mk-2 Aurora
 
 Suborbital spaceplane.
+
+Status: In service
 
 Site: <https://www.dawnaerospace.com/spaceplane>
 
@@ -221,7 +223,7 @@ Company: [Dawn Aerospace](Company.md#dawn-aerospace)
 
 
 
-### SUAV
+### SUAV Transonic
 
 
 
@@ -229,9 +231,15 @@ Company: [Dawn Aerospace](Company.md#dawn-aerospace)
 
 Goal: The Mach Initiative aims to break this record, by designing an aircraft that will reach speeds exceeding 570 MPH (Mach 0.75) at sea level.
 
+Status: Cancelled
+
+[SUAV:Top loss](readme.md#suavtop-loss): Cancelled SUAV transonic project
+
 Videos: <https://www.youtube.com/@TheMachInitiative/videos>
 
 Linkedin: <https://www.linkedin.com/company/the-mach-initiative/>
+
+
 
 ---
 [Back to readme](readme.md)

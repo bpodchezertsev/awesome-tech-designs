@@ -1,5 +1,5 @@
-Copter
-======
+[Aircraft](Aircraft.md): Copter
+===============================
 
 _Manned copter list._
 
@@ -18,9 +18,9 @@ Wikipedia: <https://en.wikipedia.org/wiki/Multirotor>
 
 
 ---
-[UAV](UAV.Copter.md)
+[UAV](UAV.md): [Copter](UAV.Copter.md)
 
-[SUAV](SUAV.Copter.md)
+[SUAV](SUAV.md): [Copter](SUAV.Copter.md)
 
 
 

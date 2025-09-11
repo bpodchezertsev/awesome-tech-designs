@@ -1,3 +1,11 @@
+## 2025-09-12
+
+Cancellation:
+- [SUAV](SUAV.md)
+  - [Transonic](Supersonic.md#suav-transonic)
+    - [The mach initiative](Supersonic.md#the-mach-initiative)
+
+
 ## 2025-09-11
 
 Otto Aviation becomes [Otto Aerospace](Company.md#otto-aerospace).
@@ -23,7 +31,7 @@ Cancellation:
 New:
 
 Reincarnation of [Skylon](Space.md#skylon) and [SABRE](Propulsion.md#sabre)
-- [Supersonic](Supersonic.md#uav)
+- [Supersonic](Supersonic.md#uav-supersonic)
   - [INVICTUS](Supersonic.md#invictus)
 
 Prototype unveiled
@@ -96,10 +104,11 @@ UAV
     - [Cyclotech CCY-01](Cyclocopter.md#cyclotech-ccy-01)
   - [Other](UAV.Copter.md#other)
     - [Flowcopter FC100](UAV.Copter.md#flowcopter-fc100)
-- [Supersonic](Supersonic.md#uav) 
-  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
-  - [Quarterhorse MK 1](Supersonic.md#quarterhorse-mk-1)
+- [Hypersonic](Supersonic.md#uav-hypersonic)
   - [Talon-A](Supersonic.md#talon-a)
+  - [Quarterhorse MK 1](Supersonic.md#quarterhorse-mk-1)
+- [Supersonic](Supersonic.md#uav-supersonic) 
+  - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
 
 SUAV
   - [MantaRay](SUAV.Copter.md#mantaray)
@@ -201,6 +210,8 @@ RIP and removed: Vigor Aircraft.
 Renders: <https://duckduckgo.com/?t=ffab&q=Vigor+Aircraft&iax=images&ia=images>
 
 Archived Site: <https://web.archive.org/web/changes/vigor-aircraft.com>
+
+
 
 ---
 [Back to readme](readme.md)

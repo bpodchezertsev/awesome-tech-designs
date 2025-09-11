@@ -1,5 +1,5 @@
-Omnicopter
-==========
+[&#9776;](readme.md#categories): Omnicopter
+===========================================
 
 An Omnicopter is a copter that can provide thrust in all directions (6 degrees of freedom).
 This allows it to move in any direction without having to tilt, and it can hover at an arbitrary tilt angle.
@@ -425,6 +425,8 @@ Project highlights the wide applicability and multiple configurations of omnicop
 - Rotation: 1-3 axis
 
 Site: <https://github.com/bpodchezertsev/MOD>
+
+
 
 ---
 [Back to readme](readme.md)

@@ -1,5 +1,5 @@
-Company
-=======
+[&#9776;](readme.md#index): Company
+===================================
 
 
 
@@ -823,6 +823,8 @@ Instagram: <https://www.instagram.com/pitch.aero/>
 Site: <https://pterodynamics.com/>
 
 Location: [USA](ProjectByCountry.md#usa)
+
+News: <https://pterodynamics.com/blog/> <https://pterodynamics.com/press/>
 
 Videos: <https://www.youtube.com/@PteroDynamics/videos>
 

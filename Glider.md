@@ -1,5 +1,5 @@
-Glider
-======
+[&#9776;](readme.md#categories): Glider
+=======================================
 
 A glider is a fixed-wing aircraft that is supported in flight by the dynamic reaction of the air against its lifting surfaces, and whose free flight does not depend on an engine.
 
@@ -90,6 +90,8 @@ Video: <https://www.youtube.com/watch?v=4eFD_Wj6dhk>
 News: <https://www.aerosociety.com/news/a-need-for-speed/>
 
 ![](https://www.aerosociety.com/media/15500/blog-hero-image-transonic130.jpg?anchor=center&mode=crop&width=2448&height=990&rnd=132567473220000000)
+
+
 
 ---
 [Back to readme](readme.md)

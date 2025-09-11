@@ -1,5 +1,5 @@
-[Copter](Copter.md):Other
-=========================
+[Copter](Copter.md): Other
+==========================
 
 _Other manned copter list._
 
@@ -59,3 +59,8 @@ Specifications:
 - Service ceiling: 2000m
 - Rate of climb: 3m/s
 - Disk loading: 9.8kg/m2
+
+
+
+---
+[Back to Copter](Copter.md)

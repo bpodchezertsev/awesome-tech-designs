@@ -1,5 +1,5 @@
-UAV.Copter
-==========
+[UAV](UAV.md): Copter
+=====================
 
 ## [Omnicopter](Omnicopter.md#uav)
 - [Cyclotech BlackBird Demonstrator](Omnicopter.md#cyclotech-blackbird-demonstrator)
@@ -38,3 +38,12 @@ Specifications:
 - Fuel: Petrol, Net-Zero, Synthetic (Diesel option available)
 
 
+
+---
+- [Manned](Aircraft.md): [Copter](Copter.md)
+- [SUAV](SUAV.md): [Copter](SUAV.Copter.md)
+
+
+
+---
+[Back to UAV](UAV.md)

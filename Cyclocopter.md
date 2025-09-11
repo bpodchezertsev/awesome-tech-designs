@@ -1,5 +1,5 @@
-Cyclocopter
-===========
+[&#9776;](readme.md#categories): Cyclocopter
+============================================
 
 Also cyclogyro.
 

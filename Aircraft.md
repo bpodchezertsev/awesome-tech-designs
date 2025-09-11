@@ -1,5 +1,5 @@
-Aircraft
-========
+[&#9776;](readme.md#categories): Aircraft
+=========================================
 
 Manned aircraft list.
 
@@ -46,14 +46,16 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aircraft>
 - [Copter](Copter.md)
   - [Cyclocopter](Cyclocopter.md#manned)
     - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)
-  - [Omnicopter](Omnicopter.md#manned) ([Comparison](Omnicopter.md#comparison))
-    - [Cyclotech CruiseUp](Omnicopter.md#cyclotech-cruiseup)
   - [Jetcopter](Jetcopter.md#manned)
     - [Axion](Jetcopter.md#axion)
+  - [Omnicopter](Omnicopter.md#manned) ([Comparison](Omnicopter.md#comparison))
+    - [Cyclotech CruiseUp](Omnicopter.md#cyclotech-cruiseup)
   - [Other](Copter.Other.md)
     - [Volocity](Copter.Other.md#volocopter-2x)
     - [Volocopter 2X](Copter.Other.md#volocopter-2x)
-- [Supersonic](Supersonic.md#manned)
+- [Hypersonic](Supersonic.md#manned-hypersonic)
+  - [Halcyon](Supersonic.md#halcyon)
+- [Supersonic](Supersonic.md#manned-supersonic)
   - [Hermeus Quarterhorse MK 1](Supersonic.md#quarterhorse-mk-1)
   - [NASA X-59 Quesst](Supersonic.md#nasa-x-59-quesst)
   - [XB-1 "Baby Boom"](Supersonic.md#xb-1-baby-boom)
@@ -62,9 +64,13 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aircraft>
   - [REGENT Viceroy](WIG.md#regent-viceroy)
   - [Liberty Lifter](WIG.md#liberty-lifter)
 
+
+
 ---
 - [UAV](UAV.md)
 - [SUAV](SUAV.md)
+
+
 
 ---
 [Back to Readme](readme.md#categories)

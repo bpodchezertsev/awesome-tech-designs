@@ -1,5 +1,5 @@
-Compound helicopter
-===================
+[Aircraft](Aircraft.md): Compound helicopter
+============================================
 
 A compound helicopter has an additional system for thrust and, typically, small stub fixed wings.
 This offloads the rotor in cruise, which allows its rotation to be slowed down, thus increasing the maximum speed of the aircraft.
@@ -57,3 +57,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Sikorsky_Raider_X>
 
 Company: [Sikorsky](Company.md#sikorsky)
 
+
+
+---
+[Back to aircraft](Aircraft.md)

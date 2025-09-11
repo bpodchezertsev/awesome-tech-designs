@@ -1,5 +1,5 @@
-[SUAV](SUAV.md).Copter
-======================
+[SUAV](SUAV.md): Copter
+=======================
 
 ## [Omnicopter](Omnicopter.md#suav)
 - [Astria](Omnicopter.md#astria)
@@ -138,13 +138,13 @@ Aerial robotics, multirotors, rotorcraft
 4. Army.mil, “Chinook Factfile”, http://www.army.mil/factfiles/equipment/aircraft/chinook.html (2013).
 5. P. Pounds and R. Mahony, “Small-Scale Aeroelastic Rotor Simulation, Design and Fabrication”, In Proc. Australasian Conference on Robotics and Automation, 2005.
 6. P. Pounds, R. Mahony and P. Corke, “System Identification and Control of an Aerobot Drive System”, In Proc. Information, Decision and Control, 2007.
-7. SkySapience, “Hovermast,” http://skysapience.com/products/the-hovermast (2012).
+7. SkySapience, “Hovermast”, http://skysapience.com/products/the-hovermast (2012).
 8. A. Zaitsevsky, “Method of controlling a helicopter with six or more rotors”, http://lamat.me/patents/LT2012007-en.pdf (2012).
 9. R. Prouty, Helicopter Performance, Stability, and Control, Krieger Publishing Company, 2002.
 10. P. Cantrell, “Helicopter Aviation”, http://www.copters.com/aero/torque.html (2013).
 11. S. Green, “Design of an X-4 Flyer”, Australian National University Dept. Engineering Honours Thesis, 2003.
 12. D.A. Griffiths and J. G. Leishman, “Dual-rotor interference and ground effects using a free-vortex wake model”, In Proc. 58th Annual Forum and Technology Display of the American Helicopter Assoc., 2002.
-13. N. Guenard, T. Hamel and V. Moreau, “Dynamic Modeling and Intuitive Control Strategy for an “X4-Flyer””. In Proc. International Conference on Control and Automation, 2005.
+13. N. Guenard, T. Hamel and V. Moreau, “Dynamic Modeling and Intuitive Control Strategy for an “X4-Flyer” ”. In Proc. International Conference on Control and Automation, 2005.
 14. P. Pounds, R. Mahony, P. Hynes and J. Roberts, “Design of a Four-Rotor Aerial Robot”, In Proc. of Australasian Conference on Robotics and Automation, 2002.
 15. T. Hamel, R. Mahony, R. Lozano and J. Ostrowski, “Dynamic Modelling and Configuration Stabilization for an X4-Flyer”, In Proc. 15th Triennial World Congress of the International Federation of Automatic Control, 2002.
 16. S. Bouabdallah, A. Noth and R. Siegwart, “PID vs LQ Control Techniques Applied to an Indoor Micro Quadrotor”, In Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2004.
@@ -152,10 +152,10 @@ Aerial robotics, multirotors, rotorcraft
 
 
 ---
-- [Manned](Copter.md)
-- [UAV](UAV.Copter.md)
+- [Manned](Aircraft.md): [Copter](Copter.md)
+- [UAV](UAV.md): [Copter](UAV.Copter.md)
 
 
 
 ---
-[Back to readme](readme.md)
+[Back to SUAV](SUAV.md)

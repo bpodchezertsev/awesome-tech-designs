@@ -1,5 +1,5 @@
-Propulsion
-==========
+[&#9776;](readme.md#categories): Propulsion
+===========================================
 
 ## Rotorcraft propulsion
 
@@ -131,7 +131,6 @@ Site: <https://boomsupersonic.com/symphony>
 ![](https://boomsupersonic.com/wp-content/uploads/2025/06/symphony-specifications.jpg)
 
 Company: [Boom Supersonic](Company.md#boom-supersonic)
-
 
 
 

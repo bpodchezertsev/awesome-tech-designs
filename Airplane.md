@@ -1,5 +1,5 @@
-Airplane
-========
+[Aircraft](Aircraft.md): Airplane
+=================================
 
 ## [Blended Wing Body](Airplane.BlendedWingBody.md)
 - In development:

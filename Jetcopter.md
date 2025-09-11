@@ -1,5 +1,5 @@
-Jetcopter
-=========
+[&#9776;](readme.md#categories): Jetcopter
+==========================================
 
 Jetcopter is a copter propelled by jet of air ejected from the nozzles outside the craft.
 Unlike a regular copters that uses an external propellers (or other propulsion system) in the air around copter,

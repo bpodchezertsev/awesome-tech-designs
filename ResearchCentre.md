@@ -1,5 +1,5 @@
-Research centre
-===============
+[&#9776;](readme.md#index): Research centre
+===========================================
 
 ## University of Canterbury
 
@@ -25,27 +25,25 @@ Instagram: <https://www.instagram.com/ucnz/>
 
 
 
-## ETH Zurich
+## Delft University of Technology
 
-[SUAV:Top](readme.md#suavtop): The most prolific and active group of omnicopter developers.
+Site: <https://www.tudelft.nl/en/>
 
-Site: <https://ethz.ch/en.html>
+Location: [Netherlands](ProjectByCountry.md#netherlands)
 
-Wikipedia: <https://en.wikipedia.org/wiki/ETH_Zurich>
+News: <https://www.tudelft.nl/en/stories>
 
-News: <https://ethz.ch/en/news-and-events.html>
+Videos: <https://www.youtube.com/@tudelft/videos>
 
-Videos: <https://www.youtube.com/@ethzurich/videos>
+Wikipedia: <https://en.wikipedia.org/wiki/Delft_University_of_Technology>
 
-Linkedin: <https://www.linkedin.com/school/eth-zurich/>
+Linkedin: <https://www.linkedin.com/school/tudelft/>
 
-Facebook: <https://www.facebook.com/eth/>
+Facebook: <https://www.facebook.com/TUDelft/>
 
-Instagram: <https://www.instagram.com/ethzurich/>
+Instagram: <https://www.instagram.com/tudelft/>
 
-- [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
-- [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
-- [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+- [Flying V](Airplane.Other.md#flying-v)
 
 
 
@@ -73,25 +71,27 @@ Instagram: <https://www.instagram.com/snu.official/>
 
 
 
-## Delft University of Technology
+## ETH Zurich
 
-Site: <https://www.tudelft.nl/en/>
+[SUAV:Top](readme.md#suavtop): The most prolific and active group of omnicopter developers.
 
-Location: [Netherlands](ProjectByCountry.md#netherlands)
+Site: <https://ethz.ch/en.html>
 
-News: <https://www.tudelft.nl/en/stories>
+Wikipedia: <https://en.wikipedia.org/wiki/ETH_Zurich>
 
-Videos: <https://www.youtube.com/@tudelft/videos>
+News: <https://ethz.ch/en/news-and-events.html>
 
-Wikipedia: <https://en.wikipedia.org/wiki/Delft_University_of_Technology>
+Videos: <https://www.youtube.com/@ethzurich/videos>
 
-Linkedin: <https://www.linkedin.com/school/tudelft/>
+Linkedin: <https://www.linkedin.com/school/eth-zurich/>
 
-Facebook: <https://www.facebook.com/TUDelft/>
+Facebook: <https://www.facebook.com/eth/>
 
-Instagram: <https://www.instagram.com/tudelft/>
+Instagram: <https://www.instagram.com/ethzurich/>
 
-- [Flying V](Airplane.Other.md#flying-v)
+- [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
+- [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
+- [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
 
 
 

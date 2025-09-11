@@ -1,5 +1,5 @@
-WIG
-===
+[Aircraft](Aircraft.md): WIG
+============================
 
 WIG = Wing-In-Ground(effect)
 also GEV = Ground-Effect Vehicle, wingship, seaglider, ekranoplan
@@ -169,4 +169,4 @@ Last video: <https://www.youtube.com/watch?v=xzWsxEr2juQ> 2024-09-24
 
 
 ---
-[Back to aircraft](Aircraft.md)
+[Back to Aircraft](Aircraft.md)

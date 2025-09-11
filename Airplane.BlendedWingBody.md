@@ -1,5 +1,5 @@
-[Airplane](Airplane.md):Blended Wing Body
-=========================================
+[Airplane](Airplane.md): Blended Wing Body
+==========================================
 
 _BWB list, ordered alphabetically in each group._
 

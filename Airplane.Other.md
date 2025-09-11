@@ -1,5 +1,5 @@
-[Airplane](Airplane.md):Other
-=============================
+[Airplane](Airplane.md): Other
+==============================
 
 _Non grouped airplanes, ordered by status._
 
@@ -163,6 +163,8 @@ Status: Cancelled.
 
 Cancellation news: <https://aviationweek.com/aerospace/emerging-technologies/boeing-puts-x-66-ice-will-continue-thin-wing-studies> (2025-04-24).
 
+[Top loss](readme.md#top-loss): Cancelled the largest thin-wing airplane
+
 Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
 
 ![](https://theaircurrent.com/wp-content/uploads/2024/06/boeing-nasa-x-66-render-cruise-close-2024.jpg)
@@ -193,8 +195,6 @@ Research centre: [Delft University of Technology](ResearchCentre.md#delft-univer
 News: <https://www.tudelft.nl/en/ae/flying-v/publications>
 
 Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
-
-
 
 
 
