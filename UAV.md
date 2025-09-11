@@ -5,6 +5,7 @@ UAV = Unmanned Aerial Vehicle
 
 Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
 
+
 ## Airplane
 - [Blended Wing Body](Airplane.BlendedWingBody.md)
   - [JetZero Pathfinder](Airplane.BlendedWingBody.md#jetzero-pathfinder)

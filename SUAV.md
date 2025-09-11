@@ -3,6 +3,9 @@
 
 SUAV = Small Unmanned Aerial Vehicle.
 
+Wikipedia: <https://en.wikipedia.org/wiki/Miniature_UAV>
+
+
 - [Glider](Glider.md)
   - [Speed record](Glider.md#suav-speed-record)
 
