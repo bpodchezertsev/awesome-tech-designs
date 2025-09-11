@@ -197,6 +197,11 @@ News: <https://www.tudelft.nl/en/ae/flying-v/publications>
 Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
 
 
+#### Flying V Papers
+
+- <https://www.tudelft.nl/en/ae/flying-v/publications>
+
+
 
 ---
 [Back to Airplane](Airplane.md)

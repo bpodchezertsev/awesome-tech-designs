@@ -79,14 +79,15 @@ Enjoy!
       - [Cyclocopter](Cyclocopter.md#suav)
       - [Jetcopter](Jetcopter.md#suav)
       - [Omnicopter](Omnicopter.md#suav) ([Comparison](Omnicopter.md#comparison))
+      - [Variable pitch copter](SUAV.Copter.md#variable-pitch-copter)
       - [Other](SUAV.Copter.md#other)
     - [Transonic](Supersonic.md#suav-transonic)
 - [Space](Space.md)
   - [Reusable second stage](Space.md#reusable-second-stage)
   - [Reusable first stage](Space.md#reusable-first-stage)
   - [Reusable spacecraft](Space.md#reusable-spacecraft)
-    - [Manned](Space.md#crewed)
-    - [Unmanned](Space.md#uncrewed)
+    - [Crewed](Space.md#crewed)
+    - [Uncrewed](Space.md#uncrewed)
   - [Launch Vehicles](Space.md#launch-vehicles)
   - [SSTO](Space.md#ssto)
 - [Propulsion](Propulsion.md)
@@ -101,14 +102,14 @@ Enjoy!
 - The largest WIG in trial operation. [Airfish-8](WIG.md#airfish-8)
 - The largest WIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
 - The largest eWIG undergoing sea trials. [REGENT Viceroy](WIG.md#regent-viceroy)
-- [Glider altitude record](Glider.md#altitude-record). [Perlan](Glider.md#perlan)
+- [Glider altitude record.](Glider.md#altitude-record) [Perlan](Glider.md#perlan)
 
 
 ### Top loss
 - Cancelled the largest thin-wing airplane. [Boeing X-66](Airplane.Other.md#boeing-x-66)
 - Cancelled the largest modern WIG. [Liberty Lifter](WIG.md#liberty-lifter)
-- Cancelled BWB program [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
-- Cancelled BWB program [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
+- Cancelled BWB program. [Airbus MAVERIC](Airplane.BlendedWingBody.md#airbus-maveric)
+- Cancelled BWB program. [Boeing X-48](Airplane.BlendedWingBody.md#boeing-x-48)
 - Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built. [Celera-500](Airplane.Other.md#celera-500)
 - Last built scaled prototype of lift-fan aircraft. [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
 
@@ -124,8 +125,8 @@ Enjoy!
 - Partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
 - The most prolific and active group of omnicopter developers. [ETH Zurich Omnicopters](ResearchCentre.md#eth-zurich)
 - The most prolific author of variable pitch copters. [Wolfgang Siebert](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
-- [Glider speed record](Glider.md#suav-speed-record)
-- Best today's stunt quadcopter (clones) [Stingray 500](SUAV.Copter.md#stingray-500)
+- [Glider speed record.](Glider.md#suav-speed-record)
+- Best today's stunt quadcopter (clones). [Stingray 500](SUAV.Copter.md#stingray-500)
 
 
 ### SUAV:Top loss
@@ -133,7 +134,7 @@ Enjoy!
 
 
 ### SUAV:Top ever
-- First partial omnicopter in service [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
+- First partial omnicopter in service. [Astria](Omnicopter.md#astria), [Voliro](Omnicopter.md#voliro-t)
 - First ever flying omnicopter. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
 - First ever omnicopter in open-source. [ETH Zurich omnicopter](Omnicopter.md#eth-omnicopter)
 - First ever horizontal omnicopter. [EAMS Lab Omnicopter](Omnicopter.md#eams-lab-omnicopter)
@@ -148,11 +149,13 @@ Enjoy!
 - [Omnicopter](Omnicopter.md#comparison)
 
 
+
 ---
 ### Papers
-- [Cyclocopter](Cyclocopter.md#papers)
-- [Omnicopter](Omnicopter.md#papers)
-- [SUAV.Copter](SUAV.Copter.md#papers)
+- [Airplane: Other: Flying V](Airplane.Other.md#flying-v-papers)
+- [Cyclocopter: Seoul National University cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters-papers)
+- [SUAV: Copter: Omnicopter: Lynchpin Omnicopter](Omnicopter.md#lynchpin-omnicopter-papers)
+- [SUAV: Copter: Other: Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration-papers)
 
 
 

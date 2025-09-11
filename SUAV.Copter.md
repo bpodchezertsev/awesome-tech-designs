@@ -96,7 +96,8 @@ Videos: <https://www.youtube.com/@helidrones/videos>
 
 See: [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 
-#### Papers:
+
+#### Triangular Quadrotor: A More Efficient Quadrotor Configuration Papers
 
 The Triangular Quadrotor: A More Efficient Quadrotor Configuration
 

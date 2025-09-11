@@ -155,7 +155,7 @@ Research center: [Seoul National University](ResearchCentre.md#seoul-national-un
 Note: The helicopter-like version from papers can be possible largest ever flying cyclocopter, but I can't find info on it.
 
 
-##### Papers:
+##### Seoul National University cyclocopters Papers
 
 1. Design of an Effective Cycloidal Blade System and its Applications (2016-02)
 

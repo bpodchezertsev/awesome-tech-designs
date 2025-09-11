@@ -7,12 +7,13 @@ SUAV = Small Unmanned Aerial Vehicle.
   - [Speed record](Glider.md#suav-speed-record)
 
 - [Copter](SUAV.Copter.md)
-  - [Variable pitch copter](SUAV.Copter.md#variable-pitch-copter)
-    - [Curtis Youngblood's variable pitch copters](SUAV.Copter.md#curtis-youngbloods-variable-pitch-copters)
-      - [Stingray 500](SUAV.Copter.md#stingray-500)
-      - [MantaRay](SUAV.Copter.md#mantaray)
-    - [Wolfgang Siebert's variable pitch copters](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
+  - [Cyclocopter](Cyclocopter.md)
+    - [Astria](Cyclocopter.md#astria)
   
+  - [Jetcopter](Jetcopter.md)
+    - [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
+    - [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
+
   - [Omnicopter](Omnicopter.md) ([Comparison](Omnicopter.md#comparison))
     - [Astria](Omnicopter.md#astria)
     - [Voliro-T](Omnicopter.md#voliro-t)
@@ -25,12 +26,11 @@ SUAV = Small Unmanned Aerial Vehicle.
     - [Lynchpin Omnicopter](Omnicopter.md#lynchpin-omnicopter)
     - [MOD Omnicopter](Omnicopter.md#mod-omnicopter)
 
-  - [Cyclocopter](Cyclocopter.md)
-    - [Astria](Cyclocopter.md#astria)
-  
-  - [Jetcopter](Jetcopter.md)
-    - [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
-    - [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
+  - [Variable pitch copter](SUAV.Copter.md#variable-pitch-copter)
+    - [Curtis Youngblood's variable pitch copters](SUAV.Copter.md#curtis-youngbloods-variable-pitch-copters)
+      - [Stingray 500](SUAV.Copter.md#stingray-500)
+      - [MantaRay](SUAV.Copter.md#mantaray)
+    - [Wolfgang Siebert's variable pitch copters](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
 
   - [Other](SUAV.Copter.md#other)
     - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration)

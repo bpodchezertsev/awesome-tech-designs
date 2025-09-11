@@ -384,7 +384,8 @@ Videos:
 - <https://www.youtube.com/@thelynchpinproject7779/videos>
 - <https://www.youtube.com/watch?v=sc09C__2B48>
 
-#### Papers
+
+#### Lynchpin Omnicopter Papers
 1. The Lynchpin—A Novel Geometry for Modular, Tangential, Omnidirectional Flight
 
    Terrence Dashon Howard, Christian Molter, Chris Dale Seely, Jeff Yee

@@ -19,8 +19,6 @@ Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
 - [AgustaWestland Project Zero](UAV.VTOL.md#agustawestland-project-zero)
 
 ## [Copter](UAV.Copter.md)
-- [Omnicopter](Omnicopter.md#uav) ([Comparison](Omnicopter.md#comparison))
-  - [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
 - [Cyclocopter](Cyclocopter.md#uav)
   - [Cyclotech BlackBird Demonstrator](Cyclocopter.md#cyclotech-blackbird-demonstrator)
   - [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator)
@@ -28,6 +26,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle>
   - [Seoul National University cyclocopters](Cyclocopter.md#seoul-national-university-cyclocopters)
 - [Jetcopter](Jetcopter.md#uav)
   - [JetQuad](Jetcopter.md#jetquad)
+- [Omnicopter](Omnicopter.md#uav) ([Comparison](Omnicopter.md#comparison))
+  - [Cyclotech BlackBird](Omnicopter.md#cyclotech-blackbird-demonstrator)
 - [Other](UAV.Copter.md#other)
   - [Flowcopter FC100](UAV.Copter.md#flowcopter-fc100)
 
