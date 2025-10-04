@@ -131,10 +131,6 @@ Enjoy!
 - Best today's stunt quadcopter (clones). [Stingray 500](SUAV.Copter.md#stingray-500)
 
 
-### SUAV:Top loss
-- Cancelled SUAV transonic project. [The mach initiative](Supersonic.md#the-mach-initiative)
-
-
 ### SUAV:Top ever
 - First partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
 - First horizontal omnicopter in service. [Astria](Omnicopter.md#astria)

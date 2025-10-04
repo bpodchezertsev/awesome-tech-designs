@@ -231,11 +231,11 @@ Company: [Dawn Aerospace](Company.md#dawn-aerospace)
 
 Goal: The Mach Initiative aims to break this record, by designing an aircraft that will reach speeds exceeding 570 MPH (Mach 0.75) at sea level.
 
-Status: Cancelled
+Status: New video available, but website is still down
 
-[SUAV:Top loss](readme.md#suavtop-loss): Cancelled SUAV transonic project
+Last video: <https://www.youtube.com/watch?v=d2R0BU_1qBo> 2025-10-04
 
-Videos: <https://www.youtube.com/@TheMachInitiative/videos>
+Videos: <https://www.youtube.com/@TheMachInitiative/videos> 2025-10-04
 
 Linkedin: <https://www.linkedin.com/company/the-mach-initiative/>
 

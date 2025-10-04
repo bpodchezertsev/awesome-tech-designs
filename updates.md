@@ -1,3 +1,12 @@
+## 2025-10-04
+
+[The mach initiative](Supersonic.md#the-mach-initiative) has published a new video, but the website is still down.
+
+- [SUAV](SUAV.md)
+  - [Transonic](Supersonic.md#suav-transonic)
+    - [The mach initiative](Supersonic.md#the-mach-initiative)
+
+
 ## 2025-09-12
 
 Cancellation:
