@@ -1,6 +1,21 @@
 [Aircraft](Aircraft.md): Compound helicopter
 ============================================
 
+
+
+### Contents
+
+<!-- TOC -->
+- [Abstract](#abstract)
+- [Airbus RACER](#airbus-racer)
+- [Sikorsky–Boeing SB-1 Defiant](#sikorskyboeing-sb-1-defiant)
+- [Sikorsky RAIDER X](#sikorsky-raider-x)
+<!-- TOC -->
+
+
+
+### Abstract
+
 A compound helicopter has an additional system for thrust and, typically, small stub fixed wings.
 This offloads the rotor in cruise, which allows its rotation to be slowed down, thus increasing the maximum speed of the aircraft.
 
@@ -8,7 +23,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Compound_helicopter>
 
 
 
-## Airbus RACER
+### Airbus RACER
 
 Status: Testing
 
@@ -31,7 +46,7 @@ Specifications:
 
 
 
-## Sikorsky–Boeing SB-1 Defiant
+### Sikorsky–Boeing SB-1 Defiant
 
 Status: Testing
 
@@ -45,7 +60,7 @@ Company: [Sikorsky](Company.md#sikorsky), [Boeing](Company.md#boeing)
 
 
 
-## Sikorsky RAIDER X
+### Sikorsky RAIDER X
 
 Status: Prototyping
 

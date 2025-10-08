@@ -1,6 +1,37 @@
 [SUAV](SUAV.md): Copter
 =======================
 
+
+
+## Contents
+
+<!-- TOC -->
+- [Omnicopter](#omnicopter)
+  - [Astria](Omnicopter.md#astria)
+  - [Voliro T](Omnicopter.md#voliro-t)
+  - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
+  - [OmniQuad](Omnicopter.md#omniquad)
+  - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+  - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
+  - [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
+  - [HAGAMOSphere](Omnicopter.md#hagamosphere)
+  - [Lynchpin Omnicopter](Omnicopter.md#lynchpin-omnicopter)
+  - [MOD Omnicopter](Omnicopter.md#mod-omnicopter)
+- [Jetcopter](#jetcopter)
+  - [ETH Avero Omnicopter](Jetcopter.md#eth-avero-omnicopter)
+  - [Stefano Rivellini Bladeless Drone](Jetcopter.md#stefano-rivellini-bladeless-drone)
+- [Variable pitch copter](#variable-pitch-copter)
+  - [Curtis Youngblood's variable pitch copters](#curtis-youngbloods-variable-pitch-copters)
+    - [Stingray 500](#stingray-500)
+    - [MantaRay](#mantaray)
+- [Wolfgang Siebert's variable pitch copters](#wolfgang-sieberts-variable-pitch-copters)
+- [Other](#other)
+  - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
+    - [Papers](#triangular-quadrotor-a-more-efficient-quadrotor-configuration-papers)
+<!-- TOC -->
+
+
+
 ## [Omnicopter](Omnicopter.md#suav)
 - [Astria](Omnicopter.md#astria)
 - [Voliro T](Omnicopter.md#voliro-t)

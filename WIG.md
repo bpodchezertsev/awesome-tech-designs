@@ -1,6 +1,27 @@
 [Aircraft](Aircraft.md): WIG
 ============================
 
+
+
+### Contents
+
+<!-- TOC -->
+- [Abstract](#abstract)
+  - [A-Type](#a-type)
+  - [B-Type](#b-type)
+  - [C-Type](#c-type)
+- [Comparison](#comparison)
+- [Airfish-8](#airfish-8)
+- [REGENT Viceroy](#regent-viceroy)
+- [Liberty Lifter](#liberty-lifter)
+  - [Scaled prototype demonstrator specifications](#scaled-prototype-demonstrator-specifications)
+  - [Specifications](#specifications)
+<!-- TOC -->
+
+
+
+### Abstract
+
 WIG = Wing-In-Ground(effect)
 also GEV = Ground-Effect Vehicle, wingship, seaglider, ekranoplan
 
@@ -26,7 +47,9 @@ Will anyone win this design challenge?
 
 Note: This list does not include small WIGs.
 
-## Comparison
+
+
+### Comparison
 | Reference                         | Status                | Wingspan | Length  | Height | Int. length | Int. width | Int. height | Range | Cruise speed | Max speed | Max draft | Cruise height | Max height in flight | Max wind during T/O & landing | Comfortable wave at take off & landing | Max wave at take off & landing | Waves can be fly over | Crew | Cargo capacity | Passenger capacity                   |
 |-----------------------------------|-----------------------|----------|---------|--------|-------------|------------|-------------|-------|--------------|-----------|-----------|---------------|----------------------|-------------------------------|----------------------------------------|--------------------------------|-----------------------|------|----------------|--------------------------------------|
 | [Airfish-8](#airfish-8)           | Trial operation       | 15m      | 17.2m   | 3.5m   | 4.0m        | 1.4        |             |       | 185km/h      | 204km/h   | 0.55m     | 1-2m          | 7m (sea state 6)     | 15kt (27.8km/h)               |                                        | 1m (sea state 3)               |                       | 2    | 1000kg         | 8 + luggage (total 160kg/passenger)  |
@@ -34,7 +57,7 @@ Note: This list does not include small WIGs.
 
 
 
-## Airfish-8
+### Airfish-8
 
 WIG type: [A-type WIG](#a-type).
 
@@ -75,7 +98,7 @@ Specifications:
 
 
 
-## REGENT Viceroy
+### REGENT Viceroy
 
 Possible WIG type: [B-type WIG](#b-type).
 
@@ -125,7 +148,7 @@ Specifications:
 
 
 
-## Liberty Lifter
+### Liberty Lifter
 
 WIG type: [C-type WIG](#c-type).
 
@@ -153,12 +176,12 @@ DARPA: <https://www.darpa.mil/research/programs/liberty-lifter>
 
 Last video: <https://www.youtube.com/watch?v=xzWsxEr2juQ> 2024-09-24
 
-### Scaled prototype demonstrator specifications:
+#### Scaled prototype demonstrator specifications:
 - Wingspan: 65m
 - Capacity: 22680kg
 - Estimated launch: 2028
 
-### Specifications:
+#### Specifications:
 - Cruise altitude: <30m
 - Max altitude: 3000m
 - Range at cruise speed: 12000km

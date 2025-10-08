@@ -1,6 +1,38 @@
 [&#9776;](readme.md#categories): Omnicopter
 ===========================================
 
+
+
+## Contents
+
+<!-- TOC -->
+- [Contents](#contents)
+- [Abstract](#abstract)
+- [Comparison](#comparison)
+- [Manned](#manned)
+  - [Cyclotech CruiseUp](#cyclotech-cruiseup)
+- [UAV](#uav)
+  - [Cyclotech BlackBird Demonstrator](#cyclotech-blackbird-demonstrator)
+- [SUAV](#suav)
+  - [Astria](#astria)
+  - [Voliro T](#voliro-t)
+  - [UCVision's Prototype 1](#ucvisions-prototype-1)
+  - [OmniQuad](#omniquad)
+    - [Papers](#omniquad-papers)
+  - [ETH Omnicopter](#eth-omnicopter)
+  - [ETH Voliro Omnicopter](#eth-voliro-omnicopter)
+  - [ETH Avero Omnicopter](#eth-avero-omnicopter)
+  - [HAGAMOSphere](#hagamosphere)
+  - [EAMS Lab Omnicopter](#eams-lab-omnicopter)
+  - [Lynchpin Omnicopter](#lynchpin-omnicopter)
+    - [Papers](#lynchpin-omnicopter-papers)
+  - [MOD Omnicopter](#mod-omnicopter)
+<!-- TOC -->
+
+
+
+## Abstract
+
 An Omnicopter is a copter that can provide thrust in all directions (6 degrees of freedom).
 This allows it to move in any direction without having to tilt, and it can hover at an arbitrary tilt angle.
 
@@ -268,7 +300,7 @@ Julien Mellet, Andrea Berra, Salvatore Marcellini, Miguel Ángel Trujillo Soto, 
 
 
 
-#### ETH Omnicopter
+### ETH Omnicopter
 
 Status: Open-source
 
@@ -294,7 +326,7 @@ Videos:
 
 
 
-#### ETH Voliro Omnicopter
+### ETH Voliro Omnicopter
 
 Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection
 
@@ -311,7 +343,7 @@ Research centre: [ETH Zurich](ResearchCentre.md#eth-zurich)
 
 
 
-#### ETH Avero Omnicopter
+### ETH Avero Omnicopter
 
 Status: Prototyping
 

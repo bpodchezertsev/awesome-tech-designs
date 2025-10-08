@@ -1,6 +1,29 @@
 [&#9776;](readme.md#categories): Propulsion
 ===========================================
 
+
+
+## Contents
+
+<!-- TOC -->
+- [Contents](#contents)
+- [Rotorcraft propulsion](#rotorcraft-propulsion)
+  - [Cyclorotor](#cyclorotor)
+    - [In market](#in-market)
+      - [Cyclotech](#cyclotech)
+- [Jet engine](#jet-engine)
+  - [Jet engine with precooler](#jet-engine-with-precooler)
+    - [Chimera Engine](#chimera-engine)
+    - [SABRE](#sabre)
+  - [Rotating detonation engine](#rotating-detonation-engine)
+    - [Venus Aerospace](#venus-aerospace)
+  - [Aerospike engine](#aerospike-engine)
+  - [Other jet engine](#other-jet-engine)
+    - [Symphony engine](#symphony-engine)
+<!-- TOC -->
+
+
+
 ## Rotorcraft propulsion
 
 

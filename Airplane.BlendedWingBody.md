@@ -1,6 +1,28 @@
 [Airplane](Airplane.md): Blended Wing Body
 ==========================================
 
+
+
+## Contents
+
+<!-- TOC -->
+- [Abstract](#abstract)
+- [Manned](#manned)
+  - [Airbus MAVERIC](#airbus-maveric)
+  - [Boeing X-48](#boeing-x-48)
+  - [JetZero Commercial](#jetzero-commercial)
+  - [JetZero Demonstrator](#jetzero-demonstrator)
+  - [Natilus Horizon](#natilus-horizon)
+  - [Natilus Kona](#natilus-kona)
+- [UAV](#uav)
+  - [JetZero Pathfinder](#jetzero-pathfinder)
+  - [Natilus scaled prototype](#natilus-scaled-prototype)
+<!-- TOC -->
+
+
+
+## Abstract
+
 _BWB list, ordered alphabetically in each group._
 
 A blended wing body (BWB), also known as blended body, hybrid wing body (HWB) or a lifting aerofoil fuselage, is a fixed-wing aircraft having no clear dividing line between the wings and the main body of the craft.
@@ -10,6 +32,8 @@ Wikipedia: <https://en.wikipedia.org/wiki/Blended_wing_body>
 Today we have many BWB UAVs, but we still not have manned BWB aircraft.
 
 This is the list of manned BWB projects:
+
+
 
 ## Manned
 

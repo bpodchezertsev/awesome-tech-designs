@@ -1,3 +1,9 @@
+## 2025-10-08
+
+Add TOCs in all non-TOC files.
+Move descriptions to Abstract sections.
+
+
 ## 2025-10-04
 
 [The mach initiative](Supersonic.md#the-mach-initiative) has published a new video, but the website is still down.

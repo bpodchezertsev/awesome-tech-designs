@@ -1,6 +1,21 @@
 [Airplane](Airplane.md): Amphibious airplane
 ============================================
 
+
+
+## Contents
+
+<!-- TOC -->
+- [Abstract](#abstract)
+- [Comparison](#comparison)
+- [Equator P2 XCURSION](#equator-p2-xcursion)
+- [ICON A5](#icon-a5)
+<!-- TOC -->
+
+
+
+### Abstract
+
 An amphibious aircraft, or amphibian, is an aircraft that can take off and land on both solid ground and water.
 
 Wikipedia: <https://en.wikipedia.org/wiki/Amphibious_aircraft>
