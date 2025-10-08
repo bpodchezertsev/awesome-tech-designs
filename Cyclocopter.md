@@ -1,6 +1,8 @@
 [&#9776;](readme.md#categories): Cyclocopter
 ============================================
 
+Also cyclogyro.
+
 
 
 ## Contents
@@ -22,8 +24,6 @@
 
 
 ## Abstract
-
-Also cyclogyro.
 
 Cyclocopter is a copter based on [Cyclorotor](Propulsion.md#cyclorotor) as a main propulsion system.
 
