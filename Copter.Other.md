@@ -8,7 +8,6 @@ _Other manned copter list._
 ### Contents
 
 <!-- TOC -->
-- [Contents](#contents)
 - [Volocity](#volocity)
 - [Volocopter 2X](#volocopter-2x)
 <!-- TOC -->

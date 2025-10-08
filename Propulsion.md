@@ -6,7 +6,6 @@
 ## Contents
 
 <!-- TOC -->
-- [Contents](#contents)
 - [Rotorcraft propulsion](#rotorcraft-propulsion)
   - [Cyclorotor](#cyclorotor)
     - [In market](#in-market)

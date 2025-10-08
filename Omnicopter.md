@@ -6,7 +6,6 @@
 ## Contents
 
 <!-- TOC -->
-- [Contents](#contents)
 - [Abstract](#abstract)
 - [Comparison](#comparison)
 - [Manned](#manned)

@@ -6,7 +6,6 @@
 ## Contents
 
 <!-- TOC -->
-- [Contents](#contents)
 - [Abstract](#abstract)
 - [Manned](#manned)
   - [Cyclotech CruiseUp](#cyclotech-cruiseup)
