@@ -1,3 +1,10 @@
+## 2025-10-24
+
+New:
+- [VTOL](VTOL.md)
+  - [Skyfly Axe](VTOL.md#skyfly-axe)
+
+
 ## 2025-10-08
 
 Add TOCs in all non-TOC files.

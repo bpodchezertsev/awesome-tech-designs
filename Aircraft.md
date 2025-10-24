@@ -34,6 +34,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Aircraft>
   - [Joby S4](VTOL.md#joby-s4)
   - [Lilium](VTOL.md#lilium)
   - [Midnight](VTOL.md#midnight)
+  - [Skyfly Axe](VTOL.md#skyfly-axe)
   - [Valor](VTOL.md#valor)
   - [Voloregion](VTOL.md#voloregion)
   - [VX4](VTOL.md#vx4)

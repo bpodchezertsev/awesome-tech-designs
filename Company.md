@@ -1075,6 +1075,29 @@ Instagram: <https://www.instagram.com/sierraspaceco/>
 
 
 
+## Skyfly Technologies
+
+eVTOL manufacturer.
+
+Site: <https://skyfly.aero/>
+
+Location: [UK](ProjectByCountry.md#uk)
+
+News: <https://skyfly.aero/about/#press>
+
+Videos: <https://www.youtube.com/@skyflytech/videos>
+
+Linkedin: <https://www.linkedin.com/company/skyfly-technologies-ltd/>
+
+Facebook: <https://www.facebook.com/skyflytechnologies/>
+
+Twitter: <https://x.com/SkyflyTechLtd>
+
+Instagram: <https://www.instagram.com/skyfly.aero/>
+
+- [VTOL](VTOL.md#skyfly-axe)
+
+
 ## SpaceX
 
 Space launch company

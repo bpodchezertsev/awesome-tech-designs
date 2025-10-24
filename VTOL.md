@@ -14,6 +14,7 @@ _Manned VTOL list. Alphabetically ordered_
 - [Joby S4](#joby-s4)
 - [Lilium](#lilium)
 - [Midnight](#midnight)
+- [Skyfly Axe](#skyfly-axe)
 - [Valor](#valor)
 - [Voloregion](#voloregion)
 - [VX4](#vx4)
@@ -43,6 +44,7 @@ so their construction becomes much more difficult.
 | [Alia A250 VTOL](#alia-a250-vtol) | 1    | 5          |        |        | 15.2m    | battery          |             | 283km/h      |
 | [Joby S4](#joby-s4)               | 1    | 4          |        |        |          | battery/hydrogen | 161km/800km | 322km/h      |
 | [Midnight](#midnight)             | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
+| [Skyfly Axe](#skyfly-axe)         | 1    | 1          |        |        | 5m       | battery/hybrid   | 161km/482km | 88+km/h      |
 | [VX4](#vx4)                       | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
 | [Voloregion](#voloregion)         | 1    | 4          |        |        |          | battery          | 100km       | 180km/h      |
 
@@ -140,7 +142,6 @@ Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
 
 
 
-
 ### Midnight
 
 eVTOL partial tilt-rotor 3/6
@@ -169,6 +170,54 @@ Specifications:
 - Noise level (vertical takeoff and landing): 65dB
 - Charging time: ~12minutes for 32km flight 
 
+
+
+## Skyfly Axe
+
+eVTOL 4 tilt-rotor
+
+Project highlights tandem wings design.
+
+Status: Piloted test flights
+
+Site: <https://skyfly.aero/aircraft/>
+
+![](https://skyfly.aero/wp-content/uploads/2025/07/Skyfly_Bicester_Flight_June_2025-12-1536x1022.jpg)
+
+Company: [Skyfly Technologies](Company.md#skyfly-technologies)
+
+Specifications:
+- Crew: 1
+- Passenger capacity: 1
+- Crew weight: 200kg (2 pax)
+- Wingspan: 5m (chord 1.2m)
+- Candard Span: 5m (chord 0.8m)
+- Maximum All Up Weight: 750kg
+- Empty weight: 300kg  (equipped for flight less batteries and occupants)
+- Installed power: 8 x 35kw motors = 280kw peak
+- Batteries: 250kg = 50kwh
+- Hybrid setup: 200kg batteries/fuel | 50kg hybrid power plant
+- Rotor diameter: 4 x 1.9m (4-bladed fixed pitch)
+- Rotor Angle: Fixed
+- Hover Power Required: 140kw
+- Forward flight Power: 50kw 
+- Undercarriage: Tricycle (conventional fixed wing)
+- Stall Speed: 48mph
+- Lowest cruise speed without losing efficiency: 88km/h
+- Power off sink rate: 570fpm at 70mph
+- Best Glide Angle: 9:1 at 70mph
+- Climb: 2300fpm at 70mph
+- Runway Length Required:
+  - 0m – VTOL (vertical take-off and landing)
+  - 50m – STOL (short take-off and landing)
+  - 300m – Glide and power off landing
+- Range: 
+  - fully electric: 161km (1hr at 161km/h)
+  - hybrid: 482km
+- Endurance at lowest cruise speed: 1hr 21min fully electric at max payload with prototype battery.
+- Charge time:
+  - 0% to 100% in 4.5 hours
+  - 20% to 100% in 3.5 hours
 
 
 ### Valor
