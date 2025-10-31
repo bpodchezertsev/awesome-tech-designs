@@ -181,7 +181,7 @@ Quesst = Quiet SuperSonic Technology
 
 Project goal: Quesst is NASA's mission to demonstrate how the X-59 can fly supersonic without generating loud sonic booms and then survey what people hear when it flies overhead. Reaction to the quieter sonic "thumps" will be shared with regulators who will then consider writing new sound-based rules to lift the ban on faster-than-sound flight over land.
 
-Status: Prototype ground tests. First flights planned to be in 2025.
+Status: Maiden subsonic flight
 
 Site: <https://www.nasa.gov/mission/quesst/>
 
@@ -195,7 +195,7 @@ News: <https://www.nasa.gov/more-quesst-news/>
 
 Videos: <https://www.youtube.com/watch?v=8fS9PFQEPbo&list=PLiuUQ9asub3SMyogFLHvHRdYJXEe8E4TP>
 
-Latest video: <https://www.youtube.com/watch?v=8fS9PFQEPbo> 2025-01-14
+Latest video: <https://www.youtube.com/watch?v=zIwcModSxdE> 2025-10-29
 
 
 

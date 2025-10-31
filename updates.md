@@ -1,3 +1,10 @@
+## 2025-10-31
+
+Status update:
+- [Supersonic](Supersonic.md)
+  - [NASA X-59 Quesst](Supersonic.md#nasa-x-59-quesst) Status: Maiden subsonic flight
+
+
 ## 2025-10-24
 
 New:
