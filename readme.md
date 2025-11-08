@@ -62,6 +62,7 @@ Enjoy!
       - [Omnicopter](Omnicopter.md#manned) ([Comparison](Omnicopter.md#comparison))
       - [Other](Copter.Other.md)
     - [Flying car](FlyingCar.md) ([Comparison](FlyingCar.md#comparison))
+    - [Hypersonic](Supersonic.md#manned-hypersonic)
     - [Supersonic](Supersonic.md#manned-supersonic)
     - [WIG](WIG.md)
   - [UAV](UAV.md)
