@@ -24,7 +24,7 @@
   - [Curtis Youngblood's variable pitch copters](#curtis-youngbloods-variable-pitch-copters)
     - [Stingray 500](#stingray-500)
     - [MantaRay](#mantaray)
-- [Wolfgang Siebert's variable pitch copters](#wolfgang-sieberts-variable-pitch-copters)
+  - [Wolfgang Siebert's variable pitch copters](#wolfgang-sieberts-variable-pitch-copters)
 - [Other](#other)
   - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
     - [Papers](#triangular-quadrotor-a-more-efficient-quadrotor-configuration-papers)
@@ -102,7 +102,7 @@ Video: <https://www.youtube.com/watch?v=uuExXFCCDgA>
 
 
 
-## Wolfgang Siebert's variable pitch copters
+### Wolfgang Siebert's variable pitch copters
 
 Wolfgang Siebert experiments a lot with variable pitch copters.
 
