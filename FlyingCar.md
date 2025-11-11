@@ -6,13 +6,13 @@
 ### Contents
 
 <!-- TOC -->
-- [Abstract](#abstract)
-- [Comparison](#comparison)
-- [Samson Sky Switchblade](#samson-sky-switchblade)
-- [Klein Vision AirCar](#klein-vision-aircar)
-- [Pal-V Liberty](#pal-v-liberty)
-- [Pal-V One](#pal-v-one)
-- [AeroMobil](#aeromobil)
+* [Abstract](#abstract)
+* [Comparison](#comparison)
+* [AeroMobil](#aeromobil)
+* [Klein Vision AirCar](#klein-vision-aircar)
+* [Pal-V Liberty](#pal-v-liberty)
+* [Pal-V One](#pal-v-one)
+* [Samson Sky Switchblade](#samson-sky-switchblade)
 <!-- TOC -->
 
 
@@ -32,56 +32,21 @@ Wikipedia: <https://en.wikipedia.org/wiki/Flying_car>
 
 
 
-### Samson Sky Switchblade
+### AeroMobil
 
 Type: Airplane
 
-Prototypes built: 1
+Status: Cancelled
 
-Status: Pre-production version under construction. Pre-order is open.
+Project successor: [Klein Vision AirCar](#klein-vision-aircar)
 
-Certification: Sold as a kit without certification.
+![](https://www.aeromobil.com/images/tf_7.png)
 
-Site: <https://www.samsonsky.com/models/#switchblade-regular>
+Company: [AeroMobil](Company.md#aeromobil)
 
-Wikipedia: <https://en.wikipedia.org/wiki/Samson_Switchblade>
+Latest flight video of the latest prototype: <https://www.youtube.com/watch?v=zhAdHUgoc2c> (2021-03-04)
 
-![](https://cdn.samsonsky.com/wp-content/uploads/2024/07/08173910/samson-blog-latest_updates-dec_12_2023-01.jpg)
-
-Company: [Samson Sky](Company.md#samson-sky)
-
-Videos: <https://www.youtube.com/@SamsonSkySwitchblade/videos>
-
-Video of the only flight: <https://www.youtube.com/watch?v=R3SpMa6k8Kk> (2023-11-09)
-
-Linkedin: <https://www.linkedin.com/company/samson-sky/>
-
-Facebook: <https://www.facebook.com/SamsonSkySwitchblade>
-
-Instagram: <https://www.instagram.com/SamsonSkySwitchblade>
-
-Specifications:
-- Seats: 2
-- Max Take-Off Weight (MTOW): 840kg
-- Estimated Payload: 260kg (people, bags, fuel)
-- Length (ground mode): 5.1m
-- Length (flight mode): 6.2m
-- Vehicle Width: 1.8m
-- Height: 1.5m (top of body)
-- Wing Span: 8.2m
-- Wing Loading: 132kg/m2
-- Fuel Capacity (including reserves): 125L
-- Maximum Airspeed: 305km/h
-- Cruise Speed: 257km/h
-- Max Driving Speed: 201km/h+
-- Maximum Range: 724km
-- Take-off Distance: 335m
-- Landing Distance: 213m
-- Stall Speed (w/ flaps): 108km/h
-- Fuel economy (ground): 14km/L
-- Fuel economy (in air): 36L/h
-- Type Fuel: 91 Octane Automobile gasoline
-- Engine: 190hp
+Wikipedia: <https://en.wikipedia.org/wiki/AeroMobil_s.r.o._AeroMobil>
 
 
 
@@ -192,21 +157,56 @@ Last drive video: <https://www.youtube.com/watch?v=F86USjkajco>
 
 
 
-### AeroMobil
+### Samson Sky Switchblade
 
 Type: Airplane
 
-Status: Cancelled
+Prototypes built: 1
 
-Project successor: [Klein Vision AirCar](#klein-vision-aircar)
+Status: Pre-production version under construction. Pre-order is open.
 
-![](https://www.aeromobil.com/images/tf_7.png)
+Certification: Sold as a kit without certification.
 
-Company: [AeroMobil](Company.md#aeromobil)
+Site: <https://www.samsonsky.com/models/#switchblade-regular>
 
-Latest flight video of the latest prototype: <https://www.youtube.com/watch?v=zhAdHUgoc2c> (2021-03-04)
+Wikipedia: <https://en.wikipedia.org/wiki/Samson_Switchblade>
 
-Wikipedia: <https://en.wikipedia.org/wiki/AeroMobil_s.r.o._AeroMobil>
+![](https://cdn.samsonsky.com/wp-content/uploads/2024/07/08173910/samson-blog-latest_updates-dec_12_2023-01.jpg)
+
+Company: [Samson Sky](Company.md#samson-sky)
+
+Videos: <https://www.youtube.com/@SamsonSkySwitchblade/videos>
+
+Video of the only flight: <https://www.youtube.com/watch?v=R3SpMa6k8Kk> (2023-11-09)
+
+Linkedin: <https://www.linkedin.com/company/samson-sky/>
+
+Facebook: <https://www.facebook.com/SamsonSkySwitchblade>
+
+Instagram: <https://www.instagram.com/SamsonSkySwitchblade>
+
+Specifications:
+- Seats: 2
+- Max Take-Off Weight (MTOW): 840kg
+- Estimated Payload: 260kg (people, bags, fuel)
+- Length (ground mode): 5.1m
+- Length (flight mode): 6.2m
+- Vehicle Width: 1.8m
+- Height: 1.5m (top of body)
+- Wing Span: 8.2m
+- Wing Loading: 132kg/m2
+- Fuel Capacity (including reserves): 125L
+- Maximum Airspeed: 305km/h
+- Cruise Speed: 257km/h
+- Max Driving Speed: 201km/h+
+- Maximum Range: 724km
+- Take-off Distance: 335m
+- Landing Distance: 213m
+- Stall Speed (w/ flaps): 108km/h
+- Fuel economy (ground): 14km/L
+- Fuel economy (in air): 36L/h
+- Type Fuel: 91 Octane Automobile gasoline
+- Engine: 190hp
 
 
 

@@ -6,19 +6,19 @@
 ## Contents
 
 <!-- TOC -->
-- [Austria](#austria)
-- [EU](#eu)
-- [Germany](#germany)
-- [Italy](#italy)
-- [Japan](#japan)
-- [Netherlands](#netherlands)
-- [New Zealand](#new-zealand)
-- [Singapore](#singapore)
-- [Slovakia](#slovakia)
-- [South Korea](#south-korea)
-- [Swithzerland](#swithzerland)
-- [UK](#uk)
-- [USA](#usa)
+* [Austria](#austria)
+* [EU](#eu)
+* [Germany](#germany)
+* [Italy](#italy)
+* [Japan](#japan)
+* [Netherlands](#netherlands)
+* [New Zealand](#new-zealand)
+* [Singapore](#singapore)
+* [Slovakia](#slovakia)
+* [South Korea](#south-korea)
+* [Swithzerland](#swithzerland)
+* [UK](#uk)
+* [USA](#usa)
 <!-- TOC -->
 
 
@@ -156,6 +156,8 @@
   - [Valkyrie](Airplane.Other.md#valkyrie)
 - [Dawn Aerospace](Company.md#dawn-aerospace)
   - [Dawn Mk-2 Aurora](Supersonic.md#dawn-mk-2-aurora)
+- [Electra](Company.md#electra)
+  - [Electra EL-2 Goldfinch](Airplane.Other.md#electra-el-2-goldfinch)
 - [Equator Aircraft](Company.md#equator-aircraft)
   - [Equator P2 XCURSION](Airplane.Amphibious.md#equator-p2-xcursion)
 - [Fusion Flight](Company.md#fusion-flight)

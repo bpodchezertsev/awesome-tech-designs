@@ -1,20 +1,21 @@
 [Airplane](Airplane.md): Other
 ==============================
 
-_Non grouped airplanes, ordered by status._
+_Non grouped airplanes_
 
 
 
 ### Contents
 
 <!-- TOC -->
-- [Alia CX300 CTOL](#alia-cx300-ctol)
-- [Valkyrie](#valkyrie)
-- [Phantom 3500](#phantom-3500)
-- [Celera 500](#celera-500)
-- [Boeing X-66](#boeing-x-66)
-- [Flying V](#flying-v)
-  - [Papers](#flying-v-papers)
+* [Alia CX300 CTOL](#alia-cx300-ctol)
+* [Boeing X-66](#boeing-x-66)
+* [Celera 500](#celera-500)
+* [Electra EL-2 Goldfinch](#electra-el-2-goldfinch)
+* [Flying V](#flying-v)
+  * [Papers](#flying-v-papers)
+* [Phantom 3500](#phantom-3500)
+* [Valkyrie](#valkyrie)
 <!-- TOC -->
 
 
@@ -46,6 +47,146 @@ Specifications:
 - Max demonstrated range: 336km
 - Propulsion: One H500A Electric Motor
 - Propeller: One 5-Blade Fixed Pitch Propeller
+
+
+
+### Boeing X-66
+
+Prototyping of the truss-braced wing <https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing>
+
+Project highlights an extra-long and thin wing design stabilized by diagonal bracing struts.
+
+Status: Cancelled.
+
+Cancellation news: <https://aviationweek.com/aerospace/emerging-technologies/boeing-puts-x-66-ice-will-continue-thin-wing-studies> (2025-04-24).
+
+[Top loss](readme.md#top-loss): Cancelled the largest thin-wing airplane
+
+Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
+
+![](https://theaircurrent.com/wp-content/uploads/2024/06/boeing-nasa-x-66-render-cruise-close-2024.jpg)
+
+Company: [Aurora Flight Sciences](Company.md#aurora-flight-sciences)
+
+Program: [NASA’s Sustainable Flight Demonstrator (SFD)](Program.md#nasas-sustainable-flight-demonstrator-sfd)
+
+Also news: <https://theaircurrent.com/aircraft-development/boeing-is-shifting-engineers-away-from-x-66a-development/>
+
+
+
+### Celera 500
+
+Technology demonstrator.
+
+Project highlights vision of an optimized airplane.
+
+[Top loss](readme.md#top-loss): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
+
+Number built: 1
+
+Predecessor of [Phantom 3500](#phantom-3500)
+
+Status: Retired
+
+Site: <https://ottoaerospace.com/technology/technology-demonstrator/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
+
+![](https://ottoaerospace.com/wp-content/uploads/2025/04/celera-header-scaled-taller.png)
+
+Company: [Otto Aerospace](Company.md#otto-aerospace)
+
+Specifications:
+- Crew: 1
+- Passengers capacity: ~6
+- Cabin height: 1.88m
+- Cabin volume: 12.7m3
+- Powerplant: 1 × RED A03 diesel piston engine, 550 hp (410 kW) approximate at takeoff
+- Cruise speed: 740km/h estimated minimum
+- Range: 8300km
+- Service ceiling: 9100m
+- Maximum glide ratio: 22:1
+
+Related program: [Albatross glider](Program.md#albatross-glider)
+
+
+
+### Electra EL-2 Goldfinch
+
+eSTOL tech demonstrator
+
+Project highlights eSTOL airplane.
+
+Status: Testing
+
+Wikipedia: <https://en.wikipedia.org/wiki/Electra_EL-2_Goldfinch>
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8e/The_El-2_Aircraft.png)
+
+Company: [Electra](Company.md#electra)
+
+Specifications:
+- Crew: 1-2
+- Gross weight: 1.406kg
+- Fuel capacity: fuel + battery packs
+- Powerplant: 1 × turbogenerator, 200 hp (150kW)
+- Minimum control speed: 46km/h
+
+
+
+### Flying V
+
+Project highlights designing an airliner of an unconventional schema,
+but based on existing technologies for the construction of tubular fuselages.
+
+Status: Concept study.
+
+Site: <https://www.tudelft.nl/en/ae/flying-v>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
+
+![](https://filelist.tudelft.nl/_processed_/8/1/csm_FlyingV_Isometric_0e518ffdff.png)
+
+Research centre: [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
+
+News: <https://www.tudelft.nl/en/ae/flying-v/publications>
+
+Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
+
+
+#### Flying V Papers
+
+- <https://www.tudelft.nl/en/ae/flying-v/publications>
+
+
+
+### Phantom 3500
+
+Project highlights vision of an optimized airplane.
+
+Successor of [Celera 500](#celera-500)
+
+Status: Funding
+
+Estimated completion of funding: end of 2025.
+
+Site: <https://ottoaerospace.com/aircraft/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Otto_Phantom_3500>
+
+![](https://ottoaerospace.com/wp-content/uploads/2025/04/p3500-away.webp)
+
+Company: [Otto Aerospace](Company.md#otto-aerospace)
+
+Proposed to go in service: 2030
+
+Specifications:
+- Cabin Volume: 22.7m^2
+- Cabin Height: 2m
+- Max Range: 6500km
+- NBAA 4pax Range: 6000km
+- Cruise Altitude: 15.5km
+- Balanced Field: <1km
 
 
 
@@ -97,123 +238,6 @@ Linkedin: <https://www.linkedin.com/company/centauri-aircraft/>
 Facebook: <https://www.facebook.com/centauriaircraft>
 
 Instagram: <https://www.instagram.com/centauri_aircraft/>
-
-
-
-### Phantom 3500
-
-Project highlights vision of an optimized airplane.
-
-Successor of [Celera 500](#celera-500)
-
-Status: Funding
-
-Estimated completion of funding: end of 2025.
-
-Site: <https://ottoaerospace.com/aircraft/>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Otto_Phantom_3500>
-
-![](https://ottoaerospace.com/wp-content/uploads/2025/04/p3500-away.webp)
-
-Company: [Otto Aerospace](Company.md#otto-aerospace)
-
-Proposed to go in service: 2030
-
-Specifications:
-- Cabin Volume: 22.7m^2
-- Cabin Height: 2m
-- Max Range: 6500km
-- NBAA 4pax Range: 6000km
-- Cruise Altitude: 15.5km
-- Balanced Field: <1km
-
-
-
-### Celera 500
-
-Technology demonstrator.
-
-Project highlights vision of an optimized airplane.
-
-[Top loss](readme.md#top-loss): Last prototype claimed to be the most fuel-efficient airplane (in that class) ever built.
-
-Number built: 1
-
-Predecessor of [Phantom 3500](#phantom-3500)
-
-Status: Retired
-
-Site: <https://ottoaerospace.com/technology/technology-demonstrator/>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Otto_Celera_500L>
-
-![](https://ottoaerospace.com/wp-content/uploads/2025/04/celera-header-scaled-taller.png)
-
-Company: [Otto Aerospace](Company.md#otto-aerospace)
-
-Specifications:
-- Crew: 1
-- Passengers capacity: 6~~~~
-- Cabin height: 1.88m
-- Cabin volume: 12.7m3
-- Powerplant: 1 × RED A03 diesel piston engine, 550 hp (410 kW) approximate at takeoff
-- Cruise speed: 740km/h estimated minimum
-- Range: 8300km
-- Service ceiling: 9100m
-- Maximum glide ratio: 22:1
-
-Related program: [Albatross glider](Program.md#albatross-glider)
-
-
-
-### Boeing X-66
-
-Prototyping of the truss-braced wing <https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing>
-
-Project highlights an extra-long and thin wing design stabilized by diagonal bracing struts.
-
-Status: Cancelled.
-
-Cancellation news: <https://aviationweek.com/aerospace/emerging-technologies/boeing-puts-x-66-ice-will-continue-thin-wing-studies> (2025-04-24).
-
-[Top loss](readme.md#top-loss): Cancelled the largest thin-wing airplane
-
-Wikipedia: <https://en.wikipedia.org/wiki/Boeing_X-66>
-
-![](https://theaircurrent.com/wp-content/uploads/2024/06/boeing-nasa-x-66-render-cruise-close-2024.jpg)
-
-Company: [Aurora Flight Sciences](Company.md#aurora-flight-sciences)
-
-Program: [NASA’s Sustainable Flight Demonstrator (SFD)](Program.md#nasas-sustainable-flight-demonstrator-sfd)
-
-Also news: <https://theaircurrent.com/aircraft-development/boeing-is-shifting-engineers-away-from-x-66a-development/>
-
-
-
-### Flying V
-
-Project highlights designing an airliner of an unconventional schema,
-but based on existing technologies for the construction of tubular fuselages.
-
-Status: Concept study.
-
-Site: <https://www.tudelft.nl/en/ae/flying-v>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Delft_Flying-V>
-
-![](https://filelist.tudelft.nl/_processed_/8/1/csm_FlyingV_Isometric_0e518ffdff.png)
-
-Research centre: [Delft University of Technology](ResearchCentre.md#delft-university-of-technology)
-
-News: <https://www.tudelft.nl/en/ae/flying-v/publications>
-
-Scaled prototype flight video: <https://www.youtube.com/watch?v=UMSiBCrvOj0> (2020-09-01)
-
-
-#### Flying V Papers
-
-- <https://www.tudelft.nl/en/ae/flying-v/publications>
 
 
 

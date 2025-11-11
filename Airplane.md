@@ -21,7 +21,9 @@
 ## [Other](Airplane.Other.md)
 - In service:
   - [Alia CX300 CTOL](Airplane.Other.md#alia-cx300-ctol)
-- Unknown: 
+- Testing:
+  - [Electra EL-2 Goldfinch](Airplane.Other.md#electra-el-2-goldfinch)
+- Unknown:
   - [Valkyrie](Airplane.Other.md#valkyrie)
 - In development:
   - [Phantom 3500](Airplane.Other.md#phantom-3500)

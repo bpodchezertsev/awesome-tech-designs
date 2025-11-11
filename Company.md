@@ -6,60 +6,61 @@
 ## Contents
 
 <!-- TOC -->
-  * [AeroMobil](#aeromobil)
-  * [Airbus](#airbus)
-  * [Archer](#archer)
-  * [Aurora Flight Sciences](#aurora-flight-sciences)
-  * [Bell Textron](#bell-textron)
-  * [Beta Technologies](#beta-technologies)
-  * [Blue Origin](#blue-origin)
-  * [Boeing](#boeing)
-  * [Boom Supersonic](#boom-supersonic)
-  * [Centauri Aircraft](#centauri-aircraft)
-  * [Cyclotech](#cyclotech)
-  * [Dawn Aerospace](#dawn-aerospace)
-  * [DIC](#dic)
-  * [Equator Aircraft](#equator-aircraft)
-  * [The Exploration Company](#the-exploration-company)
-  * [Flowcopter](#flowcopter)
-  * [Frazer-Nash](#frazer-nash)
-  * [Fusion Flight](#fusion-flight)
-  * [GE Aerospace](#ge-aerospace)
-  * [General Electric](#general-electric)
-  * [Hermeus](#hermeus)
-  * [ICON Aircraft](#icon-aircraft)
-  * [JetZero](#jetzero)
-  * [Joby Aviation](#joby-aviation)
-  * [KBR](#kbr)
-  * [Klein Vision](#klein-vision)
-  * [Leonardo](#leonardo)
-  * [Lilium](#lilium)
-  * [Lockheed Martin](#lockheed-martin)
-  * [Natilus](#natilus)
-  * [Northrop Grumman](#northrop-grumman)
-  * [Otto Aerospace](#otto-aerospace)
-  * [Pal-V](#pal-v)
-  * [Piasecki](#piasecki)
-  * [Pitch Aeronautics](#pitch-aeronautics)
-  * [Pterodynamics](#pterodynamics)
-  * [Radian Aerospace](#radian-aerospace)
-  * [Reaction Engines](#reaction-engines)
-  * [REGENT Craft](#regent-craft)
-  * [Rocket Lab](#rocket-lab)
-  * [Samson Sky](#samson-sky)
-  * [Scaled Composites](#scaled-composites)
-  * [Sikorsky](#sikorsky)
-  * [Sierra Space](#sierra-space)
-  * [Skyfly Technologies](#skyfly-technologies)
-  * [SpaceX](#spacex)
-  * [ST Engineering](#st-engineering)
-  * [Stoke Space](#stoke-space)
-  * [Stratolaunch](#stratolaunch)
-  * [Venus Aerospace](#venus-aerospace)
-  * [Vertical Aerospace](#vertical-aerospace)
-  * [Voliro](#voliro)
-  * [Volocopter](#volocopter)
-  * [Wigetworks](#wigetworks)
+* [AeroMobil](#aeromobil)
+* [Airbus](#airbus)
+* [Archer](#archer)
+* [Aurora Flight Sciences](#aurora-flight-sciences)
+* [Bell Textron](#bell-textron)
+* [Beta Technologies](#beta-technologies)
+* [Blue Origin](#blue-origin)
+* [Boeing](#boeing)
+* [Boom Supersonic](#boom-supersonic)
+* [Centauri Aircraft](#centauri-aircraft)
+* [Cyclotech](#cyclotech)
+* [Dawn Aerospace](#dawn-aerospace)
+* [DIC](#dic)
+* [Electra](#electra)
+* [Equator Aircraft](#equator-aircraft)
+* [The Exploration Company](#the-exploration-company)
+* [Flowcopter](#flowcopter)
+* [Frazer-Nash](#frazer-nash)
+* [Fusion Flight](#fusion-flight)
+* [GE Aerospace](#ge-aerospace)
+* [General Electric](#general-electric)
+* [Hermeus](#hermeus)
+* [ICON Aircraft](#icon-aircraft)
+* [JetZero](#jetzero)
+* [Joby Aviation](#joby-aviation)
+* [KBR](#kbr)
+* [Klein Vision](#klein-vision)
+* [Leonardo](#leonardo)
+* [Lilium](#lilium)
+* [Lockheed Martin](#lockheed-martin)
+* [Natilus](#natilus)
+* [Northrop Grumman](#northrop-grumman)
+* [Otto Aerospace](#otto-aerospace)
+* [Pal-V](#pal-v)
+* [Piasecki](#piasecki)
+* [Pitch Aeronautics](#pitch-aeronautics)
+* [Pterodynamics](#pterodynamics)
+* [Radian Aerospace](#radian-aerospace)
+* [Reaction Engines](#reaction-engines)
+* [REGENT Craft](#regent-craft)
+* [Rocket Lab](#rocket-lab)
+* [Samson Sky](#samson-sky)
+* [Scaled Composites](#scaled-composites)
+* [Sikorsky](#sikorsky)
+* [Sierra Space](#sierra-space)
+* [Skyfly Technologies](#skyfly-technologies)
+* [SpaceX](#spacex)
+* [ST Engineering](#st-engineering)
+* [Stoke Space](#stoke-space)
+* [Stratolaunch](#stratolaunch)
+* [Venus Aerospace](#venus-aerospace)
+* [Vertical Aerospace](#vertical-aerospace)
+* [Voliro](#voliro)
+* [Volocopter](#volocopter)
+* [Wigetworks](#wigetworks)
 <!-- TOC -->
 
 
@@ -394,6 +395,29 @@ Videos: <https://www.youtube.com/@DICcorporation/videos>
 Linkedin: <https://www.linkedin.com/company/diccorporation/>
 
 - [HAGAMOSphere](Omnicopter.md#hagamosphere)
+
+
+
+## Electra
+
+Aviation and aerospace component manufacturer.
+
+Site: <https://www.electra.aero>
+
+Location: [USA](ProjectByCountry.md#usa)
+
+News: <https://www.electra.aero/news>
+
+Videos: <https://www.youtube.com/@Electraaero/videos>
+
+Linkedin: <https://www.linkedin.com/company/electra-aero/>
+
+Facebook: <https://www.facebook.com/p/Electraaero-100057108863908/>
+
+Twitter: <https://twitter.com/ElectraAero>
+
+- [Electra EL-2 Goldfinch](Airplane.Other.md#electra-el-2-goldfinch)
+
 
 
 

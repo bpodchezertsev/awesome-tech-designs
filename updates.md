@@ -1,3 +1,12 @@
+## 2025-11-11
+
+New:
+
+- [Airplane](Airplane.md)
+  - [Other](Airplane.Other.md)
+    - [Electra EL-2 Goldfinch](Airplane.Other.md#electra-el-2-goldfinch)
+
+
 ## 2025-10-31
 
 Status update:
