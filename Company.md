@@ -983,6 +983,24 @@ Instagram: <https://www.instagram.com/regentcraft/>
 
 
 
+## Rotron Aerospace
+
+Site: <https://rotronaero.com/>
+
+Location: [UK](ProjectByCountry.md#uk),
+
+News: <https://rotronaero.com/insights/>
+
+Videos: <https://www.youtube.com/@RotronAerospace/videos>
+
+Linkedin: <https://www.linkedin.com/company/rotron-aerospace/>
+
+Instagram: <https://www.instagram.com/rotronaerospace/>
+
+- [Talon DT-300](SUAV.Copter.md#talon-dt-300)
+
+
+
 ## Rocket Lab
 
 Site: <https://rocketlabcorp.com/>

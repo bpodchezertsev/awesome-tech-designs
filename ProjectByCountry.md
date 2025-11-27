@@ -128,6 +128,8 @@
 - [Reaction Engines](Company.md#reaction-engines)
   - [SABRE](Propulsion.md#sabre)
   - [Skylon](Space.md#skylon)
+- [Rotron Aerospace](Company.md#rotron-aerospace)
+  - [Talon DT-300](SUAV.Copter.md#talon-dt-300)
 - [Skyfly Technologies](Company.md#skyfly-technologies)
   - [Skyfly Axe](VTOL.md#skyfly-axe)
 

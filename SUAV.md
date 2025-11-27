@@ -36,6 +36,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Miniature_UAV>
     - [Wolfgang Siebert's variable pitch copters](SUAV.Copter.md#wolfgang-sieberts-variable-pitch-copters)
 
   - [Other](SUAV.Copter.md#other)
+    - [Talon DT-300](SUAV.Copter.md#talon-dt-300)
     - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](SUAV.Copter.md#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
 
 - [Transonic](Supersonic.md#suav-transonic)

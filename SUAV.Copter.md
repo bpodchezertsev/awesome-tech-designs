@@ -26,6 +26,7 @@
     - [MantaRay](#mantaray)
   - [Wolfgang Siebert's variable pitch copters](#wolfgang-sieberts-variable-pitch-copters)
 - [Other](#other)
+  - [Talon DT-300](#talon-dt-300)
   - [Triangular Quadrotor: A More Efficient Quadrotor Configuration](#triangular-quadrotor-a-more-efficient-quadrotor-configuration)
     - [Papers](#triangular-quadrotor-a-more-efficient-quadrotor-configuration-papers)
 <!-- TOC -->
@@ -120,6 +121,34 @@ Videos: <https://www.youtube.com/@helidrones/videos>
 
 
 ## Other
+
+
+### Talon DT-300
+
+Project highlights swashplate-based bicopter with foldable frame.
+
+Status: In operation
+
+Site: <https://rotronaero.com/talon-dt-300/>
+
+![](https://rotronaero.com/wp-content/uploads/2024/12/dt-300-gallery02.jpg)
+
+Company: [Rotron Aerospace](Company.md#rotron-aerospace)
+
+Specifications:
+- Dimensions w/o rotors: 3.9m long x 1.2m wide (12.7ft x 3.9ft) (inc. deployed landing gear)
+- Dimensions inc rotors: 7.0m x 3.5m (22.9ft x 11.5ft)
+- Folded dimensions: 155cm x 73cm x 54cm
+- Rotor diameter: 3.5m (11ft) x 2 rotors
+- Dry weight: 31kg (68bs) (inc. Raptor EO/IR camera and DTC digital radio data link)
+- Max payload: 45kg (100lbs)
+- MTOW: 90kg (198lbs)
+- Max speed: 120km/h (75mph)
+- Max range: 120km (inc. Raptor EO/IR camera and DTC digital radio data link)
+- Cruise speed: 80km/h (50mph)
+- Max altitude: 6000m (20,000ft)
+- Propulsion: 2 x Rotron 10kw Brushless Motor
+- Batteries: 2 x 64Ah (48v) Lithium Ion
 
 
 
