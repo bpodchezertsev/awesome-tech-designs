@@ -7,6 +7,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Miniature_UAV>
 
 
 - [Glider](Glider.md)
+  - [Meteoglider](Glider.md#meteoglider)
   - [Speed record](Glider.md#suav-speed-record)
 
 - [Copter](SUAV.Copter.md)

@@ -112,6 +112,8 @@
   - [ETH Omnicopter](Omnicopter.md#eth-omnicopter)
   - [ETH Voliro Omnicopter](Omnicopter.md#eth-voliro-omnicopter)
   - [ETH Avero Omnicopter](Omnicopter.md#eth-avero-omnicopter)
+- [Meteomatics](Company.md#meteomatics)
+  - [Meteoglider](Glider.md#meteoglider)
 - [Voliro](Company.md#voliro)
   - [Voliro T](Omnicopter.md#voliro-t)
 

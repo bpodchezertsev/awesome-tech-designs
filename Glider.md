@@ -13,6 +13,7 @@
 - [UAV](#uav)
   - [Albatross glider](#albatross-glider)
 - [SUAV](#suav)
+  - [Meteoglider](#meteoglider)
   - [SUAV Speed record](#suav-speed-record)
 <!-- TOC -->
 
@@ -93,8 +94,26 @@ Last news: <https://ottoaerospace.com/news/otto-aviation-reveals-super-laminar-u
 
 
 
-
 ## SUAV
+
+
+
+### Meteoglider
+
+Site: <https://www.meteomatics.com/en/meteoglider/>
+
+![](https://www.meteomatics.com/cms-image-resizer?src=2_Products%2FMeteoglider%2Fmeteoglider-2.png&q=75&w=1920)
+
+Company: [Meteomatics](Company.md#meteomatics)
+
+Specifications:
+- Lightweight, 250-gram foam glider.
+- Equipped with a radiosonde and sophisticated guidance system.
+- Carried by a weather balloon to altitudes of 30-35 kilometers.
+- Returns to launch site or a designated GPS location.
+- Collects high-quality atmospheric data comparable to conventional radiosondes.
+- Designed for multiple uses.
+- Maximizes the lifespan of its lithium battery and electronic components (hundreds of operational hours).
 
 
 

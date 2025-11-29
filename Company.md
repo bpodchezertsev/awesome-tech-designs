@@ -769,6 +769,28 @@ Projects:
 
 
 
+## Meteomatics
+
+Weather intelligence company.
+
+Site: <https://meteomatics.com/>
+
+Location: [Switzerland](ProjectByCountry.md#swithzerland)
+
+Wikipedia: <https://en.wikipedia.org/wiki/Meteomatics>
+
+News: <https://meteomatics.com/en/news/>
+
+Videos: <https://www.youtube.com/@meteomatics_AG/videos>
+
+Linkedin: <https://www.linkedin.com/company/meteomatics/>
+
+Instagram: <https://www.instagram.com/meteomatics/>
+
+- [Meteoglider](Glider.md#meteoglider) 
+
+
+
 ## Natilus
 
 [BWB](Airplane.BlendedWingBody.md)-building company supported by military manufacturers.

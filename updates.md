@@ -1,3 +1,11 @@
+## 2025-11-29
+
+New:
+
+- [SUAV](SUAV.md): [Glider](Glider.md#suav)
+    - [Meteoglider](Glider.md#meteoglider)
+
+
 ## 2025-11-28
 
 New:
