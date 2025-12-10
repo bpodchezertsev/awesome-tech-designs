@@ -82,7 +82,7 @@ Facebook: <https://www.facebook.com/curtis.youngblood.75/>
 
 Status: Production cancelled.
 
-[SUAV:Top](readme.md#suavtop): Best stunt quadcopter.
+- [SUAV:Top](readme.md#suavtop): Best stunt quadcopter.
 
 ![](https://img.youtube.com/vi/crJMB7iUUPA/0.jpg)
 
@@ -108,7 +108,7 @@ Video: <https://www.youtube.com/watch?v=uuExXFCCDgA>
 
 Wolfgang Siebert experiments a lot with variable pitch copters.
 
-[SUAV:Top](readme.md#suavtop): The most prolific author of variable pitch copters.
+- [SUAV:Top](readme.md#suavtop): The most prolific author of variable pitch copters.
 
 ![](https://img.youtube.com/vi/bAKTCyGwgBI/0.jpg)
 

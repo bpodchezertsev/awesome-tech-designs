@@ -121,7 +121,7 @@ Specifications:
 
 Speed: 882km/h
 
-[SUAV:Top](readme.md#suavtop): Glider speed record.
+- [SUAV:Top](readme.md#suavtop): Glider speed record.
  
 Video: <https://www.youtube.com/watch?v=4eFD_Wj6dhk>
 

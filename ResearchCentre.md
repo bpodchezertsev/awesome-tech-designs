@@ -86,7 +86,7 @@ Instagram: <https://www.instagram.com/snu.official/>
 
 ## ETH Zurich
 
-[SUAV:Top](readme.md#suavtop): The most prolific and active group of omnicopter developers.
+- [SUAV:Top](readme.md#suavtop): The most prolific and active group of omnicopter developers.
 
 Site: <https://ethz.ch/en.html>
 

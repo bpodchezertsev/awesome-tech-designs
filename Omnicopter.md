@@ -142,9 +142,9 @@ Status: In service
 - Move: 3 axis
 - Rotation: 1 axis
 
-[SUAV:Top](readme.md#suavtop): Largest horizontal omnicopter in service
-[SUAV:Top](readme.md#suavtop): Horizontal omnicopter in service
-[SUAV:Top ever](readme.md#suavtop-ever): First horizontal omnicopter in service
+- [SUAV:Top](readme.md#suavtop): Largest horizontal omnicopter in service
+- [SUAV:Top](readme.md#suavtop): Horizontal omnicopter in service
+- [SUAV:Top ever](readme.md#suavtop-ever): First horizontal omnicopter in service
 
 Site: <https://www.pitchaero.com/astria-drone>
 
@@ -168,8 +168,8 @@ Status: Pre-production
 
 Site: <https://www.aerix-systems.com/en-us/solutions/plateforme>
 
-[SUAV:Top](readme.md#suavtop): First strong winds resistant full omnicopter
-[SUAV:Top](readme.md#suavtop): First full omnicopter in pre-production
+- [SUAV:Top](readme.md#suavtop): First strong winds resistant full omnicopter
+- [SUAV:Top](readme.md#suavtop): First full omnicopter in pre-production
 
 ![](https://images.prismic.io/aerix/ZmxPnpm069VX1wy8_DESERT_INTERIEUR.png?auto=format%2Ccompress&fit=max&w=3840)
 
@@ -200,9 +200,9 @@ Note: Possibility to rotate around pitch axis at almost 360 degrees, but continu
 
 Site: <https://voliro.com/voliro-solution/>
 
-[SUAV:Top](readme.md#suavtop): Largest partial omnicopter in service
-[SUAV:Top](readme.md#suavtop): Partial omnicopter in service
-[SUAV:Top ever](readme.md#suavtop-ever): First partial omnicopter in service
+- [SUAV:Top](readme.md#suavtop): Largest partial omnicopter in service
+- [SUAV:Top](readme.md#suavtop): Partial omnicopter in service
+- [SUAV:Top ever](readme.md#suavtop-ever): First partial omnicopter in service
 
 ![](https://cdn.voliro.com/wp-content/uploads/2024/10/Voliro-T-v5-top-view-without-payload-scaled.jpeg)
 

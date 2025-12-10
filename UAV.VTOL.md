@@ -95,7 +95,7 @@ If instability of large scale models is a possible reason for cancellation, we w
 
 Transwing is a dihedrally-folding wing transformation system for VTOL aircraft.
 
-[SUAV:Top](readme.md#suavtop): Best VTOL transforming wing design.
+- [SUAV:Top](readme.md#suavtop): Best VTOL transforming wing design.
 
 Site: <https://pterodynamics.com/#section-991-9>
 
