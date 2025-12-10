@@ -83,10 +83,10 @@ Specifications:
 
 
 #### Tilt VTOL with fixed rotors сomparison
-| Reference                         | Crew | Passengers | Empty weight | MTOW  | Length | Wingspan | Energy source    | Range       | Cruise speed | Batteries |
-|-----------------------------------|------|------------|--------------|-------|--------|----------|------------------|-------------|--------------|-----------|
-| [Pivotal Helix](#pivotal-helix)   | 1    | 0          | 115kg        | 257kg | 4.45m  | 4.55m    | battery          | 32km        | 101km/h      | 8 kWh     |
-| [Skyfly Axe](#skyfly-axe)         | 1    | 1          | 300kg        | 750kg |        | 5m       | battery/hybrid   | 161km/482km | 88+km/h      | 50kWh     |
+| Reference                         | Crew | Passengers | Empty weight | MTOW  | Length | Wingspan | Energy source    | Range       | Cruise speed | Batteries | Safety                                                                             |
+|-----------------------------------|------|------------|--------------|-------|--------|----------|------------------|-------------|--------------|-----------|------------------------------------------------------------------------------------|
+| [Pivotal Helix](#pivotal-helix)   | 1    | 0          | 115kg        | 257kg | 4.45m  | 4.55m    | battery          | 32km        | 101km/h      | 8 kWh     | can loss 2 rotors, ballistic parachute                                             |
+| [Skyfly Axe](#skyfly-axe)         | 1    | 1          | 300kg        | 750kg |        | 5m       | battery/hybrid   | 161km/482km | 88+km/h      | 50kWh     | can loss 2 motors, can loss all thrust and glide 9:1 at 70mph, ballistic parachute |
 
 
 
