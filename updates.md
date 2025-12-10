@@ -1,3 +1,23 @@
+## 2025-12-10
+
+New:
+
+- [SUAV](SUAV.md).[Copter](SUAV.Copter.md)
+  - [Omnicopter](Omnicopter.md):
+    - [AXS-µ1](Omnicopter.md#axs-µ1)
+
+- [VTOL](VTOL.md)
+  - [Pivotal Helix](VTOL.md#pivotal-helix)
+
+[Top lists](readme.md#top-lists) changes:
+
+[SUAV:Top](readme.md#suavtop)
+- First strong winds resistant full omnicopter. [AXS-µ1](Omnicopter.md#axs-µ1)
+- First full omnicopter in pre-production. [AXS-µ1](Omnicopter.md#axs-µ1)
+
+Grouped: [Comparisons](readme.md#comparisons)
+
+
 ## 2025-11-29
 
 New:
@@ -138,7 +158,7 @@ Manned aircraft
   - [Sikorsky RAIDER X](CompoundHelicopter.md#sikorsky-raider-x)
 - [Glider](Glider.md#manned)
   - [Perlan](Glider.md#perlan)
-- [VTOL](VTOL.md) ([Comparison](VTOL.md#comparison))
+- [VTOL](VTOL.md)
 - [Copter](Copter.md)
   - [Cyclocopter](Cyclocopter.md#manned)
     - [Cyclotech CruiseUp](Cyclocopter.md#cyclotech-cruiseup)

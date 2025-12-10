@@ -6,19 +6,20 @@
 ## Contents
 
 <!-- TOC -->
-* [Austria](#austria)
-* [EU](#eu)
-* [Germany](#germany)
-* [Italy](#italy)
-* [Japan](#japan)
-* [Netherlands](#netherlands)
-* [New Zealand](#new-zealand)
-* [Singapore](#singapore)
-* [Slovakia](#slovakia)
-* [South Korea](#south-korea)
-* [Swithzerland](#swithzerland)
-* [UK](#uk)
-* [USA](#usa)
+  * [Austria](#austria)
+  * [EU](#eu)
+  * [Germany](#germany)
+  * [Italy](#italy)
+  * [Japan](#japan)
+  * [France](#france)
+  * [Netherlands](#netherlands)
+  * [New Zealand](#new-zealand)
+  * [Singapore](#singapore)
+  * [Slovakia](#slovakia)
+  * [South Korea](#south-korea)
+  * [Swithzerland](#swithzerland)
+  * [UK](#uk)
+  * [USA](#usa)
 <!-- TOC -->
 
 
@@ -61,6 +62,11 @@
 ## Japan
 - [DIC](Company.md#dic)
   - [HAGAMOSphere](Omnicopter.md#hagamosphere)
+
+
+## France
+- [Aerix Systems](Company.md#aerix-systems)
+  - [AXS-µ1](Omnicopter.md#axs-µ1)
 
 
 ## Netherlands
@@ -206,6 +212,8 @@
   - [ARES](UAV.VTOL.md#ares)
 - [Pitch Aeronautics](Company.md#pitch-aeronautics)
   - [Astria](Omnicopter.md#astria)
+- [Pivotal](Company.md#pivotal)
+  - [Pivotal Helix](VTOL.md#pivotal-helix)
 - [Pterodynamics](Company.md#pterodynamics)
   - [Transwing](UAV.VTOL.md#transwing)
   - [Pterodynamics Transwing P4](UAV.VTOL.md#pterodynamics-transwing-p4)

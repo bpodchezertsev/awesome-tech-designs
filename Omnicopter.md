@@ -71,24 +71,25 @@ Ordered by orientation and movement.
 
 Values in parentheses a theoretically accessible values, but not practically tested.
 
-| Reference                                                                             | DoF  | Omnicopter type              | Static orientation axis | Movement w/o tilting axis | Propulsion units | Actuators | Status      |
-|---------------------------------------------------------------------------------------|------|------------------------------|-------------------------|---------------------------|------------------|-----------|-------------|
-| __Regular copter__                                                                    | 2    | None                         | 1                       | 1                         | 2+               | 0+        | -           |
-| _Common [Compound helicopter](CompoundHelicopter.md)_                                 | 3-   | None                         | 1                       | 2-                        | 3+               | 5+        | -           |
-| __Partial omnicopter__                                                                | 2+   | Partial                      | 1+                      | 1+                        | 2+               | 0+        | -           |
-| [EAMS Lab Omnicopter](#eams-lab-omnicopter)                                           | 4    | Horizontal                   | 1                       | 3                         | 6                | 0         | Cancelled   |
-| [UCVision's Prototype 1](#ucvisions-prototype-1)                                      | 4    | Horizontal                   | 1                       | 3                         | 8                | 0         | Testing     |
-| [Astria](#astria)                                                                     | 4    | Horizontal                   | 1                       | 3                         | 7                | 2         | In service  |
-| [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator) | 3(4) | Partial horizontal(+Partial) | 1(2)                    | 2                         | 4                | 8         | Dismissed   |
-| [Cyclotech BlackBird Demonstrator](#cyclotech-blackbird-demonstrator)                 | 4(5) | Horizontal(+Partial)         | 1(2)                    | 3                         | 6                | 12        | Testing     |
-| [Voliro-T](#voliro-t)                                                                 | 4-   | Partial                      | 2-                      | 2                         | 3                | 2         | In service  |
-| [OmniQuad](#omniquad)                                                                 | 4+   | Partial                      | 1+                      | 3                         | 4                | 4         | Testing     |
-| __Full omnicopter__                                                                   | 6    | Full                         | 3                       | 3                         | 2+               | 0+        | -           |
-| [ETH Omnicopter](#eth-omnicopter)                                                     | 6    | Full                         | 3                       | 3                         | 8                | 0         | Open-source |
-| [ETH Avero Omnicopter](#eth-avero-omnicopter)                                         | 6    | Full                         | 3                       | 3                         | 3                | 3         | Testing     |
-| [HAGAMOSphere](#hagamosphere)                                                         | 6    | Full                         | 3                       | 3                         | 8                | 0         | Testing     |
-| [Lynchpin Omnicopter](#lynchpin-omnicopter)                                           | 6    | Full                         | 3                       | 3                         | 6                | 0         | Cancelled   |
-| [MOD](#mod-omnicopter) - depends on configuration                                     | 2-6  | None-Full                    | 1-3                     | 1-3                       | 2-9              | 0-6       | Prototyping |
+| Reference                                                                             | DoF  | Omnicopter type              | Static orientation axis | Movement w/o tilting axis | Propulsion units | Actuators | Status         |
+|---------------------------------------------------------------------------------------|------|------------------------------|-------------------------|---------------------------|------------------|-----------|----------------|
+| __Regular copter__                                                                    | 2    | None                         | 1                       | 1                         | 2+               | 0+        | -              |
+| _Common [Compound helicopter](CompoundHelicopter.md)_                                 | 3-   | None                         | 1                       | 2-                        | 3+               | 5+        | -              |
+| __Partial omnicopter__                                                                | 2+   | Partial                      | 1+                      | 1+                        | 2+               | 0+        | -              |
+| [EAMS Lab Omnicopter](#eams-lab-omnicopter)                                           | 4    | Horizontal                   | 1                       | 3                         | 6                | 0         | Cancelled      |
+| [UCVision's Prototype 1](#ucvisions-prototype-1)                                      | 4    | Horizontal                   | 1                       | 3                         | 8                | 0         | Testing        |
+| [Astria](#astria)                                                                     | 4    | Horizontal                   | 1                       | 3                         | 7                | 2         | In service     |
+| [Cyclotech Technology Demonstrator](Cyclocopter.md#cyclotech-technology-demonstrator) | 3(4) | Partial horizontal(+Partial) | 1(2)                    | 2                         | 4                | 8         | Dismissed      |
+| [Cyclotech BlackBird Demonstrator](#cyclotech-blackbird-demonstrator)                 | 4(5) | Horizontal(+Partial)         | 1(2)                    | 3                         | 6                | 12        | Testing        |
+| [Voliro-T](#voliro-t)                                                                 | 4-   | Partial                      | 2-                      | 2                         | 3                | 2         | In service     |
+| [OmniQuad](#omniquad)                                                                 | 4+   | Partial                      | 1+                      | 3                         | 4                | 4         | Testing        |
+| __Full omnicopter__                                                                   | 6    | Full                         | 3                       | 3                         | 2+               | 0+        | -              |
+| [AXS-µ1](#axs-µ1)                                                                     | 6    | Full                         | 3                       | 3                         | 8                | 0         | Pre-production |
+| [ETH Omnicopter](#eth-omnicopter)                                                     | 6    | Full                         | 3                       | 3                         | 8                | 0         | Open-source    |
+| [ETH Avero Omnicopter](#eth-avero-omnicopter)                                         | 6    | Full                         | 3                       | 3                         | 3                | 3         | Testing        |
+| [HAGAMOSphere](#hagamosphere)                                                         | 6    | Full                         | 3                       | 3                         | 8                | 0         | Testing        |
+| [Lynchpin Omnicopter](#lynchpin-omnicopter)                                           | 6    | Full                         | 3                       | 3                         | 6                | 0         | Cancelled      |
+| [MOD](#mod-omnicopter) - depends on configuration                                     | 2-6  | None-Full                    | 1-3                     | 1-3                       | 2-9              | 0-6       | Prototyping    |
 
 
 
@@ -155,6 +156,33 @@ Operation types:
 - Installation of sensors on power lines <https://www.pitchaero.com/wirewarrior-line-sensor>
 - Installation of bird diverters on power lines <https://www.pitchaero.com/featherfender-bird-diverter>
 
+
+
+### AXS-µ1
+
+Full omnicopter.
+
+Project highlights full omnicopter with 2-axis of rotation thrust-vectoring nodes.
+
+Status: Pre-production
+
+Site: <https://www.aerix-systems.com/en-us/solutions/plateforme>
+
+[SUAV:Top](readme.md#suavtop): First strong winds resistant full omnicopter
+[SUAV:Top](readme.md#suavtop): First full omnicopter in pre-production
+
+![](https://images.prismic.io/aerix/ZmxPnpm069VX1wy8_DESERT_INTERIEUR.png?auto=format%2Ccompress&fit=max&w=3840)
+
+Company: [Aerix Systems](Company.md#aerix-systems)
+
+Specifications:
+- Maximum speed: 200 km/h
+- Dimensions: 40cm x 40cm
+- Turning radius 0km/h - 200km/h: 1m
+- Wind resistance: 100 km/h (all-weather missions)
+- To 0km/h from 200km/h in: 2,5s
+- Durability: 20km
+- Vivacity: Obstacle avoidance and terrain following at high and low speeds.
 
 
 ### Voliro T

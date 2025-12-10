@@ -20,6 +20,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Miniature_UAV>
 
   - [Omnicopter](Omnicopter.md) ([Comparison](Omnicopter.md#comparison))
     - [Astria](Omnicopter.md#astria)
+    - [AXS-µ1](Omnicopter.md#axs-µ1)
     - [Voliro-T](Omnicopter.md#voliro-t)
     - [OmniQuad](Omnicopter.md#omniquad)
     - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)

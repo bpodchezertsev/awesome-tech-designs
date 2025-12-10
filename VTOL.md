@@ -8,17 +8,23 @@ _Manned VTOL list. Alphabetically ordered_
 ### Contents
 
 <!-- TOC -->
-- [Abstract](#abstract)
-- [Comparison](#comparison)
-- [Alia A250 VTOL](#alia-a250-vtol)
-- [Joby S4](#joby-s4)
-- [Lilium](#lilium)
-- [Midnight](#midnight)
-- [Skyfly Axe](#skyfly-axe)
-- [Valor](#valor)
-- [Voloregion](#voloregion)
-- [VX4](#vx4)
-- [Lists](#lists)
+* [Aircraft: VTOL](#aircraft-vtol)
+    * [Abstract](#abstract)
+    * [Tilt-rotor](#tilt-rotor)
+      * [Valor](#valor)
+    * [Tilt VTOL with fixed rotors](#tilt-vtol-with-fixed-rotors)
+      * [Comparison](#tilt-vtol-with-fixed-rotors-сomparison)
+      * [Pivotal Helix](#pivotal-helix)
+      * [Skyfly Axe](#skyfly-axe)
+    * [Other](#other)
+      * [Comparison](#other-сomparison)
+      * [Alia A250 VTOL](#alia-a250-vtol)
+      * [Joby S4](#joby-s4)
+      * [Lilium](#lilium)
+      * [Midnight](#midnight)
+      * [Voloregion](#voloregion)
+      * [VX4](#vx4)
+    * [Lists](#lists)
 <!-- TOC -->
 
 
@@ -37,20 +43,156 @@ VTOL is the most complex topic, also many prototypes are developed as zero-emiss
 so their construction becomes much more difficult.
 
 
+### Tilt-rotor
 
-### Comparison
+#### Valor
+
+Tilt-rotor
+
+Project highlights engines fixed in place. (Instead of regular tilt-rotor aircraft).
+
+Site: <https://www.bellflight.com/products/bell-v-280>
+
+![](https://d21buns5ku92am.cloudfront.net/67992/images/561043-VTOL%20gear%20up%5B68%5D-4cfacb-large-1730844164.jpg)
+
+[Bell Textron](Company.md#bell-textron)
+
+News: <https://news.bellflight.com/en-US/tags/bell-v-280/>
+
+Wikipedia: <https://en.wikipedia.org/wiki/Bell_V-280_Valor>
+
+Specifications:
+- Crew: 4
+- Capacity: 14 troops
+- Length: 15.4m
+- Width: 24.93m
+- Height: 7m
+- Empty weight: 8200kg
+- Max takeoff weight: 14000kg
+- Powerplant: 2 × General Electric T64 turboshaft
+- Main rotor diameter: 2 × 35 ft 0 in (10.7 m)
+- Cruise speed: 520 km/h
+- Combat range: 930–1480km
+- Ferry range: 3900km
+- Service ceiling: 1800m
+- Disk loading: 78kg/m2
+
+
+
+### Tilt VTOL with fixed rotors
+
+
+#### Tilt VTOL with fixed rotors сomparison
+| Reference                         | Crew | Passengers | Empty weight | MTOW  | Length | Wingspan | Energy source    | Range       | Cruise speed | Batteries |
+|-----------------------------------|------|------------|--------------|-------|--------|----------|------------------|-------------|--------------|-----------|
+| [Pivotal Helix](#pivotal-helix)   | 1    | 0          | 115kg        | 257kg | 4.45m  | 4.55m    | battery          | 32km        | 101km/h      | 8 kWh     |
+| [Skyfly Axe](#skyfly-axe)         | 1    | 1          | 300kg        | 750kg |        | 5m       | battery/hybrid   | 161km/482km | 88+km/h      | 50kWh     |
+
+
+
+#### Pivotal Helix
+
+Tilt eVTOL with fixed rotors
+
+Project highlights tandem wings design.
+
+Status: Ongoing certification?
+
+Site: <https://www.pivotal.aero/helix>
+
+![](https://www.pivotal.aero/_next/image?url=%2Fimages%2Fhelix%2Fhelix-specs.png&w=3840&q=75)
+
+Company: [Pivotal](Company.md#pivotal)
+
+Specifications:
+- Crew: 1
+- Amphibious capability
+- Wingspan: 4.55m
+- Length: 4.45m
+- Height: 1.63m (on flat ground)
+- Wing area: 3.07m2 * 2 = 6.14m2 
+- Empty weight: 115kg (excluding floats and safety devices)
+- MTOW: 257kg
+- Pilot weight: Up to 100kg
+- Pilot standing height: 1.95m
+- Pilot seated height: 1m
+- Range: 32km (with 20% reserve)
+- Batteries: 8 kWh
+- Charge time: 75 mins (240 V / 50 A charger, from 20% - 95%)
+- Energy consumption: 152.236 Wh/km
+- Cruise speed: 101km/h / 55knots / 63mph
+- Maximum climb rate: 2.5m/s / 500fpm
+- Maximum descent rate: 2.5m/s / 500fpm
+- Maximum Static Thrust: 435kg
+- Safety: tolerant to loss of up to 2 rotors + ballistic parachute
+- Maximum wind: 32km/h / 17knots / 20mph
+- Temperature range: -10°C to 33°C
+- Sound level (measured at 50m in cruise mode): 72 dBA
+- Transportation trailer length: 5m (disassembled)
+- Assembly to flight: 30 minutes
+
+
+
+#### Skyfly Axe
+
+Tilt eVTOL with fixed rotors
+
+Project highlights tandem wings design.
+
+Status: Piloted test flights
+
+Site: <https://skyfly.aero/aircraft/>
+
+![](https://skyfly.aero/wp-content/uploads/2025/07/Skyfly_Bicester_Flight_June_2025-12-1536x1022.jpg)
+
+Company: [Skyfly Technologies](Company.md#skyfly-technologies)
+
+Specifications:
+- Crew: 1
+- Passenger capacity: 1
+- Crew weight: 200kg (2 pax)
+- Wingspan: 5m (chord 1.2m)
+- Candard Span: 5m (chord 0.8m)
+- Maximum All Up Weight: 750kg
+- Empty weight: 300kg (equipped for flight less batteries and occupants)
+- Installed power: 8 x 35kw motors = 280kw peak
+- Batteries: 250kg = 50kWh
+- Hybrid setup: 200kg batteries/fuel | 50kg hybrid power plant
+- Rotor diameter: 4 x 1.9m (4-bladed fixed pitch)
+- Rotor Angle: Fixed
+- Hover Power Required: 140kW
+- Forward flight Power: 50kW
+- Undercarriage: Tricycle (conventional fixed wing)
+- Stall Speed: 48mph
+- Lowest cruise speed without losing efficiency: 88km/h
+- Power off sink rate: 570fpm at 70mph
+- Best Glide Angle: 9:1 at 70mph
+- Climb: 2300fpm at 70mph
+- Runway length for STOL mode: 50m
+- Runway length for power off glide landing: 300m 
+- Range (fully electric): 161km (1hr at 161km/h)
+- Range (hybrid): 482km
+- Endurance at lowest cruise speed: 1hr 21min fully electric at max payload with prototype battery.
+- Charge time 0% to 100%: 4.5 hours
+- Charge time 20% to 100%: 3.5 hours
+
+
+
+### Other
+
+
+#### Other сomparison
 | Reference                         | Crew | Passengers | Weight | Length | Wingspan | Energy source    | Range       | Cruise speed |
 |-----------------------------------|------|------------|--------|--------|----------|------------------|-------------|--------------|
 | [Alia A250 VTOL](#alia-a250-vtol) | 1    | 5          |        |        | 15.2m    | battery          |             | 283km/h      |
 | [Joby S4](#joby-s4)               | 1    | 4          |        |        |          | battery/hydrogen | 161km/800km | 322km/h      |
 | [Midnight](#midnight)             | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
-| [Skyfly Axe](#skyfly-axe)         | 1    | 1          |        |        | 5m       | battery/hybrid   | 161km/482km | 88+km/h      |
-| [VX4](#vx4)                       | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
 | [Voloregion](#voloregion)         | 1    | 4          |        |        |          | battery          | 100km       | 180km/h      |
+| [VX4](#vx4)                       | 1    | 4          |        |        |          | battery          | 161km       | 241km/h      |
 
 
 
-### Alia A250 VTOL
+#### Alia A250 VTOL
 
 Fixed engine 4/1 eVTOL.
 
@@ -81,7 +223,7 @@ Company: [Beta Technologies](Company.md#beta-technologies)
 
 
 
-### Joby S4
+#### Joby S4
 
 eVTOL full tiltrotor 6/6
 
@@ -125,7 +267,7 @@ Specifications:
 
 
 
-### Lilium
+#### Lilium
 
 Tilt-wing
 
@@ -142,7 +284,7 @@ Related article: <https://en.wikipedia.org/wiki/VTOL_X-Plane>
 
 
 
-### Midnight
+#### Midnight
 
 eVTOL partial tilt-rotor 3/6
 
@@ -171,90 +313,7 @@ Specifications:
 - Charging time: ~12minutes for 32km flight 
 
 
-
-## Skyfly Axe
-
-eVTOL 4 tilt-rotor
-
-Project highlights tandem wings design.
-
-Status: Piloted test flights
-
-Site: <https://skyfly.aero/aircraft/>
-
-![](https://skyfly.aero/wp-content/uploads/2025/07/Skyfly_Bicester_Flight_June_2025-12-1536x1022.jpg)
-
-Company: [Skyfly Technologies](Company.md#skyfly-technologies)
-
-Specifications:
-- Crew: 1
-- Passenger capacity: 1
-- Crew weight: 200kg (2 pax)
-- Wingspan: 5m (chord 1.2m)
-- Candard Span: 5m (chord 0.8m)
-- Maximum All Up Weight: 750kg
-- Empty weight: 300kg  (equipped for flight less batteries and occupants)
-- Installed power: 8 x 35kw motors = 280kw peak
-- Batteries: 250kg = 50kwh
-- Hybrid setup: 200kg batteries/fuel | 50kg hybrid power plant
-- Rotor diameter: 4 x 1.9m (4-bladed fixed pitch)
-- Rotor Angle: Fixed
-- Hover Power Required: 140kw
-- Forward flight Power: 50kw 
-- Undercarriage: Tricycle (conventional fixed wing)
-- Stall Speed: 48mph
-- Lowest cruise speed without losing efficiency: 88km/h
-- Power off sink rate: 570fpm at 70mph
-- Best Glide Angle: 9:1 at 70mph
-- Climb: 2300fpm at 70mph
-- Runway Length Required:
-  - 0m – VTOL (vertical take-off and landing)
-  - 50m – STOL (short take-off and landing)
-  - 300m – Glide and power off landing
-- Range: 
-  - fully electric: 161km (1hr at 161km/h)
-  - hybrid: 482km
-- Endurance at lowest cruise speed: 1hr 21min fully electric at max payload with prototype battery.
-- Charge time:
-  - 0% to 100% in 4.5 hours
-  - 20% to 100% in 3.5 hours
-
-
-### Valor
-
-Tilt-rotor
-
-Project highlights engines fixed in place. (Instead of regular tilt-rotor aircraft).
-
-Site: <https://www.bellflight.com/products/bell-v-280>
-
-![](https://d21buns5ku92am.cloudfront.net/67992/images/561043-VTOL%20gear%20up%5B68%5D-4cfacb-large-1730844164.jpg)
-
-[Bell Textron](Company.md#bell-textron)
-
-News: <https://news.bellflight.com/en-US/tags/bell-v-280/>
-
-Wikipedia: <https://en.wikipedia.org/wiki/Bell_V-280_Valor>
-
-Specifications:
-- Crew: 4
-- Capacity: 14 troops
-- Length: 15.4m
-- Width: 24.93m
-- Height: 7m
-- Empty weight: 8200kg
-- Max takeoff weight: 14000kg
-- Powerplant: 2 × General Electric T64 turboshaft
-- Main rotor diameter: 2 × 35 ft 0 in (10.7 m)
-- Cruise speed: 520 km/h
-- Combat range: 930–1480km
-- Ferry range: 3900km
-- Service ceiling: 1800m
-- Disk loading: 78kg/m2
-
-
-
-### Voloregion
+#### Voloregion
 
 Tandem-wing eVTOL.
 
@@ -280,7 +339,7 @@ First flight video: <https://www.youtube.com/watch?v=9OZhV8WRgPc>
 
 
 
-### VX4
+#### VX4
 
 eVTOL partial tilt-rotor 3/6
 

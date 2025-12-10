@@ -6,62 +6,86 @@
 ## Contents
 
 <!-- TOC -->
-* [AeroMobil](#aeromobil)
-* [Airbus](#airbus)
-* [Archer](#archer)
-* [Aurora Flight Sciences](#aurora-flight-sciences)
-* [Bell Textron](#bell-textron)
-* [Beta Technologies](#beta-technologies)
-* [Blue Origin](#blue-origin)
-* [Boeing](#boeing)
-* [Boom Supersonic](#boom-supersonic)
-* [Centauri Aircraft](#centauri-aircraft)
-* [Cyclotech](#cyclotech)
-* [Dawn Aerospace](#dawn-aerospace)
-* [DIC](#dic)
-* [Electra](#electra)
-* [Equator Aircraft](#equator-aircraft)
-* [The Exploration Company](#the-exploration-company)
-* [Flowcopter](#flowcopter)
-* [Frazer-Nash](#frazer-nash)
-* [Fusion Flight](#fusion-flight)
-* [GE Aerospace](#ge-aerospace)
-* [General Electric](#general-electric)
-* [Hermeus](#hermeus)
-* [ICON Aircraft](#icon-aircraft)
-* [JetZero](#jetzero)
-* [Joby Aviation](#joby-aviation)
-* [KBR](#kbr)
-* [Klein Vision](#klein-vision)
-* [Leonardo](#leonardo)
-* [Lilium](#lilium)
-* [Lockheed Martin](#lockheed-martin)
-* [Natilus](#natilus)
-* [Northrop Grumman](#northrop-grumman)
-* [Otto Aerospace](#otto-aerospace)
-* [Pal-V](#pal-v)
-* [Piasecki](#piasecki)
-* [Pitch Aeronautics](#pitch-aeronautics)
-* [Pterodynamics](#pterodynamics)
-* [Radian Aerospace](#radian-aerospace)
-* [Reaction Engines](#reaction-engines)
-* [REGENT Craft](#regent-craft)
-* [Rocket Lab](#rocket-lab)
-* [Samson Sky](#samson-sky)
-* [Scaled Composites](#scaled-composites)
-* [Sikorsky](#sikorsky)
-* [Sierra Space](#sierra-space)
-* [Skyfly Technologies](#skyfly-technologies)
-* [SpaceX](#spacex)
-* [ST Engineering](#st-engineering)
-* [Stoke Space](#stoke-space)
-* [Stratolaunch](#stratolaunch)
-* [Venus Aerospace](#venus-aerospace)
-* [Vertical Aerospace](#vertical-aerospace)
-* [Voliro](#voliro)
-* [Volocopter](#volocopter)
-* [Wigetworks](#wigetworks)
+  * [Aerix Systems](#aerix-systems)
+  * [AeroMobil](#aeromobil)
+  * [Airbus](#airbus)
+  * [Archer](#archer)
+  * [Aurora Flight Sciences](#aurora-flight-sciences)
+  * [Bell Textron](#bell-textron)
+  * [Beta Technologies](#beta-technologies)
+  * [Blue Origin](#blue-origin)
+  * [Boeing](#boeing)
+  * [Boom Supersonic](#boom-supersonic)
+  * [Centauri Aircraft](#centauri-aircraft)
+  * [Cyclotech](#cyclotech)
+  * [Dawn Aerospace](#dawn-aerospace)
+  * [DIC](#dic)
+  * [Electra](#electra)
+  * [Equator Aircraft](#equator-aircraft)
+  * [The Exploration Company](#the-exploration-company)
+  * [Flowcopter](#flowcopter)
+  * [Frazer-Nash](#frazer-nash)
+  * [Fusion Flight](#fusion-flight)
+  * [GE Aerospace](#ge-aerospace)
+  * [General Electric](#general-electric)
+  * [Hermeus](#hermeus)
+  * [ICON Aircraft](#icon-aircraft)
+  * [JetZero](#jetzero)
+  * [Joby Aviation](#joby-aviation)
+  * [KBR](#kbr)
+  * [Klein Vision](#klein-vision)
+  * [Leonardo](#leonardo)
+  * [Lilium](#lilium)
+  * [Lockheed Martin](#lockheed-martin)
+  * [Meteomatics](#meteomatics)
+  * [Natilus](#natilus)
+  * [Northrop Grumman](#northrop-grumman)
+  * [Otto Aerospace](#otto-aerospace)
+  * [Pal-V](#pal-v)
+  * [Piasecki](#piasecki)
+  * [Pitch Aeronautics](#pitch-aeronautics)
+  * [Pterodynamics](#pterodynamics)
+  * [Pivotal](#pivotal)
+  * [Radian Aerospace](#radian-aerospace)
+  * [Reaction Engines](#reaction-engines)
+  * [REGENT Craft](#regent-craft)
+  * [Rotron Aerospace](#rotron-aerospace)
+  * [Rocket Lab](#rocket-lab)
+  * [Samson Sky](#samson-sky)
+  * [Scaled Composites](#scaled-composites)
+  * [Sikorsky](#sikorsky)
+  * [Sierra Space](#sierra-space)
+  * [Skyfly Technologies](#skyfly-technologies)
+  * [SpaceX](#spacex)
+  * [ST Engineering](#st-engineering)
+  * [Stoke Space](#stoke-space)
+  * [Stratolaunch](#stratolaunch)
+  * [Venus Aerospace](#venus-aerospace)
+  * [Vertical Aerospace](#vertical-aerospace)
+  * [Voliro](#voliro)
+  * [Volocopter](#volocopter)
+  * [Wigetworks](#wigetworks)
 <!-- TOC -->
+
+
+
+## Aerix Systems
+
+Aviation and Aerospace Component Manufacturer
+
+Site: <https://www.aerix-systems.com/>
+
+Location: [France](ProjectByCountry.md#france)
+
+Videos: <https://www.youtube.com/@aerixsystems/videos>
+
+Linkedin: <https://www.linkedin.com/company/aerix-systems/>
+
+Instagram: <https://www.instagram.com/aerixsystems/>
+
+Twitter: <https://twitter.com/AerixSystems>
+
+- [AXS-µ1](Omnicopter.md#axs-µ1)
 
 
 
@@ -945,6 +969,29 @@ Twitter: <https://twitter.com/pterodynamics>
 - [Transwing](UAV.VTOL.md#transwing)
 - [Pterodynamics Transwing P4](UAV.VTOL.md#pterodynamics-transwing-p4)
 - [Pterodynamics Transwing P5](UAV.VTOL.md#pterodynamics-transwing-p5)
+
+
+
+## Pivotal
+
+eVTOL manufacturer.
+
+Site: <https://www.pivotal.aero/>
+
+Location: [USA](ProjectByCountry.md#usa)
+
+News: <https://www.pivotal.aero/newsroom>
+
+Videos: <https://www.youtube.com/@pivotalaero/videos>
+
+Linkedin: <https://www.linkedin.com/company/pivotalaero/>
+
+Facebook: <https://www.facebook.com/pivotalaero>
+
+Twitter: <https://twitter.com/pivotalaero1>
+
+- [Pivotal Helix](VTOL.md#pivotal-helix)
+
 
 
 ## Radian Aerospace

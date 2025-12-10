@@ -55,7 +55,10 @@ Enjoy!
       - [Other](Airplane.Other.md)
     - [Compound helicopter](CompoundHelicopter.md)
     - [Glider](Glider.md#manned)
-    - [VTOL](VTOL.md) ([Comparison](VTOL.md#comparison))
+    - [VTOL](VTOL.md)
+      - [Tilt-rotor](VTOL.md#tilt-rotor)
+      - [Tilt VTOL with fixed rotors](VTOL.md#tilt-vtol-with-fixed-rotors) ([Comparison](VTOL.md#tilt-vtol-with-fixed-rotors-сomparison))
+      - [Other](VTOL.md#other) ([Comparison](VTOL.md#other-сomparison))
     - [Copter](Copter.md)
       - [Cyclocopter](Cyclocopter.md#manned)
       - [Jetcopter](Jetcopter.md#manned)
@@ -122,6 +125,8 @@ Enjoy!
 
  
 ### SUAV:Top
+- First strong winds resistant full omnicopter. [AXS-µ1](Omnicopter.md#axs-µ1)
+- First full omnicopter in pre-production. [AXS-µ1](Omnicopter.md#axs-µ1)
 - Largest partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
 - Largest horizontal omnicopter in service. [Astria](Omnicopter.md#astria)
 - Partial omnicopter in service. [Voliro T](Omnicopter.md#voliro-t)
@@ -144,7 +149,9 @@ Enjoy!
 ---
 ### Comparisons
 - [Amphibious aircraft](Airplane.Amphibious.md#comparison)
-- [VTOL](VTOL.md#comparison)
+- VTOL
+  - [Tilt VTOL with fixed rotors](VTOL.md#tilt-vtol-with-fixed-rotors-сomparison)
+  - [Other](VTOL.md#other-сomparison)
 - [Flying car](FlyingCar.md#comparison)
 - [Omnicopter](Omnicopter.md#comparison)
 

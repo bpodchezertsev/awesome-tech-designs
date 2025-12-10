@@ -35,6 +35,7 @@
 
 ## [Omnicopter](Omnicopter.md#suav)
 - [Astria](Omnicopter.md#astria)
+- [AXS-µ1](Omnicopter.md#axs-µ1)
 - [Voliro T](Omnicopter.md#voliro-t)
 - [UCVision's Prototype 1](Omnicopter.md#ucvisions-prototype-1)
 - [OmniQuad](Omnicopter.md#omniquad)
