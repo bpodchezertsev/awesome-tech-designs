@@ -15,7 +15,7 @@ New:
 - First strong winds resistant full omnicopter. [AXS-µ1](Omnicopter.md#axs-µ1)
 - First full omnicopter in pre-production. [AXS-µ1](Omnicopter.md#axs-µ1)
 
-Grouped: [Comparisons](readme.md#comparisons)
+VTOLs grouped: [Comparisons](readme.md#comparisons)
 
 
 ## 2025-11-29
