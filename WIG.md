@@ -71,7 +71,7 @@ Certification: In progress
 
 Site: <https://wigetworks.com/>
 
-![](https://wigetworks.com/wp-content/uploads/2024/08/banner-background.png)
+![](https://wigetworks.com/wp-content/uploads/2024/09/AIRFISH1.png)
 
 Company: [Wigetworks](Company.md#wigetworks)
 
