@@ -71,7 +71,7 @@ Certification: In progress
 
 Site: <https://wigetworks.com/>
 
-![](https://wigetworks.com/wp-content/uploads/2024/09/AIRFISH1.png)
+![](https://stengg.imgix.net/getmedia/f3e844ec-4673-4e86-b842-b2597ddca72f/mills-pro-9-20-opener?width=1200&amp;height=834&amp;ext=.jpg)
 
 Company: [Wigetworks](Company.md#wigetworks)
 
